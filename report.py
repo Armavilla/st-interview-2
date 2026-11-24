@@ -20,6 +20,8 @@ def write_report(raw, ledger, train, val, test, comparison, samples, winner, int
         f"The median first warning preceded a detected removal by {best.median_lead_cycles:.0f} flight cycles. "
         f"An aircraft-level bootstrap gives a 95% interval of {interval[0]:.1%} to {interval[1]:.1%} "
         "for event recall on this simulated population.",
+        "The [independent fleet study](FLEET_STUDY.md) adds a competing-risk model and compares two frozen "
+        "ticket policies on fresh fleets, including how often alerts arrive at least five cycles ahead.",
         "## Data and target",
         f"The assessment supplied no historical records. The fixed-seed simulation produces "
         f"{len(raw):,} end-of-day observations across {raw.aircraft_id.nunique()} aircraft and "

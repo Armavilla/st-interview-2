@@ -60,7 +60,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("observations")
     parser.add_argument("output")
+    parser.add_argument("--model", default=RESULTS / "model.joblib",
+                        help="Fitted assessment bundle to use for batch scoring")
     args = parser.parse_args()
-    bundle = joblib.load(RESULTS / "model.joblib")
+    bundle = joblib.load(args.model)
     latest_scores(bundle, build_features(pd.read_csv(args.observations))).to_csv(
         args.output, index=False, float_format="%.6f")

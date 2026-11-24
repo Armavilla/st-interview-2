@@ -3,11 +3,35 @@ import unittest
 import numpy as np
 import pandas as pd
 
-from features import build_features, derive_labels
+from competing_risks import cumulative_incidence, training_periods
+from features import INPUTS, build_features, derive_labels
+from fleet_study import select_policies
 from policy import event_leads, issue_alerts, split_cohorts
 
 
 class AssessmentChecks(unittest.TestCase):
+    def test_risk_intervals_stop_at_first_exit(self):
+        rows = pd.DataFrame({key: [0] * 4 for key in INPUTS})
+        rows["install_id"] = [1, 2, 3, 4]
+        rows["aircraft_cycle"] = 100
+        rows["cycles_since_install"] = rows.install_id
+        exits = pd.DataFrame({"install_id": [1, 2, 3], "removal_cycle": [105, 106, 130],
+                              "reason": ["unscheduled", "planned", "unscheduled"]})
+        x, y = training_periods(rows, exits)
+        states = x.assign(state=y).groupby("cycles_since_install").state.apply(list).to_dict()
+        self.assertEqual(states, {1: [2], 2: [0, 1], 3: [0, 0, 0, 0, 0, 2], 4: [0]*6})
+
+    def test_planned_exit_removes_future_risk(self):
+        hazards = [np.array([[.5, .4, .1], [0., 1., 0.]]), np.array([[.4, .2, .4], [0., 0., 1.]])]
+        np.testing.assert_allclose(cumulative_incidence(hazards), [[.1,.30], [0.,0.]])
+
+    def test_minimum_ticket_policy_enforces_the_recall_constraint(self):
+        sweep = pd.DataFrame({"threshold": [.1,.5,.9], "event_recall": [.94,.82,.76],
+                              "alerts": [500,90,45], "peak_daily_per_100": [5.,2.,1.]})
+        chosen = select_policies(sweep)
+        self.assertEqual([item["threshold"] for item in chosen], [.1,.5])
+        self.assertEqual(len(select_policies(sweep.iloc[2:])), 1)
+
     def test_future_window_planned_exit_and_censoring(self):
         obs = pd.DataFrame({"aircraft_id": ["AC-001"] * 8,
                             "install_id": [1, 1, 1, 2, 3, 3, 4, 4],

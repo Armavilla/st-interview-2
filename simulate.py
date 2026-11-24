@@ -8,17 +8,17 @@ SEED = 11703
 N_TAILS, SLOTS, DAYS = 160, 8, 480
 
 
-def simulate():
-    rng = np.random.default_rng(SEED)
-    n = N_TAILS * SLOTS
-    tail = np.repeat(np.arange(N_TAILS), SLOTS)
-    slot = np.tile(np.arange(1, SLOTS + 1), N_TAILS)
-    tail_names = np.array([f"AC-{i:03d}" for i in range(N_TAILS)])
-    airframes = np.array(["AF-A", "AF-B"])[np.arange(N_TAILS) % 2]
+def simulate(seed=SEED, n_tails=N_TAILS, days=DAYS, start="2024-01-01"):
+    rng = np.random.default_rng(seed)
+    n = n_tails * SLOTS
+    tail = np.repeat(np.arange(n_tails), SLOTS)
+    slot = np.tile(np.arange(1, SLOTS + 1), n_tails)
+    tail_names = np.array([f"AC-{i:03d}" for i in range(n_tails)])
+    airframes = np.array(["AF-A", "AF-B"])[np.arange(n_tails) % 2]
     types = (tail + slot) % 3
     part_names = np.array(["ROT-A", "ROT-B", "ROT-C"])[types]
-    tail_bias = rng.normal(0, .1, N_TAILS)[tail]
-    tail_cycle = rng.integers(5000, 22000, N_TAILS)
+    tail_bias = rng.normal(0, .1, n_tails)[tail]
+    tail_cycle = rng.integers(5000, 22000, n_tails)
     age = rng.integers(10, 1000, n)
     since_service = np.minimum(age, rng.integers(0, 170, n))
     install = np.arange(1, n + 1)
@@ -27,11 +27,11 @@ def simulate():
     growth = rng.uniform(.024, .047, n)
     transient = np.zeros(n)
     observations, exits = [], []
-    calendar = pd.date_range("2024-01-01", periods=DAYS)
+    calendar = pd.date_range(start, periods=days)
 
     for date in calendar:
         day = date.strftime("%Y-%m-%d")
-        flown = rng.choice([1, 2, 3, 4], N_TAILS, p=[.10, .25, .45, .20])
+        flown = rng.choice([1, 2, 3, 4], n_tails, p=[.10, .25, .45, .20])
         tail_cycle += flown
         cycles = flown[tail]
         age += cycles
@@ -64,7 +64,7 @@ def simulate():
         transient *= .74
         bursts = rng.random(n) < .012
         transient[bursts] += rng.uniform(.35, 1.05, int(bursts.sum()))
-        load = rng.normal(0, 1, N_TAILS)[tail]
+        load = rng.normal(0, 1, n_tails)[tail]
         vibration = (1.6 + .22 * types + tail_bias + .11 * load
                      + 2.25 * wear + 1.15 * transient + rng.normal(0, .24, n))
         temp = (59 + 2.2 * types + 1.2 * load + 9.2 * wear

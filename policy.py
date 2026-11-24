@@ -5,12 +5,12 @@ from sklearn.metrics import average_precision_score
 from features import HORIZON
 
 
-def split_cohorts(frame):
+def split_cohorts(frame, train_end="2024-07-01", validation_end="2024-11-15"):
     tail_number = frame.aircraft_id.str.removeprefix("AC-").astype(int)
-    train = frame[(tail_number < 80) & (frame.date < "2024-07-01")].copy()
-    validation = frame[tail_number.between(80, 119) & frame.date.ge("2024-07-01")
-                       & frame.date.lt("2024-11-15")].copy()
-    test = frame[(tail_number >= 120) & (frame.date >= "2024-11-15")].copy()
+    train = frame[(tail_number < 80) & (frame.date < train_end)].copy()
+    validation = frame[tail_number.between(80, 119) & frame.date.ge(train_end)
+                       & frame.date.lt(validation_end)].copy()
+    test = frame[(tail_number >= 120) & (frame.date >= validation_end)].copy()
     last = train.groupby("aircraft_id").aircraft_cycle.transform("max")
     train = train[last - train.aircraft_cycle >= HORIZON]
     parts = [train, validation, test]

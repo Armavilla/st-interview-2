@@ -2,6 +2,8 @@
 
 **Logistic regression met both targets on the synthetic holdout.** It flagged 70 of 83 actual unscheduled removals (84.3%). The maintenance queue received 4.18 new tickets per 100 active components per day, with a daily peak of 5.00. The median first warning preceded a detected removal by 20 flight cycles. An aircraft-level bootstrap gives a 95% interval of 76.5% to 91.4% for event recall on this simulated population.
 
+The [independent fleet study](FLEET_STUDY.md) adds a competing-risk model and compares two frozen ticket policies on fresh fleets, including how often alerts arrive at least five cycles ahead.
+
 ## Data and target
 
 The assessment supplied no historical records. The fixed-seed simulation produces 614,400 end-of-day observations across 160 aircraft and 2,634 serials. The ledger contains 1,135 unscheduled exits and 221 planned exits. A hidden degradation process, temporary load excursions and independent sudden failures drive the mock fleet. Replacement retires the old serial before the new end-of-day snapshot is scored. Among 600,090 resolved records, 1.99% are positive. Another 14,310 have incomplete follow-up.
