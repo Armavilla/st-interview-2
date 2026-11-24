@@ -1,0 +1,4 @@
+case,date,aircraft_id,serial,risk_score,decision,prior_ticket_lead_cycles,outcome,main_factors
+Detected removal,2024-12-12,AC-144,SN-001157,0.998817,Ticket opened,,Unscheduled removal in 7 cycles,"vibration=4.25 mm/s, 3-reading mean=4.05 (score +0.895) | temperature=74.0 C, 3-reading mean=71.5 (score +0.011)"
+False alert,2024-12-06,AC-157,SN-001263,0.859675,Ticket opened,,No unscheduled removal in 30 cycles,"vibration=3.02 mm/s, 3-reading mean=3.07 (score +0.807) | temperature=68.0 C, 3-reading mean=69.8 (score +0.306)"
+Missed removal,2024-12-31,AC-139,SN-001630,0.999829,Earlier ticket still open,31.000000,Unscheduled removal in 3 cycles,"vibration=4.00 mm/s, 3-reading mean=3.82 (score +0.331) | fault=THERM, 4 flagged reports in last 5 (score +0.002)"

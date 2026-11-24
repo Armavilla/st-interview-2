@@ -1,0 +1,1281 @@
+date,aircraft_id,position,serial,install_id,aircraft_cycle,part_family,history_days,risk_score,main_factors
+2025-04-24,AC-143,2,SN-002155,2155,22751,ROT-B,5,0.999446,"vibration=3.85 mm/s, 3-reading mean=3.72 (score +0.501) | fault=THERM, 3 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-059,1,SN-002613,2613,8676,ROT-A,5,0.999105,"vibration=3.87 mm/s, 3-reading mean=3.53 (score +0.523) | families AF-B/ROT-A (score +0.010)"
+2025-04-24,AC-071,6,SN-000574,574,13127,ROT-C,5,0.993157,"vibration=3.98 mm/s, 3-reading mean=3.66 (score +0.924) | temperature=72.1 C, 3-reading mean=71.0 (score +0.046)"
+2025-04-24,AC-098,8,SN-001955,1955,10014,ROT-B,5,0.989835,"vibration=3.78 mm/s, 3-reading mean=3.59 (score +0.916) | families AF-A/ROT-B (score +0.032)"
+2025-04-24,AC-140,6,SN-001339,1339,12946,ROT-C,5,0.979174,"vibration=3.93 mm/s, 3-reading mean=3.85 (score +0.962) | temperature=missing C, 3-reading mean=70.9 (score +0.041)"
+2025-04-24,AC-100,5,SN-002096,2096,22341,ROT-A,5,0.970552,"vibration=3.42 mm/s, 3-reading mean=2.90 (score +0.786) | families AF-A/ROT-A (score +0.231)"
+2025-04-24,AC-127,7,SN-001023,1023,20555,ROT-C,5,0.964932,"vibration=3.74 mm/s, 3-reading mean=3.31 (score +0.922) | temperature=68.7 C, 3-reading mean=67.8 (score +0.094)"
+2025-04-24,AC-159,3,SN-002311,2311,20556,ROT-A,5,0.933880,"vibration=missing mm/s, 3-reading mean=3.17 (score +0.656) | families AF-B/ROT-A (score +0.400)"
+2025-04-24,AC-067,2,SN-002111,2111,22595,ROT-A,5,0.897157,"vibration=3.12 mm/s, 3-reading mean=2.93 (score +0.813) | families AF-B/ROT-A (score +0.483)"
+2025-04-24,AC-041,7,SN-001464,1464,10827,ROT-A,5,0.890795,"vibration=missing mm/s, 3-reading mean=2.86 (score +0.585) | families AF-B/ROT-A (score +0.493)"
+2025-04-24,AC-000,1,SN-001416,1416,21202,ROT-B,5,0.840715,"vibration=missing mm/s, 3-reading mean=3.47 (score +0.772) | families AF-A/ROT-B (score +0.287)"
+2025-04-24,AC-066,1,SN-002191,2191,16976,ROT-B,5,0.837364,"vibration=3.09 mm/s, 3-reading mean=3.13 (score +0.803) | families AF-A/ROT-B (score +0.290)"
+2025-04-24,AC-117,8,SN-002039,2039,22840,ROT-C,5,0.821387,"vibration=3.23 mm/s, 3-reading mean=3.03 (score +0.790) | temperature=70.8 C, 3-reading mean=67.7 (score +0.332)"
+2025-04-24,AC-013,2,SN-002355,2355,12957,ROT-A,5,0.809194,"vibration=2.87 mm/s, 3-reading mean=2.30 (score +0.595) | families AF-B/ROT-A (score +0.553)"
+2025-04-24,AC-051,7,SN-000415,415,10272,ROT-B,5,0.795711,"vibration=2.45 mm/s, 3-reading mean=2.48 (score +0.550) | fault=THERM, 2 flagged reports in last 5 (score +0.383)"
+2025-04-24,AC-008,5,SN-001893,1893,14118,ROT-B,5,0.767116,"vibration=3.31 mm/s, 3-reading mean=2.77 (score +0.732) | families AF-A/ROT-B (score +0.331)"
+2025-04-24,AC-053,1,SN-001937,1937,15563,ROT-A,5,0.703886,"vibration=2.50 mm/s, 3-reading mean=2.97 (score +0.645) | families AF-B/ROT-A (score +0.542)"
+2025-04-24,AC-046,6,SN-002585,2585,18919,ROT-B,5,0.695316,"vibration=2.65 mm/s, 3-reading mean=2.79 (score +0.630) | families AF-A/ROT-B (score +0.346)"
+2025-04-24,AC-046,5,SN-001782,1782,18919,ROT-A,5,0.678335,"vibration=2.61 mm/s, 3-reading mean=2.49 (score +0.560) | families AF-A/ROT-A (score +0.525)"
+2025-04-24,AC-037,6,SN-001929,1929,11058,ROT-B,5,0.674850,"vibration=2.44 mm/s, 3-reading mean=2.58 (score +0.550) | families AF-B/ROT-B (score +0.360)"
+2025-04-24,AC-006,4,SN-001747,1747,20423,ROT-B,5,0.665659,"vibration=3.07 mm/s, 3-reading mean=2.74 (score +0.632) | families AF-A/ROT-B (score +0.347)"
+2025-04-24,AC-131,1,SN-001390,1390,14111,ROT-A,5,0.662885,"vibration=2.27 mm/s, 3-reading mean=2.68 (score +0.539) | families AF-B/ROT-A (score +0.525)"
+2025-04-24,AC-139,5,SN-002398,2398,10693,ROT-A,5,0.565481,"families AF-B/ROT-A (score +0.470) | vibration=2.62 mm/s, 3-reading mean=1.99 (score +0.369)"
+2025-04-24,AC-000,4,SN-001295,1295,21202,ROT-B,5,0.530034,"vibration=2.64 mm/s, 3-reading mean=2.40 (score +0.453) | families AF-A/ROT-B (score +0.321)"
+2025-04-24,AC-030,7,SN-002416,2416,18400,ROT-B,5,0.520106,"vibration=2.75 mm/s, 3-reading mean=2.33 (score +0.447) | families AF-A/ROT-B (score +0.317)"
+2025-04-24,AC-084,5,SN-000677,677,17846,ROT-C,5,0.513279,"vibration=2.53 mm/s, 3-reading mean=2.38 (score +0.425) | fault=THERM, 2 flagged reports in last 5 (score +0.353)"
+2025-04-24,AC-081,1,SN-000649,649,8712,ROT-B,5,0.510096,"vibration=2.76 mm/s, 3-reading mean=2.33 (score +0.442) | families AF-B/ROT-B (score +0.323)"
+2025-04-24,AC-085,8,SN-000688,688,13690,ROT-A,5,0.491201,"families AF-B/ROT-A (score +0.419) | vibration=2.32 mm/s, 3-reading mean=2.17 (score +0.326)"
+2025-04-24,AC-013,1,SN-002151,2151,12957,ROT-C,5,0.445870,"vibration=2.88 mm/s, 3-reading mean=2.88 (score +0.432) | temperature=67.7 C, 3-reading mean=66.3 (score +0.241)"
+2025-04-24,AC-005,5,SN-001684,1684,17694,ROT-B,5,0.444375,"vibration=2.55 mm/s, 3-reading mean=2.40 (score +0.381) | families AF-B/ROT-B (score +0.294)"
+2025-04-24,AC-007,2,SN-000058,58,10619,ROT-A,5,0.419917,"families AF-B/ROT-A (score +0.365) | vibration=2.44 mm/s, 3-reading mean=2.15 (score +0.307)"
+2025-04-24,AC-125,8,SN-002464,2464,8035,ROT-B,5,0.418839,"vibration=2.66 mm/s, 3-reading mean=2.27 (score +0.355) | families AF-B/ROT-B (score +0.281)"
+2025-04-24,AC-123,6,SN-000990,990,15444,ROT-A,5,0.412764,"families AF-B/ROT-A (score +0.359) | vibration=2.48 mm/s, 3-reading mean=2.27 (score +0.330)"
+2025-04-24,AC-017,7,SN-000143,143,7409,ROT-A,5,0.364726,"families AF-B/ROT-A (score +0.320) | vibration=2.32 mm/s, 3-reading mean=2.19 (score +0.262)"
+2025-04-24,AC-123,8,SN-001573,1573,15444,ROT-C,5,0.356776,"vibration=2.83 mm/s, 3-reading mean=2.60 (score +0.338) | temperature=68.7 C, 3-reading mean=66.1 (score +0.213)"
+2025-04-24,AC-136,4,SN-001959,1959,18266,ROT-C,5,0.341344,"vibration=2.72 mm/s, 3-reading mean=2.65 (score +0.322) | temperature=67.0 C, 3-reading mean=65.5 (score +0.178)"
+2025-04-24,AC-145,2,SN-001459,1459,22768,ROT-A,5,0.341055,"families AF-B/ROT-A (score +0.301) | vibration=2.57 mm/s, 3-reading mean=2.12 (score +0.267)"
+2025-04-24,AC-042,8,SN-000344,344,10630,ROT-C,5,0.334834,"vibration=2.72 mm/s, 3-reading mean=2.61 (score +0.315) | temperature=65.5 C, 3-reading mean=64.8 (score +0.144)"
+2025-04-24,AC-013,8,SN-000112,112,12957,ROT-A,5,0.332767,"families AF-B/ROT-A (score +0.294) | vibration=2.24 mm/s, 3-reading mean=2.22 (score +0.238)"
+2025-04-24,AC-012,2,SN-002090,2090,7158,ROT-C,5,0.327237,"vibration=2.62 mm/s, 3-reading mean=2.41 (score +0.292) | fault=THERM, 1 flagged reports in last 5 (score +0.203)"
+2025-04-24,AC-098,3,SN-000787,787,10014,ROT-C,5,0.323598,"vibration=2.67 mm/s, 3-reading mean=2.76 (score +0.309) | temperature=62.8 C, 3-reading mean=64.5 (score +0.100)"
+2025-04-24,AC-050,1,SN-000401,401,18458,ROT-A,5,0.319923,"families AF-A/ROT-A (score +0.281) | vibration=2.45 mm/s, 3-reading mean=2.10 (score +0.236)"
+2025-04-24,AC-089,5,SN-002296,2296,7409,ROT-B,5,0.319172,"vibration=missing mm/s, 3-reading mean=2.69 (score +0.283) | families AF-B/ROT-B (score +0.225)"
+2025-04-24,AC-100,7,SN-000807,807,22341,ROT-C,5,0.313096,"vibration=2.92 mm/s, 3-reading mean=2.55 (score +0.298) | temperature=66.0 C, 3-reading mean=63.9 (score +0.127)"
+2025-04-24,AC-063,7,SN-000511,511,6342,ROT-B,5,0.310705,"families AF-B/ROT-B (score +0.220) | fault=VIB, 2 flagged reports in last 5 (score +0.183)"
+2025-04-24,AC-149,4,SN-001395,1395,11158,ROT-A,5,0.300951,"families AF-B/ROT-A (score +0.267) | vibration=missing mm/s, 3-reading mean=2.29 (score +0.225)"
+2025-04-24,AC-128,5,SN-002341,2341,13220,ROT-B,5,0.276187,"vibration=2.41 mm/s, 3-reading mean=2.08 (score +0.198) | families AF-A/ROT-B (score +0.194)"
+2025-04-24,AC-028,7,SN-001952,1952,11816,ROT-C,5,0.270835,"vibration=2.78 mm/s, 3-reading mean=2.33 (score +0.246) | temperature=70.4 C, 3-reading mean=68.4 (score +0.203)"
+2025-04-24,AC-155,6,SN-001246,1246,16405,ROT-C,5,0.268620,"vibration=2.17 mm/s, 3-reading mean=2.30 (score +0.200) | temperature=67.0 C, 3-reading mean=66.8 (score +0.163)"
+2025-04-24,AC-013,7,SN-000111,111,12957,ROT-C,5,0.261448,"vibration=2.60 mm/s, 3-reading mean=2.52 (score +0.240) | temperature=66.6 C, 3-reading mean=66.1 (score +0.148)"
+2025-04-24,AC-034,6,SN-001494,1494,8442,ROT-B,5,0.245605,"vibration=2.33 mm/s, 3-reading mean=2.41 (score +0.208) | families AF-A/ROT-B (score +0.175)"
+2025-04-24,AC-070,3,SN-002377,2377,19957,ROT-B,5,0.245473,"vibration=2.67 mm/s, 3-reading mean=2.42 (score +0.224) | families AF-A/ROT-B (score +0.174)"
+2025-04-24,AC-013,6,SN-002514,2514,12957,ROT-B,5,0.240588,"vibration=2.35 mm/s, 3-reading mean=2.35 (score +0.200) | families AF-B/ROT-B (score +0.175)"
+2025-04-24,AC-142,1,SN-001729,1729,16742,ROT-C,5,0.237366,"vibration=2.51 mm/s, 3-reading mean=2.53 (score +0.216) | temperature=64.2 C, 3-reading mean=67.0 (score +0.129)"
+2025-04-24,AC-141,2,SN-002595,2595,7685,ROT-C,5,0.225494,"vibration=2.71 mm/s, 3-reading mean=2.46 (score +0.209) | temperature=65.5 C, 3-reading mean=64.4 (score +0.102)"
+2025-04-24,AC-088,7,SN-002470,2470,8745,ROT-C,5,0.223135,"fault=THERM, 2 flagged reports in last 5 (score +0.174) | vibration=2.28 mm/s, 3-reading mean=2.19 (score +0.166)"
+2025-04-24,AC-088,5,SN-000709,709,8745,ROT-A,5,0.218761,"families AF-A/ROT-A (score +0.195) | vibration=2.11 mm/s, 3-reading mean=2.06 (score +0.123)"
+2025-04-24,AC-131,8,SN-001056,1056,14111,ROT-B,5,0.212952,"vibration=2.64 mm/s, 3-reading mean=2.43 (score +0.194) | families AF-B/ROT-B (score +0.156)"
+2025-04-24,AC-028,1,SN-002105,2105,11816,ROT-C,5,0.212301,"vibration=2.52 mm/s, 3-reading mean=2.21 (score +0.177) | fault=THERM, 1 flagged reports in last 5 (score +0.140)"
+2025-04-24,AC-019,6,SN-000158,158,18551,ROT-B,5,0.209971,"fault=THERM, 2 flagged reports in last 5 (score +0.164) | families AF-B/ROT-B (score +0.154)"
+2025-04-24,AC-112,2,SN-002322,2322,9923,ROT-A,5,0.204141,"families AF-A/ROT-A (score +0.183) | vibration=2.60 mm/s, 3-reading mean=2.00 (score +0.157)"
+2025-04-24,AC-095,5,SN-001648,1648,22654,ROT-B,5,0.202782,"families AF-B/ROT-B (score +0.149) | fault=THERM, 1 flagged reports in last 5 (score +0.134)"
+2025-04-24,AC-012,1,SN-001599,1599,7158,ROT-B,5,0.201568,"vibration=2.33 mm/s, 3-reading mean=2.46 (score +0.175) | families AF-A/ROT-B (score +0.146)"
+2025-04-24,AC-158,7,SN-001271,1271,9811,ROT-A,5,0.197901,"families AF-A/ROT-A (score +0.177) | vibration=2.26 mm/s, 3-reading mean=2.10 (score +0.136)"
+2025-04-24,AC-009,3,SN-000075,75,9580,ROT-A,5,0.195540,"families AF-B/ROT-A (score +0.176) | vibration=2.08 mm/s, 3-reading mean=2.23 (score +0.134)"
+2025-04-24,AC-043,6,SN-001561,1561,8526,ROT-B,5,0.195187,"families AF-B/ROT-B (score +0.144) | vibration=2.22 mm/s, 3-reading mean=2.12 (score +0.132)"
+2025-04-24,AC-043,7,SN-002337,2337,8526,ROT-C,5,0.191266,"vibration=2.67 mm/s, 3-reading mean=2.56 (score +0.180) | temperature=66.6 C, 3-reading mean=65.5 (score +0.107)"
+2025-04-24,AC-123,1,SN-000985,985,15444,ROT-B,5,0.190158,"families AF-B/ROT-B (score +0.141) | vibration=2.19 mm/s, 3-reading mean=1.95 (score +0.101)"
+2025-04-24,AC-028,5,SN-001536,1536,11816,ROT-A,5,0.184695,"families AF-A/ROT-A (score +0.166) | vibration=missing mm/s, 3-reading mean=2.08 (score +0.121)"
+2025-04-24,AC-063,8,SN-000512,512,6342,ROT-C,5,0.183428,"vibration=2.27 mm/s, 3-reading mean=2.11 (score +0.129) | fault=THERM, 1 flagged reports in last 5 (score +0.122)"
+2025-04-24,AC-091,5,SN-002409,2409,10452,ROT-A,5,0.176046,"families AF-B/ROT-A (score +0.159) | fault=THERM, 1 flagged reports in last 5 (score +0.118)"
+2025-04-24,AC-141,5,SN-001133,1133,7685,ROT-C,5,0.169792,"vibration=2.81 mm/s, 3-reading mean=2.39 (score +0.158) | install age=1679 cycles, since service=35 (score +0.053)"
+2025-04-24,AC-059,5,SN-001391,1391,8676,ROT-B,5,0.162301,"vibration=2.54 mm/s, 3-reading mean=2.28 (score +0.141) | families AF-B/ROT-B (score +0.121)"
+2025-04-24,AC-056,5,SN-000453,453,12667,ROT-B,5,0.159715,"families AF-A/ROT-B (score +0.117) | vibration=2.13 mm/s, 3-reading mean=2.21 (score +0.113)"
+2025-04-24,AC-101,1,SN-000809,809,16852,ROT-A,5,0.158577,"families AF-B/ROT-A (score +0.144) | vibration=1.94 mm/s, 3-reading mean=2.08 (score +0.077)"
+2025-04-24,AC-028,4,SN-000228,228,11816,ROT-C,5,0.156572,"vibration=2.42 mm/s, 3-reading mean=2.40 (score +0.137) | temperature=67.3 C, 3-reading mean=65.6 (score +0.093)"
+2025-04-24,AC-122,7,SN-002602,2602,14161,ROT-A,5,0.153043,"families AF-A/ROT-A (score +0.138) | vibration=1.98 mm/s, 3-reading mean=2.32 (score +0.108)"
+2025-04-24,AC-115,6,SN-001496,1496,9791,ROT-B,5,0.149368,"vibration=2.30 mm/s, 3-reading mean=2.35 (score +0.125) | families AF-B/ROT-B (score +0.112)"
+2025-04-24,AC-097,2,SN-002539,2539,6429,ROT-A,5,0.145246,"families AF-B/ROT-A (score +0.132) | vibration=2.02 mm/s, 3-reading mean=2.00 (score +0.068)"
+2025-04-24,AC-021,2,SN-001468,1468,11601,ROT-C,5,0.144360,"vibration=2.85 mm/s, 3-reading mean=2.16 (score +0.129) | temperature=69.1 C, 3-reading mean=66.5 (score +0.100)"
+2025-04-24,AC-026,7,SN-000215,215,8569,ROT-A,5,0.144113,"families AF-A/ROT-A (score +0.130) | temperature=64.2 C, 3-reading mean=64.2 (score +0.059)"
+2025-04-24,AC-061,3,SN-002049,2049,14069,ROT-B,5,0.141696,"families AF-B/ROT-B (score +0.106) | vibration=2.10 mm/s, 3-reading mean=2.29 (score +0.105)"
+2025-04-24,AC-123,3,SN-001741,1741,15444,ROT-A,5,0.141045,"families AF-B/ROT-A (score +0.128) | vibration=2.19 mm/s, 3-reading mean=2.08 (score +0.092)"
+2025-04-24,AC-001,4,SN-002323,2323,20506,ROT-C,5,0.136453,"vibration=2.34 mm/s, 3-reading mean=2.77 (score +0.128) | temperature=63.8 C, 3-reading mean=65.4 (score +0.064)"
+2025-04-24,AC-113,8,SN-001833,1833,12078,ROT-B,5,0.131024,"vibration=2.54 mm/s, 3-reading mean=2.05 (score +0.103) | families AF-B/ROT-B (score +0.099)"
+2025-04-24,AC-130,3,SN-001512,1512,7262,ROT-B,5,0.128861,"vibration=2.22 mm/s, 3-reading mean=2.24 (score +0.099) | families AF-A/ROT-B (score +0.095)"
+2025-04-24,AC-096,1,SN-002079,2079,10154,ROT-B,5,0.125365,"vibration=2.56 mm/s, 3-reading mean=2.01 (score +0.097) | families AF-A/ROT-B (score +0.093)"
+2025-04-24,AC-053,3,SN-000427,427,15563,ROT-C,5,0.123973,"vibration=2.25 mm/s, 3-reading mean=2.53 (score +0.109) | fault=NONE, 1 flagged reports in last 5 (score +0.043)"
+2025-04-24,AC-112,8,SN-000904,904,9923,ROT-A,5,0.123380,"families AF-A/ROT-A (score +0.111) | vibration=1.99 mm/s, 3-reading mean=1.93 (score +0.045)"
+2025-04-24,AC-147,7,SN-001183,1183,8731,ROT-B,5,0.119837,"families AF-B/ROT-B (score +0.091) | vibration=missing mm/s, 3-reading mean=1.99 (score +0.072)"
+2025-04-24,AC-012,3,SN-000099,99,7158,ROT-A,5,0.116803,"families AF-A/ROT-A (score +0.106) | vibration=2.04 mm/s, 3-reading mean=2.03 (score +0.062)"
+2025-04-24,AC-131,2,SN-001050,1050,14111,ROT-B,5,0.114012,"families AF-B/ROT-B (score +0.086) | vibration=2.12 mm/s, 3-reading mean=2.11 (score +0.073)"
+2025-04-24,AC-013,4,SN-001572,1572,12957,ROT-C,5,0.113071,"vibration=2.40 mm/s, 3-reading mean=2.44 (score +0.101) | temperature=66.0 C, 3-reading mean=64.3 (score +0.056)"
+2025-04-24,AC-000,5,SN-001398,1398,21202,ROT-C,5,0.110940,"vibration=2.43 mm/s, 3-reading mean=2.58 (score +0.102) | temperature=64.4 C, 3-reading mean=63.9 (score +0.045)"
+2025-04-24,AC-121,6,SN-000974,974,7482,ROT-B,5,0.109393,"families AF-B/ROT-B (score +0.083) | vibration=missing mm/s, 3-reading mean=2.06 (score +0.072)"
+2025-04-24,AC-156,1,SN-001249,1249,17394,ROT-B,5,0.109037,"families AF-A/ROT-B (score +0.081) | temperature=65.7 C, 3-reading mean=64.0 (score +0.051)"
+2025-04-24,AC-046,8,SN-002078,2078,18919,ROT-A,5,0.108638,"families AF-A/ROT-A (score +0.098) | vibration=missing mm/s, 3-reading mean=1.91 (score +0.057)"
+2025-04-24,AC-014,7,SN-001659,1659,22014,ROT-A,5,0.108075,"families AF-A/ROT-A (score +0.098) | vibration=1.90 mm/s, 3-reading mean=1.92 (score +0.028)"
+2025-04-24,AC-079,7,SN-001809,1809,10394,ROT-C,5,0.107003,"vibration=2.43 mm/s, 3-reading mean=2.44 (score +0.096) | temperature=65.8 C, 3-reading mean=64.2 (score +0.052)"
+2025-04-24,AC-155,3,SN-002000,2000,16405,ROT-C,5,0.106742,"vibration=2.79 mm/s, 3-reading mean=2.25 (score +0.097) | temperature=67.0 C, 3-reading mean=64.1 (score +0.056)"
+2025-04-24,AC-109,4,SN-001618,1618,11457,ROT-C,5,0.105888,"vibration=2.43 mm/s, 3-reading mean=2.29 (score +0.090) | temperature=66.0 C, 3-reading mean=66.0 (score +0.062)"
+2025-04-24,AC-028,3,SN-000227,227,11816,ROT-B,5,0.104584,"vibration=2.20 mm/s, 3-reading mean=2.22 (score +0.079) | families AF-A/ROT-B (score +0.078)"
+2025-04-24,AC-108,6,SN-002530,2530,18420,ROT-A,5,0.103673,"families AF-A/ROT-A (score +0.094) | vibration=missing mm/s, 3-reading mean=1.96 (score +0.059)"
+2025-04-24,AC-026,2,SN-001350,1350,8569,ROT-B,5,0.102901,"families AF-A/ROT-B (score +0.077) | vibration=2.42 mm/s, 3-reading mean=1.96 (score +0.072)"
+2025-04-24,AC-011,3,SN-000091,91,12272,ROT-C,5,0.102649,"temperature=68.2 C, 3-reading mean=68.1 (score +0.075) | vibration=2.05 mm/s, 3-reading mean=2.17 (score +0.067)"
+2025-04-24,AC-082,5,SN-000661,661,12608,ROT-A,5,0.099110,"families AF-A/ROT-A (score +0.090) | fault=NONE, 1 flagged reports in last 5 (score +0.035)"
+2025-04-24,AC-016,3,SN-000131,131,19988,ROT-B,5,0.098067,"families AF-A/ROT-B (score +0.073) | vibration=2.34 mm/s, 3-reading mean=2.08 (score +0.072)"
+2025-04-24,AC-149,5,SN-001197,1197,11158,ROT-B,5,0.098061,"families AF-B/ROT-B (score +0.075) | vibration=2.22 mm/s, 3-reading mean=1.99 (score +0.060)"
+2025-04-24,AC-047,6,SN-000382,382,9158,ROT-C,5,0.096635,"vibration=2.20 mm/s, 3-reading mean=2.25 (score +0.074) | install age=1993 cycles, since service=15 (score +0.039)"
+2025-04-24,AC-139,7,SN-001119,1119,10693,ROT-C,5,0.096546,"vibration=2.65 mm/s, 3-reading mean=2.09 (score +0.081) | temperature=66.9 C, 3-reading mean=64.2 (score +0.051)"
+2025-04-24,AC-045,7,SN-001738,1738,14248,ROT-B,5,0.095361,"families AF-B/ROT-B (score +0.073) | vibration=1.96 mm/s, 3-reading mean=2.19 (score +0.060)"
+2025-04-24,AC-138,2,SN-001106,1106,12395,ROT-C,5,0.094329,"vibration=2.24 mm/s, 3-reading mean=2.46 (score +0.081) | fault=NONE, 1 flagged reports in last 5 (score +0.034)"
+2025-04-24,AC-117,4,SN-000940,940,22840,ROT-B,5,0.093818,"families AF-B/ROT-B (score +0.071) | vibration=2.16 mm/s, 3-reading mean=2.01 (score +0.056)"
+2025-04-24,AC-035,6,SN-000286,286,6981,ROT-C,5,0.093146,"vibration=2.45 mm/s, 3-reading mean=2.41 (score +0.083) | temperature=62.0 C, 3-reading mean=63.6 (score +0.024)"
+2025-04-24,AC-091,6,SN-002263,2263,10452,ROT-B,5,0.092835,"families AF-B/ROT-B (score +0.071) | vibration=2.21 mm/s, 3-reading mean=2.09 (score +0.063)"
+2025-04-24,AC-141,7,SN-002315,2315,7685,ROT-B,5,0.092728,"families AF-B/ROT-B (score +0.071) | vibration=2.18 mm/s, 3-reading mean=2.13 (score +0.064)"
+2025-04-24,AC-092,2,SN-000738,738,21297,ROT-B,5,0.092500,"families AF-A/ROT-B (score +0.069) | vibration=2.16 mm/s, 3-reading mean=1.86 (score +0.041)"
+2025-04-24,AC-102,2,SN-001524,1524,15595,ROT-C,5,0.091783,"vibration=2.60 mm/s, 3-reading mean=2.39 (score +0.084) | temperature=63.4 C, 3-reading mean=63.0 (score +0.026)"
+2025-04-24,AC-141,4,SN-001132,1132,7685,ROT-B,5,0.091069,"families AF-B/ROT-B (score +0.069) | vibration=1.97 mm/s, 3-reading mean=2.10 (score +0.050)"
+2025-04-24,AC-143,4,SN-002540,2540,22751,ROT-A,5,0.090944,"families AF-B/ROT-A (score +0.083) | vibration=1.83 mm/s, 3-reading mean=2.17 (score +0.046)"
+2025-04-24,AC-156,6,SN-001254,1254,17394,ROT-A,5,0.090127,"families AF-A/ROT-A (score +0.082) | install age=1425 cycles, since service=82 (score +0.023)"
+2025-04-24,AC-001,1,SN-002270,2270,20506,ROT-C,5,0.089953,"vibration=2.57 mm/s, 3-reading mean=2.17 (score +0.076) | temperature=66.5 C, 3-reading mean=63.7 (score +0.044)"
+2025-04-24,AC-141,1,SN-001129,1129,7685,ROT-B,5,0.088970,"families AF-B/ROT-B (score +0.068) | vibration=missing mm/s, 3-reading mean=2.09 (score +0.061)"
+2025-04-24,AC-007,7,SN-001716,1716,10619,ROT-C,5,0.088334,"vibration=2.62 mm/s, 3-reading mean=2.36 (score +0.080) | temperature=65.7 C, 3-reading mean=65.3 (score +0.048)"
+2025-04-24,AC-123,5,SN-002214,2214,15444,ROT-C,5,0.087294,"vibration=2.64 mm/s, 3-reading mean=2.37 (score +0.080) | temperature=64.8 C, 3-reading mean=63.5 (score +0.035)"
+2025-04-24,AC-016,7,SN-002605,2605,19988,ROT-C,5,0.086633,"vibration=2.43 mm/s, 3-reading mean=2.26 (score +0.073) | temperature=68.5 C, 3-reading mean=65.8 (score +0.057)"
+2025-04-24,AC-154,8,SN-001240,1240,13734,ROT-A,5,0.086571,"families AF-A/ROT-A (score +0.078) | vibration=2.20 mm/s, 3-reading mean=1.75 (score +0.030)"
+2025-04-24,AC-097,1,SN-001603,1603,6429,ROT-C,5,0.086415,"vibration=missing mm/s, 3-reading mean=2.23 (score +0.066) | temperature=67.3 C, 3-reading mean=65.6 (score +0.053)"
+2025-04-24,AC-043,8,SN-000352,352,8526,ROT-A,5,0.086099,"families AF-B/ROT-A (score +0.079) | fault=NONE, 1 flagged reports in last 5 (score +0.031)"
+2025-04-24,AC-123,4,SN-002245,2245,15444,ROT-B,5,0.085264,"families AF-B/ROT-B (score +0.065) | vibration=2.22 mm/s, 3-reading mean=2.14 (score +0.062)"
+2025-04-24,AC-048,1,SN-002390,2390,17224,ROT-B,5,0.085200,"vibration=2.51 mm/s, 3-reading mean=2.05 (score +0.067) | families AF-A/ROT-B (score +0.064)"
+2025-04-24,AC-087,4,SN-001298,1298,20417,ROT-B,5,0.085074,"families AF-B/ROT-B (score +0.065) | vibration=2.23 mm/s, 3-reading mean=2.07 (score +0.058)"
+2025-04-24,AC-135,7,SN-002361,2361,18122,ROT-B,5,0.085049,"families AF-B/ROT-B (score +0.065) | vibration=1.93 mm/s, 3-reading mean=2.35 (score +0.062)"
+2025-04-24,AC-122,6,SN-000982,982,14161,ROT-C,5,0.084828,"vibration=2.17 mm/s, 3-reading mean=2.44 (score +0.071) | temperature=64.6 C, 3-reading mean=64.2 (score +0.037)"
+2025-04-24,AC-138,3,SN-001107,1107,12395,ROT-A,5,0.084476,"families AF-A/ROT-A (score +0.077) | vibration=1.79 mm/s, 3-reading mean=2.08 (score +0.032)"
+2025-04-24,AC-022,7,SN-001718,1718,22490,ROT-C,5,0.084391,"vibration=2.04 mm/s, 3-reading mean=2.45 (score +0.069) | temperature=64.8 C, 3-reading mean=64.9 (score +0.041)"
+2025-04-24,AC-017,1,SN-001700,1700,7409,ROT-A,5,0.083703,"families AF-B/ROT-A (score +0.076) | fault=NONE, 2 flagged reports in last 5 (score +0.050)"
+2025-04-24,AC-088,6,SN-000710,710,8745,ROT-B,5,0.083433,"families AF-A/ROT-B (score +0.062) | vibration=2.27 mm/s, 3-reading mean=2.07 (score +0.058)"
+2025-04-24,AC-089,4,SN-002570,2570,7409,ROT-A,5,0.083245,"families AF-B/ROT-A (score +0.076) | vibration=2.16 mm/s, 3-reading mean=1.96 (score +0.045)"
+2025-04-24,AC-045,4,SN-000364,364,14248,ROT-B,5,0.082981,"families AF-B/ROT-B (score +0.063) | fault=NONE, 1 flagged reports in last 5 (score +0.030)"
+2025-04-24,AC-092,8,SN-001612,1612,21297,ROT-B,5,0.082810,"vibration=2.18 mm/s, 3-reading mean=2.25 (score +0.064) | families AF-A/ROT-B (score +0.062)"
+2025-04-24,AC-014,4,SN-002226,2226,22014,ROT-A,5,0.082418,"families AF-A/ROT-A (score +0.075) | vibration=2.04 mm/s, 3-reading mean=1.98 (score +0.040)"
+2025-04-24,AC-053,2,SN-002281,2281,15563,ROT-B,5,0.082327,"families AF-B/ROT-B (score +0.063) | vibration=2.20 mm/s, 3-reading mean=2.21 (score +0.062)"
+2025-04-24,AC-115,3,SN-001479,1479,9791,ROT-B,5,0.082215,"families AF-B/ROT-B (score +0.063) | vibration=2.28 mm/s, 3-reading mean=1.97 (score +0.052)"
+2025-04-24,AC-096,8,SN-002616,2616,10154,ROT-C,5,0.082105,"vibration=missing mm/s, 3-reading mean=2.63 (score +0.074) | temperature=64.2 C, 3-reading mean=65.1 (score +0.040)"
+2025-04-24,AC-025,3,SN-002615,2615,6739,ROT-B,5,0.081446,"families AF-B/ROT-B (score +0.062) | vibration=2.33 mm/s, 3-reading mean=2.12 (score +0.062)"
+2025-04-24,AC-076,7,SN-000615,615,10575,ROT-C,5,0.081010,"vibration=2.50 mm/s, 3-reading mean=2.23 (score +0.069) | temperature=63.0 C, 3-reading mean=64.5 (score +0.031)"
+2025-04-24,AC-098,1,SN-001783,1783,10014,ROT-A,5,0.080768,"families AF-A/ROT-A (score +0.073) | vibration=2.39 mm/s, 3-reading mean=2.02 (score +0.058)"
+2025-04-24,AC-064,8,SN-001427,1427,19793,ROT-A,5,0.080000,"families AF-A/ROT-A (score +0.073) | vibration=1.97 mm/s, 3-reading mean=2.06 (score +0.041)"
+2025-04-24,AC-147,8,SN-002187,2187,8731,ROT-C,5,0.079892,"vibration=2.38 mm/s, 3-reading mean=2.42 (score +0.071) | temperature=64.4 C, 3-reading mean=65.8 (score +0.042)"
+2025-04-24,AC-121,4,SN-000972,972,7482,ROT-C,5,0.079764,"vibration=2.38 mm/s, 3-reading mean=2.47 (score +0.071) | temperature=64.9 C, 3-reading mean=62.4 (score +0.026)"
+2025-04-24,AC-013,3,SN-002429,2429,12957,ROT-B,5,0.079355,"families AF-B/ROT-B (score +0.061) | vibration=2.41 mm/s, 3-reading mean=2.07 (score +0.060)"
+2025-04-24,AC-073,3,SN-001636,1636,18199,ROT-B,5,0.079274,"families AF-B/ROT-B (score +0.061) | vibration=2.08 mm/s, 3-reading mean=2.11 (score +0.050)"
+2025-04-24,AC-006,8,SN-000056,56,20423,ROT-C,5,0.078520,"vibration=2.50 mm/s, 3-reading mean=2.26 (score +0.068) | temperature=64.5 C, 3-reading mean=63.3 (score +0.029)"
+2025-04-24,AC-013,5,SN-001497,1497,12957,ROT-A,5,0.078394,"families AF-B/ROT-A (score +0.072) | vibration=1.95 mm/s, 3-reading mean=1.95 (score +0.029)"
+2025-04-24,AC-108,2,SN-002353,2353,18420,ROT-C,5,0.077845,"vibration=2.50 mm/s, 3-reading mean=2.41 (score +0.070) | temperature=64.6 C, 3-reading mean=64.6 (score +0.036)"
+2025-04-24,AC-151,8,SN-001569,1569,12765,ROT-A,5,0.075918,"families AF-B/ROT-A (score +0.069) | fault=NONE, 1 flagged reports in last 5 (score +0.027)"
+2025-04-24,AC-152,3,SN-001970,1970,15109,ROT-C,5,0.075661,"vibration=2.27 mm/s, 3-reading mean=2.25 (score +0.060) | temperature=66.0 C, 3-reading mean=65.0 (score +0.041)"
+2025-04-24,AC-014,1,SN-001690,1690,22014,ROT-A,5,0.075160,"families AF-A/ROT-A (score +0.068) | vibration=1.97 mm/s, 3-reading mean=1.95 (score +0.029)"
+2025-04-24,AC-001,6,SN-000014,14,20506,ROT-B,5,0.074815,"families AF-B/ROT-B (score +0.057) | vibration=2.11 mm/s, 3-reading mean=1.99 (score +0.041)"
+2025-04-24,AC-059,6,SN-002204,2204,8676,ROT-C,5,0.074732,"vibration=2.69 mm/s, 3-reading mean=2.32 (score +0.068) | temperature=61.9 C, 3-reading mean=63.2 (score +0.016)"
+2025-04-24,AC-152,8,SN-001737,1737,15109,ROT-B,5,0.074262,"families AF-A/ROT-B (score +0.056) | vibration=2.32 mm/s, 3-reading mean=1.92 (score +0.046)"
+2025-04-24,AC-097,4,SN-000780,780,6429,ROT-C,5,0.074070,"vibration=2.30 mm/s, 3-reading mean=2.34 (score +0.062) | install age=1745 cycles, since service=0 (score +0.027)"
+2025-04-24,AC-120,1,SN-000961,961,7762,ROT-B,5,0.073257,"families AF-A/ROT-B (score +0.055) | vibration=2.04 mm/s, 3-reading mean=1.96 (score +0.034)"
+2025-04-24,AC-063,6,SN-001930,1930,6342,ROT-A,5,0.072815,"families AF-B/ROT-A (score +0.066) | vibration=2.10 mm/s, 3-reading mean=1.85 (score +0.027)"
+2025-04-24,AC-045,5,SN-001616,1616,14248,ROT-C,5,0.072473,"vibration=2.40 mm/s, 3-reading mean=2.49 (score +0.065) | temperature=62.3 C, 3-reading mean=62.7 (score +0.015)"
+2025-04-24,AC-123,7,SN-002568,2568,15444,ROT-B,5,0.071780,"families AF-B/ROT-B (score +0.055) | vibration=2.29 mm/s, 3-reading mean=2.15 (score +0.054)"
+2025-04-24,AC-082,2,SN-000658,658,12608,ROT-A,5,0.071480,"families AF-A/ROT-A (score +0.065) | install age=1934 cycles, since service=6 (score +0.029)"
+2025-04-24,AC-107,2,SN-001563,1563,19848,ROT-B,5,0.071427,"families AF-B/ROT-B (score +0.055) | vibration=1.92 mm/s, 3-reading mean=2.16 (score +0.041)"
+2025-04-24,AC-046,4,SN-001502,1502,18919,ROT-C,5,0.071373,"vibration=2.06 mm/s, 3-reading mean=2.50 (score +0.060) | temperature=64.0 C, 3-reading mean=65.1 (score +0.034)"
+2025-04-24,AC-121,5,SN-001521,1521,7482,ROT-A,5,0.071123,"families AF-B/ROT-A (score +0.065) | vibration=2.06 mm/s, 3-reading mean=1.79 (score +0.018)"
+2025-04-24,AC-150,1,SN-001201,1201,6613,ROT-B,5,0.070623,"families AF-A/ROT-B (score +0.053) | install age=2073 cycles, since service=83 (score +0.029)"
+2025-04-24,AC-109,1,SN-001588,1588,11457,ROT-C,5,0.069809,"vibration=2.43 mm/s, 3-reading mean=2.11 (score +0.055) | temperature=67.2 C, 3-reading mean=64.7 (score +0.040)"
+2025-04-24,AC-082,8,SN-001708,1708,12608,ROT-A,5,0.069648,"families AF-A/ROT-A (score +0.063) | vibration=2.13 mm/s, 3-reading mean=2.09 (score +0.045)"
+2025-04-24,AC-011,8,SN-002466,2466,12272,ROT-B,5,0.068363,"families AF-B/ROT-B (score +0.052) | vibration=2.11 mm/s, 3-reading mean=2.07 (score +0.043)"
+2025-04-24,AC-114,4,SN-001482,1482,10008,ROT-B,5,0.068058,"families AF-A/ROT-B (score +0.051) | vibration=2.06 mm/s, 3-reading mean=2.01 (score +0.036)"
+2025-04-24,AC-108,3,SN-000867,867,18420,ROT-A,5,0.067804,"families AF-A/ROT-A (score +0.062) | vibration=1.92 mm/s, 3-reading mean=2.06 (score +0.032)"
+2025-04-24,AC-026,1,SN-001349,1349,8569,ROT-A,5,0.067734,"families AF-A/ROT-A (score +0.062) | vibration=2.23 mm/s, 3-reading mean=1.79 (score +0.029)"
+2025-04-24,AC-134,3,SN-001922,1922,21403,ROT-C,5,0.066718,"vibration=2.24 mm/s, 3-reading mean=2.12 (score +0.048) | temperature=66.1 C, 3-reading mean=65.6 (score +0.039)"
+2025-04-24,AC-096,3,SN-002631,2631,10154,ROT-A,2,0.066377,"families AF-A/ROT-A (score +0.060) | vibration=missing mm/s, 3-reading mean=2.12 (score +0.047)"
+2025-04-24,AC-145,7,SN-001826,1826,22768,ROT-C,5,0.065569,"vibration=1.99 mm/s, 3-reading mean=2.32 (score +0.048) | temperature=64.8 C, 3-reading mean=64.8 (score +0.032)"
+2025-04-24,AC-144,1,SN-002242,2242,12737,ROT-B,5,0.065332,"families AF-A/ROT-B (score +0.049) | vibration=2.06 mm/s, 3-reading mean=2.07 (score +0.038)"
+2025-04-24,AC-009,7,SN-001538,1538,9580,ROT-B,5,0.065115,"families AF-B/ROT-B (score +0.050) | fault=NONE, 1 flagged reports in last 5 (score +0.024)"
+2025-04-24,AC-058,2,SN-000466,466,22339,ROT-A,5,0.064994,"families AF-A/ROT-A (score +0.059) | install age=1872 cycles, since service=209 (score +0.022)"
+2025-04-24,AC-064,6,SN-000518,518,19793,ROT-B,5,0.064830,"families AF-A/ROT-B (score +0.049) | vibration=2.25 mm/s, 3-reading mean=2.05 (score +0.044)"
+2025-04-24,AC-028,2,SN-001465,1465,11816,ROT-A,5,0.064737,"families AF-A/ROT-A (score +0.059) | install age=1052 cycles, since service=113 (score +0.009)"
+2025-04-24,AC-088,8,SN-000712,712,8745,ROT-A,5,0.064696,"families AF-A/ROT-A (score +0.059) | install age=2135 cycles, since service=87 (score +0.027)"
+2025-04-24,AC-102,4,SN-002159,2159,15595,ROT-B,5,0.064503,"families AF-A/ROT-B (score +0.049) | vibration=2.16 mm/s, 3-reading mean=2.06 (score +0.041)"
+2025-04-24,AC-077,7,SN-000623,623,23287,ROT-A,5,0.064379,"families AF-B/ROT-A (score +0.059) | vibration=1.79 mm/s, 3-reading mean=2.02 (score +0.019)"
+2025-04-24,AC-126,8,SN-001016,1016,14744,ROT-C,5,0.064282,"vibration=2.29 mm/s, 3-reading mean=2.23 (score +0.051) | temperature=64.0 C, 3-reading mean=63.7 (score +0.025)"
+2025-04-24,AC-105,2,SN-001290,1290,22077,ROT-C,5,0.064235,"vibration=2.50 mm/s, 3-reading mean=2.27 (score +0.056) | temperature=62.5 C, 3-reading mean=64.2 (score +0.022)"
+2025-04-24,AC-016,1,SN-000129,129,19988,ROT-C,5,0.064178,"vibration=2.38 mm/s, 3-reading mean=2.47 (score +0.058) | temperature=missing C, 3-reading mean=64.2 (score +0.016)"
+2025-04-24,AC-106,4,SN-000852,852,6906,ROT-C,5,0.063516,"vibration=2.53 mm/s, 3-reading mean=2.23 (score +0.055) | install age=1461 cycles, since service=19 (score +0.018)"
+2025-04-24,AC-125,4,SN-001335,1335,8035,ROT-A,5,0.063446,"families AF-B/ROT-A (score +0.058) | install age=1234 cycles, since service=113 (score +0.012)"
+2025-04-24,AC-034,3,SN-001355,1355,8442,ROT-B,5,0.063331,"families AF-A/ROT-B (score +0.048) | vibration=2.12 mm/s, 3-reading mean=2.10 (score +0.041)"
+2025-04-24,AC-049,3,SN-000395,395,18770,ROT-B,5,0.063183,"families AF-B/ROT-B (score +0.048) | fault=NONE, 1 flagged reports in last 5 (score +0.023)"
+2025-04-24,AC-008,2,SN-002219,2219,14118,ROT-B,5,0.062519,"families AF-A/ROT-B (score +0.047) | vibration=2.20 mm/s, 3-reading mean=2.20 (score +0.047)"
+2025-04-24,AC-097,8,SN-001420,1420,6429,ROT-A,5,0.062349,"families AF-B/ROT-A (score +0.057) | vibration=2.19 mm/s, 3-reading mean=1.69 (score +0.016)"
+2025-04-24,AC-156,3,SN-001740,1740,17394,ROT-A,5,0.062338,"families AF-A/ROT-A (score +0.057) | vibration=1.95 mm/s, 3-reading mean=1.84 (score +0.012)"
+2025-04-24,AC-103,8,SN-002346,2346,21984,ROT-A,5,0.062197,"families AF-B/ROT-A (score +0.057) | vibration=missing mm/s, 3-reading mean=1.79 (score +0.025)"
+2025-04-24,AC-128,3,SN-002169,2169,13220,ROT-C,5,0.062190,"vibration=2.44 mm/s, 3-reading mean=2.41 (score +0.056) | temperature=missing C, 3-reading mean=64.8 (score +0.018)"
+2025-04-24,AC-127,3,SN-001909,1909,20555,ROT-B,5,0.061877,"families AF-B/ROT-B (score +0.047) | vibration=missing mm/s, 3-reading mean=1.93 (score +0.034)"
+2025-04-24,AC-020,2,SN-001694,1694,15528,ROT-B,5,0.061852,"families AF-A/ROT-B (score +0.047) | vibration=missing mm/s, 3-reading mean=2.07 (score +0.042)"
+2025-04-24,AC-056,2,SN-000450,450,12667,ROT-B,5,0.061686,"families AF-A/ROT-B (score +0.046) | vibration=2.01 mm/s, 3-reading mean=2.02 (score +0.031)"
+2025-04-24,AC-124,3,SN-002007,2007,12891,ROT-B,5,0.061040,"families AF-A/ROT-B (score +0.046) | vibration=2.33 mm/s, 3-reading mean=2.04 (score +0.044)"
+2025-04-24,AC-014,3,SN-002225,2225,22014,ROT-C,5,0.061030,"vibration=2.28 mm/s, 3-reading mean=2.29 (score +0.050) | temperature=66.7 C, 3-reading mean=64.9 (score +0.035)"
+2025-04-24,AC-142,6,SN-001904,1904,16742,ROT-B,5,0.061026,"families AF-A/ROT-B (score +0.046) | vibration=2.18 mm/s, 3-reading mean=2.01 (score +0.037)"
+2025-04-24,AC-087,3,SN-002031,2031,20417,ROT-A,5,0.060822,"families AF-B/ROT-A (score +0.056) | vibration=missing mm/s, 3-reading mean=1.85 (score +0.029)"
+2025-04-24,AC-038,8,SN-000312,312,19005,ROT-B,5,0.060693,"families AF-A/ROT-B (score +0.046) | vibration=2.00 mm/s, 3-reading mean=2.02 (score +0.030)"
+2025-04-24,AC-101,4,SN-002432,2432,16852,ROT-A,5,0.060689,"families AF-B/ROT-A (score +0.055) | vibration=1.85 mm/s, 3-reading mean=1.92 (score +0.012)"
+2025-04-24,AC-147,5,SN-001756,1756,8731,ROT-C,5,0.060403,"vibration=2.41 mm/s, 3-reading mean=2.37 (score +0.053) | temperature=63.6 C, 3-reading mean=64.1 (score +0.024)"
+2025-04-24,AC-093,8,SN-002599,2599,15574,ROT-C,5,0.060260,"vibration=2.15 mm/s, 3-reading mean=2.55 (score +0.053) | temperature=63.2 C, 3-reading mean=65.9 (score +0.030)"
+2025-04-24,AC-141,8,SN-002481,2481,7685,ROT-C,5,0.060164,"vibration=2.27 mm/s, 3-reading mean=2.32 (score +0.050) | fault=NONE, 1 flagged reports in last 5 (score +0.022)"
+2025-04-24,AC-102,3,SN-002213,2213,15595,ROT-A,5,0.059828,"families AF-A/ROT-A (score +0.054) | vibration=2.08 mm/s, 3-reading mean=1.77 (score +0.015)"
+2025-04-24,AC-009,4,SN-002535,2535,9580,ROT-B,5,0.059733,"families AF-B/ROT-B (score +0.046) | temperature=65.4 C, 3-reading mean=63.4 (score +0.026)"
+2025-04-24,AC-149,2,SN-001194,1194,11158,ROT-B,5,0.059628,"families AF-B/ROT-B (score +0.046) | install age=1949 cycles, since service=102 (score +0.023)"
+2025-04-24,AC-114,2,SN-000914,914,10008,ROT-C,5,0.058382,"vibration=2.44 mm/s, 3-reading mean=2.10 (score +0.046) | temperature=65.6 C, 3-reading mean=62.8 (score +0.023)"
+2025-04-24,AC-129,1,SN-002161,2161,19177,ROT-B,5,0.058039,"families AF-B/ROT-B (score +0.045) | vibration=2.21 mm/s, 3-reading mean=2.04 (score +0.038)"
+2025-04-24,AC-109,3,SN-002345,2345,11457,ROT-B,5,0.058032,"families AF-B/ROT-B (score +0.045) | vibration=missing mm/s, 3-reading mean=1.92 (score +0.032)"
+2025-04-24,AC-118,2,SN-000946,946,13971,ROT-A,5,0.057340,"families AF-A/ROT-A (score +0.052) | install age=1526 cycles, since service=135 (score +0.015)"
+2025-04-24,AC-001,3,SN-002527,2527,20506,ROT-B,5,0.056790,"families AF-B/ROT-B (score +0.044) | vibration=2.15 mm/s, 3-reading mean=1.96 (score +0.031)"
+2025-04-24,AC-074,2,SN-002318,2318,8560,ROT-B,5,0.056331,"families AF-A/ROT-B (score +0.042) | vibration=2.28 mm/s, 3-reading mean=2.04 (score +0.039)"
+2025-04-24,AC-082,6,SN-001662,1662,12608,ROT-B,5,0.056248,"families AF-A/ROT-B (score +0.042) | vibration=missing mm/s, 3-reading mean=2.05 (score +0.037)"
+2025-04-24,AC-079,6,SN-002362,2362,10394,ROT-B,5,0.055916,"families AF-B/ROT-B (score +0.043) | vibration=2.28 mm/s, 3-reading mean=1.84 (score +0.030)"
+2025-04-24,AC-099,8,SN-001486,1486,17983,ROT-C,5,0.055606,"vibration=2.52 mm/s, 3-reading mean=2.12 (score +0.046) | temperature=63.8 C, 3-reading mean=63.6 (score +0.020)"
+2025-04-24,AC-019,3,SN-002505,2505,18551,ROT-B,5,0.055562,"families AF-B/ROT-B (score +0.043) | vibration=2.30 mm/s, 3-reading mean=1.97 (score +0.037)"
+2025-04-24,AC-083,8,SN-001778,1778,22224,ROT-B,5,0.055558,"families AF-B/ROT-B (score +0.043) | vibration=1.99 mm/s, 3-reading mean=1.97 (score +0.024)"
+2025-04-24,AC-062,6,SN-002437,2437,22467,ROT-C,5,0.055508,"vibration=2.23 mm/s, 3-reading mean=2.35 (score +0.046) | temperature=65.2 C, 3-reading mean=65.8 (score +0.031)"
+2025-04-24,AC-076,5,SN-001320,1320,10575,ROT-A,5,0.054824,"families AF-A/ROT-A (score +0.050) | install age=1289 cycles, since service=43 (score +0.013)"
+2025-04-24,AC-012,6,SN-002405,2405,7158,ROT-A,5,0.054787,"families AF-A/ROT-A (score +0.050) | vibration=2.38 mm/s, 3-reading mean=1.70 (score +0.025)"
+2025-04-24,AC-059,7,SN-000479,479,8676,ROT-A,5,0.054503,"families AF-B/ROT-A (score +0.050) | fault=UNKNOWN, 1 flagged reports in last 5 (score +0.023)"
+2025-04-24,AC-072,6,SN-002395,2395,8675,ROT-A,5,0.054376,"families AF-A/ROT-A (score +0.049) | vibration=2.25 mm/s, 3-reading mean=1.81 (score +0.025)"
+2025-04-24,AC-142,2,SN-001138,1138,16742,ROT-A,5,0.054133,"families AF-A/ROT-A (score +0.049) | install age=2130 cycles, since service=245 (score +0.021)"
+2025-04-24,AC-011,2,SN-002029,2029,12272,ROT-B,5,0.054131,"families AF-B/ROT-B (score +0.042) | vibration=2.08 mm/s, 3-reading mean=2.06 (score +0.033)"
+2025-04-24,AC-010,3,SN-000083,83,11342,ROT-B,5,0.054063,"families AF-A/ROT-B (score +0.041) | vibration=2.01 mm/s, 3-reading mean=2.06 (score +0.029)"
+2025-04-24,AC-131,3,SN-002119,2119,14111,ROT-C,5,0.054057,"vibration=2.32 mm/s, 3-reading mean=2.45 (score +0.048) | temperature=61.8 C, 3-reading mean=63.5 (score +0.013)"
+2025-04-24,AC-076,6,SN-002095,2095,10575,ROT-B,5,0.053968,"families AF-A/ROT-B (score +0.041) | vibration=2.27 mm/s, 3-reading mean=1.96 (score +0.034)"
+2025-04-24,AC-016,2,SN-001925,1925,19988,ROT-A,5,0.053964,"families AF-A/ROT-A (score +0.049) | vibration=1.82 mm/s, 3-reading mean=1.98 (score +0.015)"
+2025-04-24,AC-106,6,SN-000854,854,6906,ROT-B,5,0.053770,"families AF-A/ROT-B (score +0.041) | install age=2074 cycles, since service=19 (score +0.023)"
+2025-04-24,AC-150,6,SN-001592,1592,6613,ROT-A,5,0.053698,"families AF-A/ROT-A (score +0.049) | vibration=1.94 mm/s, 3-reading mean=2.02 (score +0.024)"
+2025-04-24,AC-016,8,SN-001340,1340,19988,ROT-A,5,0.053626,"families AF-A/ROT-A (score +0.049) | install age=1242 cycles, since service=108 (score +0.011)"
+2025-04-24,AC-108,8,SN-002125,2125,18420,ROT-C,5,0.053605,"vibration=2.35 mm/s, 3-reading mean=2.28 (score +0.045) | temperature=65.5 C, 3-reading mean=64.4 (score +0.027)"
+2025-04-24,AC-083,2,SN-001463,1463,22224,ROT-B,5,0.053177,"families AF-B/ROT-B (score +0.041) | temperature=63.4 C, 3-reading mean=64.9 (score +0.024)"
+2025-04-24,AC-041,5,SN-000333,333,10827,ROT-B,5,0.052982,"families AF-B/ROT-B (score +0.041) | vibration=1.97 mm/s, 3-reading mean=2.10 (score +0.029)"
+2025-04-24,AC-022,5,SN-000181,181,22490,ROT-A,5,0.052925,"families AF-A/ROT-A (score +0.048) | install age=1608 cycles, since service=15 (score +0.017)"
+2025-04-24,AC-023,6,SN-002110,2110,23036,ROT-C,5,0.052838,"vibration=2.27 mm/s, 3-reading mean=2.39 (score +0.045) | temperature=62.0 C, 3-reading mean=65.1 (score +0.020)"
+2025-04-24,AC-096,4,SN-000772,772,10154,ROT-B,5,0.052030,"families AF-A/ROT-B (score +0.039) | install age=2231 cycles, since service=38 (score +0.024)"
+2025-04-24,AC-152,6,SN-001992,1992,15109,ROT-C,5,0.052003,"vibration=2.43 mm/s, 3-reading mean=2.18 (score +0.043) | temperature=63.1 C, 3-reading mean=65.1 (score +0.023)"
+2025-04-24,AC-066,7,SN-001392,1392,16976,ROT-B,5,0.051716,"families AF-A/ROT-B (score +0.039) | vibration=2.01 mm/s, 3-reading mean=2.14 (score +0.032)"
+2025-04-24,AC-109,8,SN-001375,1375,11457,ROT-A,5,0.051334,"families AF-B/ROT-A (score +0.047) | vibration=1.95 mm/s, 3-reading mean=1.87 (score +0.013)"
+2025-04-24,AC-105,3,SN-001441,1441,22077,ROT-A,5,0.051285,"families AF-B/ROT-A (score +0.047) | fault=NONE, 1 flagged reports in last 5 (score +0.019)"
+2025-04-24,AC-083,1,SN-000665,665,22224,ROT-A,5,0.051281,"families AF-B/ROT-A (score +0.047) | install age=1764 cycles, since service=380 (score +0.013)"
+2025-04-24,AC-126,7,SN-002476,2476,14744,ROT-B,5,0.051123,"families AF-A/ROT-B (score +0.039) | vibration=missing mm/s, 3-reading mean=1.95 (score +0.029)"
+2025-04-24,AC-117,6,SN-001619,1619,22840,ROT-A,5,0.051080,"families AF-B/ROT-A (score +0.047) | install age=891 cycles, since service=224 (score +0.002)"
+2025-04-24,AC-022,8,SN-002439,2439,22490,ROT-A,5,0.050587,"families AF-A/ROT-A (score +0.046) | vibration=2.04 mm/s, 3-reading mean=1.78 (score +0.011)"
+2025-04-24,AC-058,4,SN-000468,468,22339,ROT-C,5,0.050560,"vibration=2.26 mm/s, 3-reading mean=1.97 (score +0.032) | temperature=65.2 C, 3-reading mean=66.5 (score +0.030)"
+2025-04-24,AC-091,8,SN-001948,1948,10452,ROT-A,5,0.050394,"families AF-B/ROT-A (score +0.046) | vibration=1.97 mm/s, 3-reading mean=1.78 (score +0.006)"
+2025-04-24,AC-112,5,SN-000901,901,9923,ROT-A,5,0.050331,"families AF-A/ROT-A (score +0.046) | install age=1504 cycles, since service=171 (score +0.013)"
+2025-04-24,AC-056,7,SN-000455,455,12667,ROT-A,5,0.050235,"families AF-A/ROT-A (score +0.046) | install age=2038 cycles, since service=225 (score +0.019)"
+2025-04-24,AC-063,1,SN-000505,505,6342,ROT-B,5,0.050119,"families AF-B/ROT-B (score +0.039) | temperature=63.4 C, 3-reading mean=64.0 (score +0.019)"
+2025-04-24,AC-118,8,SN-000952,952,13971,ROT-A,5,0.049981,"families AF-A/ROT-A (score +0.045) | install age=2133 cycles, since service=51 (score +0.022)"
+2025-04-24,AC-151,7,SN-001852,1852,12765,ROT-C,5,0.049938,"vibration=2.31 mm/s, 3-reading mean=2.21 (score +0.040) | fault=NONE, 1 flagged reports in last 5 (score +0.018)"
+2025-04-24,AC-149,8,SN-001200,1200,11158,ROT-B,5,0.049840,"families AF-B/ROT-B (score +0.038) | vibration=missing mm/s, 3-reading mean=1.72 (score +0.015)"
+2025-04-24,AC-036,2,SN-000290,290,10364,ROT-C,5,0.049836,"vibration=2.15 mm/s, 3-reading mean=2.26 (score +0.038) | temperature=64.5 C, 3-reading mean=63.5 (score +0.020)"
+2025-04-24,AC-117,7,SN-000943,943,22840,ROT-B,5,0.049631,"families AF-B/ROT-B (score +0.038) | install age=1826 cycles, since service=35 (score +0.019)"
+2025-04-24,AC-138,1,SN-001105,1105,12395,ROT-B,5,0.049528,"families AF-A/ROT-B (score +0.037) | vibration=2.09 mm/s, 3-reading mean=2.08 (score +0.031)"
+2025-04-24,AC-067,6,SN-000542,542,22595,ROT-B,5,0.049470,"families AF-B/ROT-B (score +0.038) | vibration=2.04 mm/s, 3-reading mean=1.92 (score +0.020)"
+2025-04-24,AC-147,1,SN-002285,2285,8731,ROT-B,5,0.049441,"families AF-B/ROT-B (score +0.038) | fault=NONE, 1 flagged reports in last 5 (score +0.018)"
+2025-04-24,AC-054,1,SN-000433,433,11318,ROT-B,5,0.049068,"families AF-A/ROT-B (score +0.037) | vibration=2.11 mm/s, 3-reading mean=1.93 (score +0.024)"
+2025-04-24,AC-100,1,SN-002149,2149,22341,ROT-C,5,0.049041,"vibration=2.73 mm/s, 3-reading mean=2.06 (score +0.042) | temperature=65.1 C, 3-reading mean=61.7 (score +0.014)"
+2025-04-24,AC-078,4,SN-000628,628,19334,ROT-B,5,0.048594,"families AF-A/ROT-B (score +0.037) | vibration=missing mm/s, 3-reading mean=1.81 (score +0.021)"
+2025-04-24,AC-003,1,SN-002410,2410,16724,ROT-B,5,0.048206,"families AF-B/ROT-B (score +0.037) | vibration=2.15 mm/s, 3-reading mean=2.09 (score +0.032)"
+2025-04-24,AC-074,5,SN-001963,1963,8560,ROT-B,5,0.048107,"families AF-A/ROT-B (score +0.036) | fault=VIB, 1 flagged reports in last 5 (score +0.022)"
+2025-04-24,AC-052,3,SN-002262,2262,15382,ROT-B,5,0.047968,"families AF-A/ROT-B (score +0.036) | vibration=1.99 mm/s, 3-reading mean=1.99 (score +0.022)"
+2025-04-24,AC-016,6,SN-002572,2572,19988,ROT-B,5,0.047627,"families AF-A/ROT-B (score +0.036) | vibration=2.13 mm/s, 3-reading mean=2.04 (score +0.029)"
+2025-04-24,AC-129,5,SN-002146,2146,19177,ROT-C,5,0.047413,"vibration=2.00 mm/s, 3-reading mean=2.35 (score +0.036) | temperature=67.4 C, 3-reading mean=65.6 (score +0.030)"
+2025-04-24,AC-109,6,SN-002244,2244,11457,ROT-B,5,0.047007,"families AF-B/ROT-B (score +0.036) | vibration=2.09 mm/s, 3-reading mean=1.98 (score +0.025)"
+2025-04-24,AC-022,2,SN-002080,2080,22490,ROT-A,5,0.047006,"families AF-A/ROT-A (score +0.043) | fault=NONE, 1 flagged reports in last 5 (score +0.017)"
+2025-04-24,AC-119,5,SN-000957,957,13160,ROT-B,5,0.046630,"families AF-B/ROT-B (score +0.036) | vibration=missing mm/s, 3-reading mean=1.80 (score +0.020)"
+2025-04-24,AC-014,2,SN-002288,2288,22014,ROT-B,5,0.046358,"families AF-A/ROT-B (score +0.035) | vibration=2.17 mm/s, 3-reading mean=2.09 (score +0.031)"
+2025-04-24,AC-016,4,SN-002279,2279,19988,ROT-C,5,0.046352,"vibration=2.31 mm/s, 3-reading mean=2.36 (score +0.040) | temperature=missing C, 3-reading mean=64.8 (score +0.014)"
+2025-04-24,AC-142,4,SN-001140,1140,16742,ROT-C,5,0.046332,"vibration=2.18 mm/s, 3-reading mean=2.20 (score +0.034) | temperature=65.2 C, 3-reading mean=63.6 (score +0.020)"
+2025-04-24,AC-081,8,SN-002092,2092,8712,ROT-C,5,0.046303,"vibration=2.02 mm/s, 3-reading mean=2.15 (score +0.030) | temperature=65.0 C, 3-reading mean=63.8 (score +0.020)"
+2025-04-24,AC-152,5,SN-002041,2041,15109,ROT-B,5,0.046251,"families AF-A/ROT-B (score +0.035) | vibration=2.26 mm/s, 3-reading mean=1.96 (score +0.029)"
+2025-04-24,AC-104,7,SN-001673,1673,9915,ROT-A,5,0.046165,"families AF-A/ROT-A (score +0.042) | vibration=1.87 mm/s, 3-reading mean=1.80 (score +0.001)"
+2025-04-24,AC-129,8,SN-001040,1040,19177,ROT-C,5,0.045871,"vibration=2.28 mm/s, 3-reading mean=2.22 (score +0.036) | temperature=62.9 C, 3-reading mean=63.8 (score +0.015)"
+2025-04-24,AC-006,5,SN-001442,1442,20423,ROT-C,5,0.045837,"vibration=2.30 mm/s, 3-reading mean=2.03 (score +0.032) | temperature=66.8 C, 3-reading mean=65.5 (score +0.028)"
+2025-04-24,AC-062,4,SN-002558,2558,22467,ROT-A,5,0.045783,"families AF-A/ROT-A (score +0.042) | vibration=1.76 mm/s, 3-reading mean=2.03 (score +0.013)"
+2025-04-24,AC-154,2,SN-001923,1923,13734,ROT-A,5,0.045423,"families AF-A/ROT-A (score +0.041) | vibration=2.00 mm/s, 3-reading mean=1.71 (score +0.001)"
+2025-04-24,AC-046,7,SN-002619,2619,18919,ROT-C,5,0.045417,"vibration=2.35 mm/s, 3-reading mean=2.12 (score +0.035) | temperature=65.9 C, 3-reading mean=66.2 (score +0.028)"
+2025-04-24,AC-122,2,SN-001999,1999,14161,ROT-B,5,0.044956,"families AF-A/ROT-B (score +0.034) | vibration=1.86 mm/s, 3-reading mean=2.25 (score +0.028)"
+2025-04-24,AC-007,1,SN-002312,2312,10619,ROT-C,5,0.044819,"vibration=2.34 mm/s, 3-reading mean=2.27 (score +0.037) | temperature=64.0 C, 3-reading mean=64.6 (score +0.020)"
+2025-04-24,AC-099,5,SN-000797,797,17983,ROT-C,5,0.044624,"vibration=2.23 mm/s, 3-reading mean=2.06 (score +0.031) | temperature=64.9 C, 3-reading mean=65.3 (score +0.024)"
+2025-04-24,AC-047,3,SN-002167,2167,9158,ROT-C,5,0.044574,"fault=THERM, 1 flagged reports in last 5 (score +0.031) | temperature=63.4 C, 3-reading mean=65.0 (score +0.020)"
+2025-04-24,AC-009,8,SN-000080,80,9580,ROT-C,5,0.044459,"vibration=missing mm/s, 3-reading mean=2.10 (score +0.031) | temperature=66.2 C, 3-reading mean=63.9 (score +0.022)"
+2025-04-24,AC-097,3,SN-001774,1774,6429,ROT-B,5,0.044143,"families AF-B/ROT-B (score +0.034) | vibration=2.22 mm/s, 3-reading mean=1.99 (score +0.027)"
+2025-04-24,AC-123,2,SN-002498,2498,15444,ROT-C,5,0.044074,"vibration=2.38 mm/s, 3-reading mean=2.18 (score +0.036) | temperature=65.2 C, 3-reading mean=64.4 (score +0.022)"
+2025-04-24,AC-114,6,SN-002507,2507,10008,ROT-A,5,0.043970,"families AF-A/ROT-A (score +0.040) | vibration=2.11 mm/s, 3-reading mean=1.83 (score +0.016)"
+2025-04-24,AC-147,3,SN-001179,1179,8731,ROT-A,5,0.043837,"families AF-B/ROT-A (score +0.040) | install age=1470 cycles, since service=89 (score +0.012)"
+2025-04-24,AC-122,8,SN-001665,1665,14161,ROT-B,5,0.043292,"families AF-A/ROT-B (score +0.033) | vibration=2.06 mm/s, 3-reading mean=2.06 (score +0.025)"
+2025-04-24,AC-032,3,SN-002247,2247,21050,ROT-C,5,0.043236,"vibration=2.33 mm/s, 3-reading mean=2.38 (score +0.038) | temperature=61.9 C, 3-reading mean=64.6 (score +0.015)"
+2025-04-24,AC-062,5,SN-001814,1814,22467,ROT-B,5,0.043098,"families AF-A/ROT-B (score +0.033) | vibration=missing mm/s, 3-reading mean=1.93 (score +0.024)"
+2025-04-24,AC-105,6,SN-001865,1865,22077,ROT-A,5,0.042961,families AF-B/ROT-A (score +0.039)
+2025-04-24,AC-155,2,SN-001581,1581,16405,ROT-B,5,0.042946,"families AF-B/ROT-B (score +0.033) | vibration=2.24 mm/s, 3-reading mean=1.83 (score +0.021)"
+2025-04-24,AC-125,1,SN-002207,2207,8035,ROT-A,5,0.042946,"families AF-B/ROT-A (score +0.039) | vibration=1.89 mm/s, 3-reading mean=1.85 (score +0.007)"
+2025-04-24,AC-073,8,SN-002520,2520,18199,ROT-A,5,0.042382,"families AF-B/ROT-A (score +0.039) | vibration=1.98 mm/s, 3-reading mean=1.79 (score +0.006)"
+2025-04-24,AC-075,1,SN-002153,2153,13542,ROT-B,5,0.042360,"families AF-B/ROT-B (score +0.033) | vibration=2.04 mm/s, 3-reading mean=2.05 (score +0.024)"
+2025-04-24,AC-130,6,SN-001892,1892,7262,ROT-B,5,0.042171,"families AF-A/ROT-B (score +0.032) | vibration=missing mm/s, 3-reading mean=1.92 (score +0.023)"
+2025-04-24,AC-040,7,SN-002199,2199,21952,ROT-C,5,0.042047,"vibration=2.27 mm/s, 3-reading mean=2.16 (score +0.032) | temperature=65.7 C, 3-reading mean=64.9 (score +0.023)"
+2025-04-24,AC-047,2,SN-001585,1585,9158,ROT-B,5,0.042029,"families AF-B/ROT-B (score +0.032) | vibration=missing mm/s, 3-reading mean=1.78 (score +0.016)"
+2025-04-24,AC-015,4,SN-002494,2494,22250,ROT-B,5,0.041682,"families AF-B/ROT-B (score +0.032) | vibration=2.08 mm/s, 3-reading mean=1.93 (score +0.020)"
+2025-04-24,AC-005,8,SN-002193,2193,17694,ROT-B,5,0.041668,"families AF-B/ROT-B (score +0.032) | vibration=2.17 mm/s, 3-reading mean=1.90 (score +0.021)"
+2025-04-24,AC-065,6,SN-000526,526,7918,ROT-C,5,0.041464,"vibration=2.07 mm/s, 3-reading mean=2.14 (score +0.027) | temperature=65.4 C, 3-reading mean=64.8 (score +0.022)"
+2025-04-24,AC-026,5,SN-001412,1412,8569,ROT-B,5,0.040832,"families AF-A/ROT-B (score +0.031) | vibration=1.95 mm/s, 3-reading mean=2.03 (score +0.019)"
+2025-04-24,AC-089,1,SN-002019,2019,7409,ROT-A,5,0.040801,"families AF-B/ROT-A (score +0.037) | vibration=missing mm/s, 3-reading mean=1.59 (score +0.004)"
+2025-04-24,AC-126,1,SN-001624,1624,14744,ROT-B,5,0.040564,"families AF-A/ROT-B (score +0.031) | vibration=2.13 mm/s, 3-reading mean=1.91 (score +0.020)"
+2025-04-24,AC-104,2,SN-001864,1864,9915,ROT-B,5,0.040468,"families AF-A/ROT-B (score +0.031) | vibration=missing mm/s, 3-reading mean=2.00 (score +0.025)"
+2025-04-24,AC-040,4,SN-001781,1781,21952,ROT-C,5,0.040345,"vibration=2.37 mm/s, 3-reading mean=2.10 (score +0.031) | temperature=65.9 C, 3-reading mean=63.1 (score +0.018)"
+2025-04-24,AC-129,2,SN-002154,2154,19177,ROT-C,5,0.040294,"vibration=2.31 mm/s, 3-reading mean=2.30 (score +0.034) | temperature=63.4 C, 3-reading mean=64.8 (score +0.018)"
+2025-04-24,AC-025,5,SN-000205,205,6739,ROT-A,5,0.040213,"families AF-B/ROT-A (score +0.037) | install age=1570 cycles, since service=483 (score +0.007)"
+2025-04-24,AC-141,3,SN-001131,1131,7685,ROT-A,5,0.040012,"families AF-B/ROT-A (score +0.037) | install age=1440 cycles, since service=589 (score +0.004)"
+2025-04-24,AC-012,7,SN-000103,103,7158,ROT-B,5,0.039458,"families AF-A/ROT-B (score +0.030) | install age=1870 cycles, since service=217 (score +0.013)"
+2025-04-24,AC-125,5,SN-002240,2240,8035,ROT-B,5,0.039413,"families AF-B/ROT-B (score +0.030) | temperature=64.6 C, 3-reading mean=63.3 (score +0.015)"
+2025-04-24,AC-015,5,SN-001967,1967,22250,ROT-C,5,0.039289,"vibration=2.16 mm/s, 3-reading mean=2.33 (score +0.032) | temperature=64.3 C, 3-reading mean=63.2 (score +0.014)"
+2025-04-24,AC-081,2,SN-000650,650,8712,ROT-C,5,0.039279,"vibration=2.13 mm/s, 3-reading mean=2.28 (score +0.030) | install age=1430 cycles, since service=37 (score +0.011)"
+2025-04-24,AC-091,7,SN-000735,735,10452,ROT-C,5,0.039274,"vibration=2.29 mm/s, 3-reading mean=2.21 (score +0.031) | install age=1980 cycles, since service=178 (score +0.015)"
+2025-04-24,AC-067,4,SN-002030,2030,22595,ROT-C,5,0.039235,"vibration=2.30 mm/s, 3-reading mean=1.98 (score +0.026) | temperature=65.4 C, 3-reading mean=63.4 (score +0.017)"
+2025-04-24,AC-099,6,SN-002276,2276,17983,ROT-A,5,0.039134,"families AF-B/ROT-A (score +0.036) | temperature=63.1 C, 3-reading mean=61.5 (score +0.006)"
+2025-04-24,AC-035,7,SN-002569,2569,6981,ROT-A,5,0.038909,"families AF-B/ROT-A (score +0.036) | vibration=2.15 mm/s, 3-reading mean=1.69 (score +0.008)"
+2025-04-24,AC-122,3,SN-002583,2583,14161,ROT-C,5,0.038824,"vibration=2.31 mm/s, 3-reading mean=2.34 (score +0.033) | temperature=63.8 C, 3-reading mean=63.5 (score +0.014)"
+2025-04-24,AC-057,4,SN-000460,460,10543,ROT-B,5,0.038692,"families AF-B/ROT-B (score +0.030) | install age=1407 cycles, since service=143 (score +0.009)"
+2025-04-24,AC-079,3,SN-002274,2274,10394,ROT-B,5,0.038390,"families AF-B/ROT-B (score +0.030) | vibration=2.04 mm/s, 3-reading mean=1.90 (score +0.015)"
+2025-04-24,AC-062,3,SN-001818,1818,22467,ROT-C,5,0.038375,"vibration=2.03 mm/s, 3-reading mean=2.40 (score +0.030) | temperature=64.4 C, 3-reading mean=63.7 (score +0.016)"
+2025-04-24,AC-071,4,SN-001431,1431,13127,ROT-A,5,0.038210,"families AF-B/ROT-A (score +0.035) | fault=NONE, 1 flagged reports in last 5 (score +0.014)"
+2025-04-24,AC-014,5,SN-000117,117,22014,ROT-B,5,0.038057,"families AF-A/ROT-B (score +0.029) | vibration=1.97 mm/s, 3-reading mean=1.86 (score +0.010)"
+2025-04-24,AC-102,5,SN-002172,2172,15595,ROT-C,5,0.038056,"vibration=2.08 mm/s, 3-reading mean=2.36 (score +0.030) | temperature=65.2 C, 3-reading mean=64.5 (score +0.019)"
+2025-04-24,AC-019,2,SN-002495,2495,18551,ROT-A,5,0.038029,"families AF-B/ROT-A (score +0.035) | fault=VIB, 1 flagged reports in last 5 (score +0.018)"
+2025-04-24,AC-155,5,SN-001343,1343,16405,ROT-B,5,0.037862,"families AF-B/ROT-B (score +0.029) | vibration=missing mm/s, 3-reading mean=1.73 (score +0.012)"
+2025-04-24,AC-147,2,SN-001178,1178,8731,ROT-C,5,0.037600,"vibration=2.08 mm/s, 3-reading mean=2.03 (score +0.022) | temperature=64.9 C, 3-reading mean=64.9 (score +0.019)"
+2025-04-24,AC-009,2,SN-001757,1757,9580,ROT-C,5,0.037531,"vibration=2.55 mm/s, 3-reading mean=2.10 (score +0.031) | temperature=64.5 C, 3-reading mean=63.1 (score +0.014)"
+2025-04-24,AC-046,3,SN-001749,1749,18919,ROT-B,5,0.037407,"families AF-A/ROT-B (score +0.028) | vibration=1.79 mm/s, 3-reading mean=2.15 (score +0.018)"
+2025-04-24,AC-076,2,SN-002326,2326,10575,ROT-A,5,0.037366,"families AF-A/ROT-A (score +0.034) | vibration=2.13 mm/s, 3-reading mean=1.86 (score +0.016)"
+2025-04-24,AC-128,6,SN-001822,1822,13220,ROT-C,5,0.037366,"vibration=2.37 mm/s, 3-reading mean=2.04 (score +0.028) | temperature=66.2 C, 3-reading mean=63.4 (score +0.018)"
+2025-04-24,AC-128,7,SN-001031,1031,13220,ROT-A,5,0.037093,"families AF-A/ROT-A (score +0.034) | install age=1542 cycles, since service=357 (score +0.008)"
+2025-04-24,AC-108,1,SN-000865,865,18420,ROT-B,5,0.037022,"families AF-A/ROT-B (score +0.028) | temperature=63.4 C, 3-reading mean=63.1 (score +0.011)"
+2025-04-24,AC-088,3,SN-002082,2082,8745,ROT-B,5,0.036895,"families AF-A/ROT-B (score +0.028) | vibration=2.11 mm/s, 3-reading mean=1.76 (score +0.010)"
+2025-04-24,AC-154,5,SN-001237,1237,13734,ROT-A,5,0.036844,"families AF-A/ROT-A (score +0.034) | temperature=63.8 C, 3-reading mean=60.7 (score +0.004)"
+2025-04-24,AC-065,5,SN-002271,2271,7918,ROT-B,5,0.036830,"families AF-B/ROT-B (score +0.028) | fault=NONE, 1 flagged reports in last 5 (score +0.014)"
+2025-04-24,AC-091,4,SN-000732,732,10452,ROT-C,5,0.036776,"vibration=2.27 mm/s, 3-reading mean=1.98 (score +0.024) | temperature=66.3 C, 3-reading mean=62.9 (score +0.016)"
+2025-04-24,AC-102,8,SN-002100,2100,15595,ROT-C,5,0.036680,"vibration=2.32 mm/s, 3-reading mean=2.24 (score +0.030) | fault=NONE, 1 flagged reports in last 5 (score +0.014)"
+2025-04-24,AC-006,1,SN-002295,2295,20423,ROT-B,5,0.036678,"families AF-A/ROT-B (score +0.028) | vibration=2.25 mm/s, 3-reading mean=1.92 (score +0.021)"
+2025-04-24,AC-122,1,SN-000977,977,14161,ROT-A,5,0.036532,"families AF-A/ROT-A (score +0.033) | install age=1585 cycles, since service=279 (score +0.009)"
+2025-04-24,AC-011,5,SN-002217,2217,12272,ROT-B,5,0.036479,"families AF-B/ROT-B (score +0.028) | temperature=63.4 C, 3-reading mean=62.9 (score +0.011)"
+2025-04-24,AC-052,8,SN-002453,2453,15382,ROT-A,5,0.036376,families AF-A/ROT-A (score +0.033) | 4 cycles today (score +0.002)
+2025-04-24,AC-006,6,SN-001874,1874,20423,ROT-A,5,0.036146,"families AF-A/ROT-A (score +0.033) | vibration=2.05 mm/s, 3-reading mean=1.70 (score +0.003)"
+2025-04-24,AC-117,2,SN-002492,2492,22840,ROT-C,5,0.036098,"vibration=2.19 mm/s, 3-reading mean=2.15 (score +0.026) | temperature=67.9 C, 3-reading mean=64.0 (score +0.021)"
+2025-04-24,AC-110,4,SN-001406,1406,15944,ROT-A,5,0.035968,"families AF-A/ROT-A (score +0.033) | install age=1132 cycles, since service=109 (score +0.006)"
+2025-04-24,AC-011,6,SN-002298,2298,12272,ROT-C,5,0.035871,"vibration=2.02 mm/s, 3-reading mean=2.27 (score +0.026) | temperature=66.4 C, 3-reading mean=65.1 (score +0.021)"
+2025-04-24,AC-012,4,SN-001768,1768,7158,ROT-B,5,0.035770,"families AF-A/ROT-B (score +0.027) | vibration=missing mm/s, 3-reading mean=1.92 (score +0.020)"
+2025-04-24,AC-154,4,SN-001236,1236,13734,ROT-C,5,0.035761,"temperature=67.7 C, 3-reading mean=63.9 (score +0.020) | vibration=1.93 mm/s, 3-reading mean=2.09 (score +0.019)"
+2025-04-24,AC-156,8,SN-001897,1897,17394,ROT-C,5,0.035699,"vibration=2.15 mm/s, 3-reading mean=2.06 (score +0.023) | temperature=65.9 C, 3-reading mean=66.1 (score +0.022)"
+2025-04-24,AC-102,6,SN-001934,1934,15595,ROT-A,5,0.035573,families AF-A/ROT-A (score +0.032)
+2025-04-24,AC-006,2,SN-001829,1829,20423,ROT-C,5,0.035548,"vibration=2.65 mm/s, 3-reading mean=2.25 (score +0.032) | temperature=missing C, 3-reading mean=62.2 (score +0.002)"
+2025-04-24,AC-005,3,SN-000043,43,17694,ROT-C,5,0.035548,"vibration=2.12 mm/s, 3-reading mean=2.03 (score +0.021) | temperature=65.1 C, 3-reading mean=64.0 (score +0.016)"
+2025-04-24,AC-002,5,SN-000021,21,19510,ROT-B,5,0.035467,"families AF-A/ROT-B (score +0.027) | vibration=missing mm/s, 3-reading mean=1.74 (score +0.012)"
+2025-04-24,AC-090,1,SN-002378,2378,10885,ROT-B,5,0.035372,"families AF-A/ROT-B (score +0.027) | vibration=2.17 mm/s, 3-reading mean=1.95 (score +0.020)"
+2025-04-24,AC-015,2,SN-001439,1439,22250,ROT-C,5,0.035192,"vibration=1.98 mm/s, 3-reading mean=2.22 (score +0.024) | temperature=64.2 C, 3-reading mean=65.2 (score +0.018)"
+2025-04-24,AC-062,7,SN-000503,503,22467,ROT-A,5,0.035161,"families AF-A/ROT-A (score +0.032) | install age=1364 cycles, since service=124 (score +0.008)"
+2025-04-24,AC-089,2,SN-000714,714,7409,ROT-B,5,0.035080,"families AF-B/ROT-B (score +0.027) | install age=1779 cycles, since service=339 (score +0.010)"
+2025-04-24,AC-139,8,SN-001120,1120,10693,ROT-A,5,0.035072,"families AF-B/ROT-A (score +0.032) | install age=1315 cycles, since service=263 (score +0.006)"
+2025-04-24,AC-056,3,SN-002359,2359,12667,ROT-C,5,0.035060,"vibration=2.33 mm/s, 3-reading mean=2.31 (score +0.030) | temperature=60.8 C, 3-reading mean=63.1 (score +0.005)"
+2025-04-24,AC-015,1,SN-002324,2324,22250,ROT-B,5,0.034969,"families AF-B/ROT-B (score +0.027) | vibration=1.96 mm/s, 3-reading mean=1.94 (score +0.013)"
+2025-04-24,AC-145,1,SN-002501,2501,22768,ROT-C,5,0.034903,"vibration=2.30 mm/s, 3-reading mean=2.12 (score +0.026) | temperature=65.4 C, 3-reading mean=63.9 (score +0.016)"
+2025-04-24,AC-007,3,SN-000059,59,10619,ROT-B,5,0.034848,"families AF-B/ROT-B (score +0.027) | install age=2212 cycles, since service=304 (score +0.014)"
+2025-04-24,AC-087,6,SN-001736,1736,20417,ROT-A,5,0.034819,families AF-B/ROT-A (score +0.032)
+2025-04-24,AC-075,5,SN-002561,2561,13542,ROT-C,5,0.034667,"vibration=2.28 mm/s, 3-reading mean=2.15 (score +0.026) | temperature=65.4 C, 3-reading mean=64.1 (score +0.017)"
+2025-04-24,AC-102,7,SN-002258,2258,15595,ROT-B,5,0.034625,"families AF-A/ROT-B (score +0.026) | temperature=64.4 C, 3-reading mean=62.8 (score +0.012)"
+2025-04-24,AC-106,8,SN-002145,2145,6906,ROT-A,5,0.034555,"families AF-A/ROT-A (score +0.031) | fault=NONE, 1 flagged reports in last 5 (score +0.013)"
+2025-04-24,AC-067,8,SN-002209,2209,22595,ROT-A,5,0.034500,families AF-B/ROT-A (score +0.032)
+2025-04-24,AC-105,1,SN-000841,841,22077,ROT-B,5,0.034459,"families AF-B/ROT-B (score +0.027) | install age=1532 cycles, since service=190 (score +0.009)"
+2025-04-24,AC-117,1,SN-000937,937,22840,ROT-B,5,0.034456,"families AF-B/ROT-B (score +0.027) | vibration=2.05 mm/s, 3-reading mean=1.81 (score +0.009)"
+2025-04-24,AC-068,6,SN-000550,550,10877,ROT-C,5,0.034312,"vibration=2.22 mm/s, 3-reading mean=2.00 (score +0.022) | install age=2076 cycles, since service=76 (score +0.014)"
+2025-04-24,AC-115,5,SN-002402,2402,9791,ROT-A,5,0.034290,"families AF-B/ROT-A (score +0.031) | vibration=2.00 mm/s, 3-reading mean=1.74 (score +0.003)"
+2025-04-24,AC-130,2,SN-001508,1508,7262,ROT-A,5,0.034273,"families AF-A/ROT-A (score +0.031) | install age=1023 cycles, since service=22 (score +0.006)"
+2025-04-24,AC-079,2,SN-002333,2333,10394,ROT-A,5,0.034226,families AF-B/ROT-A (score +0.031) | 4 cycles today (score +0.002)
+2025-04-24,AC-124,2,SN-001418,1418,12891,ROT-A,5,0.034173,"families AF-A/ROT-A (score +0.031) | install age=1155 cycles, since service=130 (score +0.006)"
+2025-04-24,AC-026,3,SN-001594,1594,8569,ROT-C,5,0.034118,"vibration=2.08 mm/s, 3-reading mean=2.08 (score +0.021) | temperature=65.4 C, 3-reading mean=64.9 (score +0.018)"
+2025-04-24,AC-083,6,SN-002113,2113,22224,ROT-C,5,0.033968,"vibration=missing mm/s, 3-reading mean=2.09 (score +0.024) | temperature=65.8 C, 3-reading mean=65.5 (score +0.020)"
+2025-04-24,AC-070,7,SN-001578,1578,19957,ROT-C,5,0.033884,"vibration=2.12 mm/s, 3-reading mean=2.29 (score +0.026) | temperature=65.1 C, 3-reading mean=62.6 (score +0.012)"
+2025-04-24,AC-034,8,SN-001577,1577,8442,ROT-A,5,0.033463,"families AF-A/ROT-A (score +0.030) | install age=958 cycles, since service=118 (score +0.004)"
+2025-04-24,AC-150,4,SN-002034,2034,6613,ROT-B,5,0.033452,"families AF-A/ROT-B (score +0.025) | vibration=2.19 mm/s, 3-reading mean=1.95 (score +0.019)"
+2025-04-24,AC-087,1,SN-002401,2401,20417,ROT-B,5,0.033428,"families AF-B/ROT-B (score +0.026) | vibration=2.09 mm/s, 3-reading mean=1.92 (score +0.016)"
+2025-04-24,AC-057,1,SN-002094,2094,10543,ROT-B,5,0.033387,"families AF-B/ROT-B (score +0.026) | vibration=1.99 mm/s, 3-reading mean=1.97 (score +0.015)"
+2025-04-24,AC-078,1,SN-000625,625,19334,ROT-B,5,0.033307,"families AF-A/ROT-B (score +0.025) | vibration=2.04 mm/s, 3-reading mean=1.84 (score +0.010)"
+2025-04-24,AC-028,6,SN-000230,230,11816,ROT-B,5,0.033188,"families AF-A/ROT-B (score +0.025) | install age=2143 cycles, since service=82 (score +0.014)"
+2025-04-24,AC-092,6,SN-002562,2562,21297,ROT-C,5,0.033153,"vibration=2.44 mm/s, 3-reading mean=1.99 (score +0.025) | temperature=65.6 C, 3-reading mean=64.6 (score +0.017)"
+2025-04-24,AC-059,2,SN-000474,474,8676,ROT-B,5,0.032984,"families AF-B/ROT-B (score +0.025) | install age=2106 cycles, since service=5 (score +0.015)"
+2025-04-24,AC-056,8,SN-002064,2064,12667,ROT-B,5,0.032965,"families AF-A/ROT-B (score +0.025) | vibration=1.96 mm/s, 3-reading mean=1.97 (score +0.014)"
+2025-04-24,AC-129,6,SN-001038,1038,19177,ROT-A,5,0.032907,"families AF-B/ROT-A (score +0.030) | install age=1807 cycles, since service=96 (score +0.012)"
+2025-04-24,AC-115,8,SN-001564,1564,9791,ROT-A,5,0.032899,"families AF-B/ROT-A (score +0.030) | temperature=62.6 C, 3-reading mean=62.5 (score +0.007)"
+2025-04-24,AC-035,2,SN-001635,1635,6981,ROT-B,5,0.032705,"families AF-B/ROT-B (score +0.025) | fault=NONE, 1 flagged reports in last 5 (score +0.012)"
+2025-04-24,AC-118,6,SN-001668,1668,13971,ROT-B,5,0.032682,"families AF-A/ROT-B (score +0.025) | vibration=2.01 mm/s, 3-reading mean=1.83 (score +0.008)"
+2025-04-24,AC-026,8,SN-002006,2006,8569,ROT-B,5,0.032635,"families AF-A/ROT-B (score +0.025) | temperature=63.0 C, 3-reading mean=63.8 (score +0.011)"
+2025-04-24,AC-129,7,SN-001807,1807,19177,ROT-B,5,0.032466,"families AF-B/ROT-B (score +0.025) | vibration=1.87 mm/s, 3-reading mean=2.04 (score +0.013)"
+2025-04-24,AC-083,4,SN-002135,2135,22224,ROT-A,5,0.032367,families AF-B/ROT-A (score +0.030)
+2025-04-24,AC-108,7,SN-001705,1705,18420,ROT-B,5,0.032363,"families AF-A/ROT-B (score +0.025) | vibration=1.97 mm/s, 3-reading mean=2.01 (score +0.015)"
+2025-04-24,AC-016,5,SN-002392,2392,19988,ROT-A,5,0.032358,"families AF-A/ROT-A (score +0.029) | vibration=1.78 mm/s, 3-reading mean=1.90 (score +0.003)"
+2025-04-24,AC-037,4,SN-000300,300,11058,ROT-C,5,0.032271,"vibration=2.21 mm/s, 3-reading mean=1.97 (score +0.020) | install age=2271 cycles, since service=229 (score +0.014)"
+2025-04-24,AC-124,1,SN-000993,993,12891,ROT-C,5,0.032208,"vibration=2.20 mm/s, 3-reading mean=2.08 (score +0.022) | temperature=64.4 C, 3-reading mean=62.7 (score +0.011)"
+2025-04-24,AC-029,3,SN-001408,1408,22812,ROT-C,5,0.032200,"vibration=2.29 mm/s, 3-reading mean=2.11 (score +0.024) | temperature=63.3 C, 3-reading mean=63.2 (score +0.010)"
+2025-04-24,AC-045,3,SN-002056,2056,14248,ROT-A,5,0.032067,"families AF-B/ROT-A (score +0.029) | vibration=2.02 mm/s, 3-reading mean=1.80 (score +0.007)"
+2025-04-24,AC-092,5,SN-000741,741,21297,ROT-B,5,0.032062,"families AF-A/ROT-B (score +0.024) | vibration=1.83 mm/s, 3-reading mean=1.97 (score +0.009)"
+2025-04-24,AC-118,5,SN-000949,949,13971,ROT-A,5,0.032009,"families AF-A/ROT-A (score +0.029) | fault=NONE, 1 flagged reports in last 5 (score +0.012)"
+2025-04-24,AC-085,7,SN-000687,687,13690,ROT-C,5,0.031951,"temperature=68.1 C, 3-reading mean=64.0 (score +0.019) | vibration=2.06 mm/s, 3-reading mean=1.96 (score +0.016)"
+2025-04-24,AC-020,3,SN-002397,2397,15528,ROT-C,5,0.031928,"vibration=2.35 mm/s, 3-reading mean=2.26 (score +0.027) | temperature=62.6 C, 3-reading mean=62.9 (score +0.008)"
+2025-04-24,AC-001,7,SN-001845,1845,20506,ROT-C,5,0.031826,"vibration=2.38 mm/s, 3-reading mean=2.24 (score +0.026) | temperature=62.1 C, 3-reading mean=61.6 (score +0.003)"
+2025-04-24,AC-101,8,SN-001784,1784,16852,ROT-B,5,0.031810,"families AF-B/ROT-B (score +0.025) | vibration=1.84 mm/s, 3-reading mean=1.98 (score +0.010)"
+2025-04-24,AC-006,7,SN-002198,2198,20423,ROT-B,5,0.031801,"families AF-A/ROT-B (score +0.024) | vibration=1.98 mm/s, 3-reading mean=2.10 (score +0.018)"
+2025-04-24,AC-027,4,SN-002308,2308,10303,ROT-B,5,0.031716,"families AF-B/ROT-B (score +0.025) | vibration=2.07 mm/s, 3-reading mean=1.97 (score +0.016)"
+2025-04-24,AC-062,1,SN-000497,497,22467,ROT-A,5,0.031634,"families AF-A/ROT-A (score +0.029) | install age=1513 cycles, since service=131 (score +0.009)"
+2025-04-24,AC-014,8,SN-002473,2473,22014,ROT-B,5,0.031428,"families AF-A/ROT-B (score +0.024) | vibration=2.11 mm/s, 3-reading mean=1.88 (score +0.014)"
+2025-04-24,AC-150,3,SN-001308,1308,6613,ROT-A,5,0.031351,"families AF-A/ROT-A (score +0.029) | install age=1247 cycles, since service=307 (score +0.004)"
+2025-04-24,AC-035,4,SN-000284,284,6981,ROT-A,5,0.031294,"families AF-B/ROT-A (score +0.029) | fault=NONE, 1 flagged reports in last 5 (score +0.012)"
+2025-04-24,AC-096,5,SN-002445,2445,10154,ROT-C,5,0.031259,"vibration=2.33 mm/s, 3-reading mean=2.08 (score +0.023) | temperature=64.8 C, 3-reading mean=64.8 (score +0.016)"
+2025-04-24,AC-040,1,SN-002182,2182,21952,ROT-C,5,0.031214,"vibration=2.50 mm/s, 3-reading mean=2.26 (score +0.027) | 4 cycles today (score +0.002)"
+2025-04-24,AC-071,3,SN-001973,1973,13127,ROT-C,5,0.031209,"vibration=2.20 mm/s, 3-reading mean=2.11 (score +0.022) | temperature=65.6 C, 3-reading mean=65.8 (score +0.018)"
+2025-04-24,AC-071,1,SN-002309,2309,13127,ROT-A,5,0.031108,families AF-B/ROT-A (score +0.029)
+2025-04-24,AC-053,5,SN-002417,2417,15563,ROT-B,5,0.031073,"families AF-B/ROT-B (score +0.024) | vibration=1.95 mm/s, 3-reading mean=2.20 (score +0.020)"
+2025-04-24,AC-120,4,SN-002504,2504,7762,ROT-B,5,0.030961,"families AF-A/ROT-B (score +0.024) | vibration=2.01 mm/s, 3-reading mean=1.87 (score +0.010)"
+2025-04-24,AC-049,4,SN-002524,2524,18770,ROT-C,5,0.030936,"vibration=2.18 mm/s, 3-reading mean=2.26 (score +0.024) | temperature=64.6 C, 3-reading mean=63.2 (score +0.012)"
+2025-04-24,AC-124,5,SN-002563,2563,12891,ROT-A,5,0.030933,"families AF-A/ROT-A (score +0.028) | vibration=2.04 mm/s, 3-reading mean=1.70 (score +0.002)"
+2025-04-24,AC-010,8,SN-000088,88,11342,ROT-A,5,0.030835,"families AF-A/ROT-A (score +0.028) | install age=1614 cycles, since service=91 (score +0.010)"
+2025-04-24,AC-040,6,SN-001566,1566,21952,ROT-B,5,0.030813,"families AF-A/ROT-B (score +0.023) | vibration=missing mm/s, 3-reading mean=1.86 (score +0.015)"
+2025-04-24,AC-149,7,SN-002339,2339,11158,ROT-A,5,0.030800,families AF-B/ROT-A (score +0.028)
+2025-04-24,AC-002,3,SN-002109,2109,19510,ROT-C,5,0.030752,"vibration=missing mm/s, 3-reading mean=2.07 (score +0.021) | temperature=66.6 C, 3-reading mean=65.3 (score +0.018)"
+2025-04-24,AC-138,8,SN-002490,2490,12395,ROT-C,5,0.030751,"vibration=2.05 mm/s, 3-reading mean=2.31 (score +0.023) | temperature=64.3 C, 3-reading mean=64.2 (score +0.013)"
+2025-04-24,AC-147,4,SN-002120,2120,8731,ROT-B,5,0.030729,"families AF-B/ROT-B (score +0.024) | vibration=1.92 mm/s, 3-reading mean=2.04 (score +0.014)"
+2025-04-24,AC-012,5,SN-000101,101,7158,ROT-C,5,0.030661,"vibration=missing mm/s, 3-reading mean=2.12 (score +0.022) | temperature=66.2 C, 3-reading mean=63.9 (score +0.016)"
+2025-04-24,AC-019,5,SN-001961,1961,18551,ROT-A,5,0.030661,families AF-B/ROT-A (score +0.028)
+2025-04-24,AC-089,8,SN-001318,1318,7409,ROT-B,5,0.030614,"families AF-B/ROT-B (score +0.024) | temperature=63.4 C, 3-reading mean=63.6 (score +0.011)"
+2025-04-24,AC-158,4,SN-002414,2414,9811,ROT-A,5,0.030518,"families AF-A/ROT-A (score +0.028) | vibration=2.07 mm/s, 3-reading mean=1.81 (score +0.009)"
+2025-04-24,AC-037,3,SN-001605,1605,11058,ROT-B,5,0.030498,"families AF-B/ROT-B (score +0.024) | vibration=2.11 mm/s, 3-reading mean=1.69 (score +0.005)"
+2025-04-24,AC-030,1,SN-000241,241,18400,ROT-B,5,0.030417,"families AF-A/ROT-B (score +0.023) | install age=2182 cycles, since service=136 (score +0.013)"
+2025-04-24,AC-042,4,SN-001454,1454,10630,ROT-B,5,0.030397,"families AF-A/ROT-B (score +0.023) | vibration=1.81 mm/s, 3-reading mean=1.99 (score +0.009)"
+2025-04-24,AC-118,1,SN-001623,1623,13971,ROT-C,5,0.030379,"vibration=2.17 mm/s, 3-reading mean=2.16 (score +0.022) | temperature=65.0 C, 3-reading mean=63.6 (score +0.013)"
+2025-04-24,AC-117,5,SN-001772,1772,22840,ROT-C,5,0.030336,"vibration=2.33 mm/s, 3-reading mean=2.10 (score +0.023) | temperature=64.4 C, 3-reading mean=63.3 (score +0.012)"
+2025-04-24,AC-099,1,SN-000793,793,17983,ROT-B,5,0.030218,"families AF-B/ROT-B (score +0.023) | install age=1711 cycles, since service=36 (score +0.011)"
+2025-04-24,AC-112,6,SN-002103,2103,9923,ROT-B,5,0.030204,"families AF-A/ROT-B (score +0.023) | vibration=2.13 mm/s, 3-reading mean=1.80 (score +0.010)"
+2025-04-24,AC-087,7,SN-001908,1908,20417,ROT-B,5,0.030196,"families AF-B/ROT-B (score +0.023) | temperature=62.5 C, 3-reading mean=62.3 (score +0.005)"
+2025-04-24,AC-135,5,SN-002338,2338,18122,ROT-C,5,0.030091,"vibration=2.23 mm/s, 3-reading mean=2.26 (score +0.024) | temperature=62.1 C, 3-reading mean=63.9 (score +0.009)"
+2025-04-24,AC-038,5,SN-002614,2614,19005,ROT-B,5,0.030076,"families AF-A/ROT-B (score +0.023) | vibration=2.26 mm/s, 3-reading mean=1.83 (score +0.015)"
+2025-04-24,AC-107,1,SN-001964,1964,19848,ROT-A,5,0.030075,"families AF-B/ROT-A (score +0.028) | vibration=1.87 mm/s, 3-reading mean=1.84 (score +0.003)"
+2025-04-24,AC-064,4,SN-002443,2443,19793,ROT-C,5,0.029927,"vibration=2.47 mm/s, 3-reading mean=1.98 (score +0.022) | temperature=65.4 C, 3-reading mean=64.2 (score +0.015)"
+2025-04-24,AC-060,8,SN-001802,1802,20032,ROT-C,5,0.029914,"vibration=2.11 mm/s, 3-reading mean=2.40 (score +0.025) | temperature=59.5 C, 3-reading mean=64.0 (score +0.004)"
+2025-04-24,AC-153,6,SN-001230,1230,14205,ROT-A,5,0.029817,"families AF-B/ROT-A (score +0.027) | install age=1585 cycles, since service=324 (score +0.007)"
+2025-04-24,AC-035,5,SN-002055,2055,6981,ROT-B,5,0.029752,"families AF-B/ROT-B (score +0.023) | fault=NONE, 1 flagged reports in last 5 (score +0.011)"
+2025-04-24,AC-093,7,SN-001533,1533,15574,ROT-B,5,0.029547,"families AF-B/ROT-B (score +0.023) | vibration=1.84 mm/s, 3-reading mean=1.95 (score +0.008)"
+2025-04-24,AC-026,6,SN-002400,2400,8569,ROT-C,5,0.029532,"vibration=2.24 mm/s, 3-reading mean=2.05 (score +0.020) | temperature=65.0 C, 3-reading mean=64.7 (score +0.015)"
+2025-04-24,AC-034,2,SN-002273,2273,8442,ROT-A,5,0.029497,"families AF-A/ROT-A (score +0.027) | vibration=1.86 mm/s, 3-reading mean=1.89 (score +0.005)"
+2025-04-24,AC-001,2,SN-002435,2435,20506,ROT-A,5,0.029469,families AF-B/ROT-A (score +0.027)
+2025-04-24,AC-007,4,SN-000060,60,10619,ROT-C,5,0.029243,"vibration=2.23 mm/s, 3-reading mean=2.12 (score +0.021) | temperature=64.7 C, 3-reading mean=64.9 (score +0.015)"
+2025-04-24,AC-128,1,SN-002508,2508,13220,ROT-A,5,0.029007,families AF-A/ROT-A (score +0.026)
+2025-04-24,AC-077,4,SN-001345,1345,23287,ROT-A,5,0.029002,"families AF-B/ROT-A (score +0.027) | install age=1225 cycles, since service=126 (score +0.006)"
+2025-04-24,AC-151,1,SN-001209,1209,12765,ROT-C,5,0.028985,"vibration=2.08 mm/s, 3-reading mean=1.96 (score +0.015) | temperature=65.2 C, 3-reading mean=63.8 (score +0.013)"
+2025-04-24,AC-104,3,SN-001540,1540,9915,ROT-C,5,0.028910,"vibration=2.03 mm/s, 3-reading mean=2.10 (score +0.018) | fault=NONE, 1 flagged reports in last 5 (score +0.011)"
+2025-04-24,AC-046,1,SN-002528,2528,18919,ROT-C,5,0.028859,"vibration=2.21 mm/s, 3-reading mean=2.12 (score +0.021) | temperature=64.4 C, 3-reading mean=65.3 (score +0.015)"
+2025-04-24,AC-050,5,SN-002460,2460,18458,ROT-B,5,0.028844,"families AF-A/ROT-B (score +0.022) | vibration=1.92 mm/s, 3-reading mean=2.02 (score +0.013)"
+2025-04-24,AC-106,2,SN-002548,2548,6906,ROT-A,5,0.028783,families AF-A/ROT-A (score +0.026)
+2025-04-24,AC-049,7,SN-002261,2261,18770,ROT-C,5,0.028740,"vibration=2.22 mm/s, 3-reading mean=2.32 (score +0.024) | temperature=missing C, 3-reading mean=63.5 (score +0.005)"
+2025-04-24,AC-007,6,SN-001971,1971,10619,ROT-B,5,0.028642,"families AF-B/ROT-B (score +0.022) | temperature=64.4 C, 3-reading mean=63.4 (score +0.011)"
+2025-04-24,AC-086,1,SN-002127,2127,7323,ROT-A,5,0.028637,families AF-A/ROT-A (score +0.026) | 4 cycles today (score +0.002)
+2025-04-24,AC-154,3,SN-001235,1235,13734,ROT-B,5,0.028546,"families AF-A/ROT-B (score +0.022) | temperature=63.9 C, 3-reading mean=61.5 (score +0.006)"
+2025-04-24,AC-108,5,SN-001405,1405,18420,ROT-C,5,0.028512,"vibration=2.11 mm/s, 3-reading mean=2.27 (score +0.022) | temperature=61.5 C, 3-reading mean=64.4 (score +0.009)"
+2025-04-24,AC-050,4,SN-002047,2047,18458,ROT-A,5,0.028429,families AF-A/ROT-A (score +0.026)
+2025-04-24,AC-125,2,SN-002396,2396,8035,ROT-B,5,0.028284,"families AF-B/ROT-B (score +0.022) | temperature=65.7 C, 3-reading mean=63.3 (score +0.012)"
+2025-04-24,AC-122,4,SN-002185,2185,14161,ROT-A,5,0.028263,"families AF-A/ROT-A (score +0.026) | vibration=missing mm/s, 3-reading mean=1.56 (score +0.001)"
+2025-04-24,AC-143,3,SN-001147,1147,22751,ROT-C,5,0.028092,"vibration=2.23 mm/s, 3-reading mean=2.02 (score +0.018) | temperature=61.7 C, 3-reading mean=64.0 (score +0.008)"
+2025-04-24,AC-135,6,SN-001086,1086,18122,ROT-A,5,0.028089,"families AF-B/ROT-A (score +0.026) | install age=2165 cycles, since service=224 (score +0.011)"
+2025-04-24,AC-108,4,SN-002483,2483,18420,ROT-B,5,0.028081,"families AF-A/ROT-B (score +0.021) | vibration=1.98 mm/s, 3-reading mean=1.84 (score +0.007)"
+2025-04-24,AC-088,1,SN-002531,2531,8745,ROT-C,5,0.028072,"vibration=2.39 mm/s, 3-reading mean=2.10 (score +0.022) | temperature=63.4 C, 3-reading mean=63.2 (score +0.009)"
+2025-04-24,AC-156,2,SN-001250,1250,17394,ROT-C,5,0.027998,"vibration=2.25 mm/s, 3-reading mean=2.17 (score +0.021) | temperature=61.3 C, 3-reading mean=62.9 (score +0.005)"
+2025-04-24,AC-061,4,SN-000492,492,14069,ROT-C,5,0.027971,"temperature=67.1 C, 3-reading mean=65.7 (score +0.018) | vibration=2.14 mm/s, 3-reading mean=1.89 (score +0.013)"
+2025-04-24,AC-076,3,SN-002500,2500,10575,ROT-B,5,0.027892,"families AF-A/ROT-B (score +0.021) | vibration=1.78 mm/s, 3-reading mean=2.01 (score +0.008)"
+2025-04-24,AC-037,7,SN-001933,1933,11058,ROT-C,5,0.027662,"temperature=66.2 C, 3-reading mean=66.2 (score +0.017) | vibration=missing mm/s, 3-reading mean=1.95 (score +0.016)"
+2025-04-24,AC-145,5,SN-002235,2235,22768,ROT-A,5,0.027574,families AF-B/ROT-A (score +0.025) | 4 cycles today (score +0.002)
+2025-04-24,AC-113,2,SN-001374,1374,12078,ROT-B,5,0.027563,"families AF-B/ROT-B (score +0.021) | vibration=2.10 mm/s, 3-reading mean=2.02 (score +0.016)"
+2025-04-24,AC-121,3,SN-001877,1877,7482,ROT-B,5,0.027528,"families AF-B/ROT-B (score +0.021) | vibration=2.10 mm/s, 3-reading mean=1.75 (score +0.007)"
+2025-04-24,AC-015,6,SN-001761,1761,22250,ROT-A,5,0.027436,"families AF-B/ROT-A (score +0.025) | install age=725 cycles, since service=109 (score +0.001)"
+2025-04-24,AC-131,5,SN-001828,1828,14111,ROT-B,5,0.027424,"families AF-B/ROT-B (score +0.021) | fault=NONE, 1 flagged reports in last 5 (score +0.010)"
+2025-04-24,AC-027,7,SN-000223,223,10303,ROT-B,5,0.027352,"families AF-B/ROT-B (score +0.021) | vibration=1.90 mm/s, 3-reading mean=1.90 (score +0.007)"
+2025-04-24,AC-040,3,SN-002430,2430,21952,ROT-B,5,0.027308,"families AF-A/ROT-B (score +0.021) | temperature=62.3 C, 3-reading mean=62.5 (score +0.005)"
+2025-04-24,AC-078,7,SN-000631,631,19334,ROT-B,5,0.027278,"families AF-A/ROT-B (score +0.021) | temperature=65.3 C, 3-reading mean=62.0 (score +0.009)"
+2025-04-24,AC-034,1,SN-002560,2560,8442,ROT-C,5,0.027276,"vibration=2.15 mm/s, 3-reading mean=2.23 (score +0.021) | temperature=64.7 C, 3-reading mean=62.7 (score +0.010)"
+2025-04-24,AC-104,8,SN-001399,1399,9915,ROT-B,5,0.027142,"families AF-A/ROT-B (score +0.021) | temperature=63.2 C, 3-reading mean=61.5 (score +0.004)"
+2025-04-24,AC-103,4,SN-001546,1546,21984,ROT-C,5,0.027122,"vibration=2.13 mm/s, 3-reading mean=2.07 (score +0.018) | fault=NONE, 1 flagged reports in last 5 (score +0.010)"
+2025-04-24,AC-114,1,SN-000913,913,10008,ROT-B,5,0.026986,"families AF-A/ROT-B (score +0.021) | vibration=1.89 mm/s, 3-reading mean=1.94 (score +0.008)"
+2025-04-24,AC-113,3,SN-001812,1812,12078,ROT-C,5,0.026854,"temperature=66.4 C, 3-reading mean=65.2 (score +0.016) | vibration=1.86 mm/s, 3-reading mean=2.20 (score +0.016)"
+2025-04-24,AC-079,4,SN-001912,1912,10394,ROT-C,5,0.026846,"vibration=2.25 mm/s, 3-reading mean=2.01 (score +0.018) | temperature=64.8 C, 3-reading mean=64.4 (score +0.013)"
+2025-04-24,AC-089,3,SN-002114,2114,7409,ROT-C,5,0.026822,"vibration=2.12 mm/s, 3-reading mean=2.30 (score +0.021) | temperature=62.5 C, 3-reading mean=62.7 (score +0.006)"
+2025-04-24,AC-125,6,SN-001006,1006,8035,ROT-C,5,0.026789,"vibration=missing mm/s, 3-reading mean=1.95 (score +0.016) | temperature=65.9 C, 3-reading mean=64.3 (score +0.014)"
+2025-04-24,AC-073,2,SN-001484,1484,18199,ROT-A,5,0.026746,"families AF-B/ROT-A (score +0.025) | install age=1016 cycles, since service=139 (score +0.003)"
+2025-04-24,AC-000,6,SN-001691,1691,21202,ROT-A,5,0.026745,"families AF-A/ROT-A (score +0.024) | vibration=missing mm/s, 3-reading mean=1.76 (score +0.010)"
+2025-04-24,AC-047,8,SN-002330,2330,9158,ROT-B,5,0.026736,"families AF-B/ROT-B (score +0.021) | vibration=1.89 mm/s, 3-reading mean=1.91 (score +0.007)"
+2025-04-24,AC-154,7,SN-002574,2574,13734,ROT-C,5,0.026727,"vibration=2.32 mm/s, 3-reading mean=1.98 (score +0.018) | temperature=66.4 C, 3-reading mean=64.2 (score +0.014)"
+2025-04-24,AC-054,7,SN-002331,2331,11318,ROT-B,5,0.026579,"families AF-A/ROT-B (score +0.020) | vibration=2.06 mm/s, 3-reading mean=1.78 (score +0.007)"
+2025-04-24,AC-073,7,SN-002479,2479,18199,ROT-C,5,0.026535,"vibration=1.94 mm/s, 3-reading mean=2.28 (score +0.018) | temperature=64.5 C, 3-reading mean=65.2 (score +0.014)"
+2025-04-24,AC-151,2,SN-002292,2292,12765,ROT-A,5,0.026526,families AF-B/ROT-A (score +0.024)
+2025-04-24,AC-156,7,SN-001301,1301,17394,ROT-B,5,0.026484,"families AF-A/ROT-B (score +0.020) | vibration=1.96 mm/s, 3-reading mean=1.80 (score +0.004)"
+2025-04-24,AC-074,8,SN-002516,2516,8560,ROT-B,5,0.026472,"families AF-A/ROT-B (score +0.020) | vibration=2.06 mm/s, 3-reading mean=2.03 (score +0.015)"
+2025-04-24,AC-048,4,SN-001437,1437,17224,ROT-B,5,0.026391,"families AF-A/ROT-B (score +0.020) | temperature=62.7 C, 3-reading mean=61.8 (score +0.004)"
+2025-04-24,AC-118,4,SN-001857,1857,13971,ROT-C,5,0.026299,"temperature=66.4 C, 3-reading mean=65.2 (score +0.015) | vibration=2.14 mm/s, 3-reading mean=1.99 (score +0.015)"
+2025-04-24,AC-101,3,SN-000811,811,16852,ROT-C,5,0.026272,"temperature=64.3 C, 3-reading mean=65.3 (score +0.013) | vibration=1.90 mm/s, 3-reading mean=2.09 (score +0.013)"
+2025-04-24,AC-158,1,SN-001265,1265,9811,ROT-A,5,0.026266,"families AF-A/ROT-A (score +0.024) | install age=1991 cycles, since service=98 (score +0.010)"
+2025-04-24,AC-070,2,SN-000562,562,19957,ROT-A,5,0.026262,"families AF-A/ROT-A (score +0.024) | install age=1313 cycles, since service=100 (score +0.006)"
+2025-04-24,AC-018,7,SN-001755,1755,8112,ROT-B,5,0.026260,"families AF-A/ROT-B (score +0.020) | temperature=missing C, 3-reading mean=62.9 (score +0.003)"
+2025-04-24,AC-000,7,SN-000007,7,21202,ROT-B,5,0.026259,"families AF-A/ROT-B (score +0.020) | install age=1606 cycles, since service=114 (score +0.008)"
+2025-04-24,AC-096,2,SN-002102,2102,10154,ROT-C,5,0.026224,"vibration=2.35 mm/s, 3-reading mean=2.23 (score +0.022) | temperature=61.0 C, 3-reading mean=63.1 (score +0.004)"
+2025-04-24,AC-053,4,SN-002189,2189,15563,ROT-A,5,0.026157,families AF-B/ROT-A (score +0.024)
+2025-04-24,AC-012,8,SN-002618,2618,7158,ROT-C,5,0.026154,"temperature=68.6 C, 3-reading mean=64.8 (score +0.017) | vibration=2.01 mm/s, 3-reading mean=2.12 (score +0.016)"
+2025-04-24,AC-088,4,SN-001595,1595,8745,ROT-C,5,0.026083,"vibration=2.07 mm/s, 3-reading mean=2.04 (score +0.015) | temperature=66.4 C, 3-reading mean=63.5 (score +0.013)"
+2025-04-24,AC-140,8,SN-001128,1128,12946,ROT-B,5,0.026005,"families AF-A/ROT-B (score +0.020) | install age=2054 cycles, since service=235 (score +0.010)"
+2025-04-24,AC-119,7,SN-000959,959,13160,ROT-A,5,0.025979,"families AF-B/ROT-A (score +0.024) | install age=1483 cycles, since service=94 (score +0.007)"
+2025-04-24,AC-086,4,SN-002314,2314,7323,ROT-A,5,0.025956,families AF-A/ROT-A (score +0.024) | 4 cycles today (score +0.002)
+2025-04-24,AC-001,8,SN-002448,2448,20506,ROT-A,5,0.025935,families AF-B/ROT-A (score +0.024)
+2025-04-24,AC-035,8,SN-002025,2025,6981,ROT-B,5,0.025663,"families AF-B/ROT-B (score +0.020) | vibration=1.89 mm/s, 3-reading mean=1.87 (score +0.005)"
+2025-04-24,AC-018,6,SN-001385,1385,8112,ROT-A,5,0.025649,"families AF-A/ROT-A (score +0.023) | install age=1165 cycles, since service=156 (score +0.004)"
+2025-04-24,AC-073,4,SN-002183,2183,18199,ROT-C,5,0.025533,"vibration=2.00 mm/s, 3-reading mean=2.30 (score +0.019) | temperature=64.0 C, 3-reading mean=64.3 (score +0.011)"
+2025-04-24,AC-093,4,SN-001832,1832,15574,ROT-B,5,0.025515,"families AF-B/ROT-B (score +0.020) | vibration=1.74 mm/s, 3-reading mean=2.11 (score +0.010)"
+2025-04-24,AC-075,3,SN-000603,603,13542,ROT-A,5,0.025418,"families AF-B/ROT-A (score +0.023) | install age=1697 cycles, since service=577 (score +0.004)"
+2025-04-24,AC-088,2,SN-001704,1704,8745,ROT-A,5,0.025414,families AF-A/ROT-A (score +0.023) | 4 cycles today (score +0.002)
+2025-04-24,AC-043,5,SN-001359,1359,8526,ROT-A,5,0.025308,"families AF-B/ROT-A (score +0.023) | install age=1223 cycles, since service=212 (score +0.004)"
+2025-04-24,AC-017,8,SN-002098,2098,7409,ROT-B,5,0.025302,"families AF-B/ROT-B (score +0.020) | vibration=2.08 mm/s, 3-reading mean=1.92 (score +0.012)"
+2025-04-24,AC-063,2,SN-002497,2497,6342,ROT-C,5,0.025289,"vibration=2.21 mm/s, 3-reading mean=2.05 (score +0.017) | temperature=65.2 C, 3-reading mean=64.3 (score +0.012)"
+2025-04-24,AC-070,8,SN-002422,2422,19957,ROT-A,5,0.025289,"families AF-A/ROT-A (score +0.023) | fault=NONE, 1 flagged reports in last 5 (score +0.009)"
+2025-04-24,AC-104,6,SN-001547,1547,9915,ROT-C,5,0.025122,"vibration=2.00 mm/s, 3-reading mean=2.13 (score +0.015) | temperature=65.3 C, 3-reading mean=63.6 (score +0.011)"
+2025-04-24,AC-116,8,SN-000936,936,10060,ROT-B,5,0.024914,"families AF-A/ROT-B (score +0.019) | install age=1357 cycles, since service=140 (score +0.006)"
+2025-04-24,AC-027,6,SN-002456,2456,10303,ROT-A,5,0.024888,"families AF-B/ROT-A (score +0.023) | vibration=1.80 mm/s, 3-reading mean=1.86 (score +0.001)"
+2025-04-24,AC-112,1,SN-002380,2380,9923,ROT-C,5,0.024842,"vibration=2.21 mm/s, 3-reading mean=2.04 (score +0.016) | temperature=67.0 C, 3-reading mean=63.3 (score +0.012)"
+2025-04-24,AC-129,4,SN-001518,1518,19177,ROT-B,5,0.024828,"families AF-B/ROT-B (score +0.019) | temperature=62.5 C, 3-reading mean=62.4 (score +0.005)"
+2025-04-24,AC-018,5,SN-000149,149,8112,ROT-C,5,0.024824,"vibration=2.02 mm/s, 3-reading mean=2.27 (score +0.018) | install age=1815 cycles, since service=693 (score +0.004)"
+2025-04-24,AC-066,4,SN-002608,2608,16976,ROT-B,5,0.024796,"families AF-A/ROT-B (score +0.019) | vibration=missing mm/s, 3-reading mean=1.81 (score +0.011)"
+2025-04-24,AC-079,1,SN-001622,1622,10394,ROT-C,5,0.024721,"vibration=2.33 mm/s, 3-reading mean=2.02 (score +0.018) | temperature=62.7 C, 3-reading mean=62.7 (score +0.006)"
+2025-04-24,AC-055,5,SN-002538,2538,9134,ROT-A,5,0.024713,families AF-B/ROT-A (score +0.023)
+2025-04-24,AC-033,6,SN-001928,1928,11992,ROT-A,5,0.024672,families AF-B/ROT-A (score +0.023)
+2025-04-24,AC-112,3,SN-002160,2160,9923,ROT-B,5,0.024652,"families AF-A/ROT-B (score +0.019) | temperature=65.4 C, 3-reading mean=61.3 (score +0.007)"
+2025-04-24,AC-090,5,SN-001811,1811,10885,ROT-C,5,0.024629,"vibration=1.79 mm/s, 3-reading mean=2.41 (score +0.017) | temperature=62.4 C, 3-reading mean=64.6 (score +0.009)"
+2025-04-24,AC-145,3,SN-002020,2020,22768,ROT-B,5,0.024608,"families AF-B/ROT-B (score +0.019) | vibration=1.98 mm/s, 3-reading mean=1.86 (score +0.007)"
+2025-04-24,AC-090,3,SN-002352,2352,10885,ROT-A,5,0.024509,"families AF-A/ROT-A (score +0.022) | vibration=1.87 mm/s, 3-reading mean=1.95 (score +0.007)"
+2025-04-24,AC-064,1,SN-001434,1434,19793,ROT-C,5,0.024494,"vibration=2.17 mm/s, 3-reading mean=2.13 (score +0.017) | temperature=62.8 C, 3-reading mean=62.5 (score +0.005)"
+2025-04-24,AC-130,7,SN-001550,1550,7262,ROT-C,5,0.024479,"vibration=2.09 mm/s, 3-reading mean=2.17 (score +0.017) | temperature=61.3 C, 3-reading mean=63.2 (score +0.005)"
+2025-04-24,AC-084,6,SN-002069,2069,17846,ROT-A,5,0.024462,families AF-A/ROT-A (score +0.022) | 4 cycles today (score +0.002)
+2025-04-24,AC-064,2,SN-000514,514,19793,ROT-A,5,0.024391,"families AF-A/ROT-A (score +0.022) | install age=2185 cycles, since service=1034 (score +0.004)"
+2025-04-24,AC-116,7,SN-000935,935,10060,ROT-A,5,0.024303,"families AF-A/ROT-A (score +0.022) | install age=1692 cycles, since service=299 (score +0.007)"
+2025-04-24,AC-003,5,SN-002230,2230,16724,ROT-C,5,0.024288,"vibration=2.31 mm/s, 3-reading mean=2.04 (score +0.017) | temperature=64.5 C, 3-reading mean=62.5 (score +0.008)"
+2025-04-24,AC-042,2,SN-001676,1676,10630,ROT-C,5,0.024284,"vibration=2.44 mm/s, 3-reading mean=1.90 (score +0.017) | temperature=63.2 C, 3-reading mean=64.4 (score +0.010)"
+2025-04-24,AC-001,5,SN-002267,2267,20506,ROT-A,5,0.024166,families AF-B/ROT-A (score +0.022)
+2025-04-24,AC-099,7,SN-002243,2243,17983,ROT-B,5,0.024108,"families AF-B/ROT-B (score +0.019) | temperature=62.8 C, 3-reading mean=61.8 (score +0.004)"
+2025-04-24,AC-015,8,SN-001714,1714,22250,ROT-C,5,0.024102,"vibration=2.20 mm/s, 3-reading mean=2.08 (score +0.017) | temperature=62.6 C, 3-reading mean=64.2 (score +0.009)"
+2025-04-24,AC-043,4,SN-001771,1771,8526,ROT-C,5,0.024067,"vibration=missing mm/s, 3-reading mean=2.01 (score +0.015) | temperature=64.4 C, 3-reading mean=64.8 (score +0.012)"
+2025-04-24,AC-126,3,SN-002202,2202,14744,ROT-A,5,0.023973,families AF-A/ROT-A (score +0.022)
+2025-04-24,AC-019,1,SN-001674,1674,18551,ROT-C,5,0.023910,"fault=THERM, 1 flagged reports in last 5 (score +0.017) | temperature=64.8 C, 3-reading mean=64.1 (score +0.011)"
+2025-04-24,AC-036,6,SN-001404,1404,10364,ROT-A,5,0.023842,"families AF-A/ROT-A (score +0.022) | install age=1166 cycles, since service=60 (score +0.005)"
+2025-04-24,AC-087,8,SN-000704,704,20417,ROT-C,5,0.023793,"temperature=66.5 C, 3-reading mean=63.5 (score +0.012) | vibration=1.84 mm/s, 3-reading mean=2.10 (score +0.011)"
+2025-04-24,AC-014,6,SN-001445,1445,22014,ROT-C,5,0.023724,"fault=VIB, 1 flagged reports in last 5 (score +0.011) | vibration=1.96 mm/s, 3-reading mean=1.93 (score +0.009)"
+2025-04-24,AC-124,7,SN-001821,1821,12891,ROT-C,5,0.023509,"vibration=2.32 mm/s, 3-reading mean=2.00 (score +0.016) | temperature=64.6 C, 3-reading mean=63.7 (score +0.010)"
+2025-04-24,AC-133,4,SN-002532,2532,19200,ROT-C,5,0.023473,"vibration=2.04 mm/s, 3-reading mean=2.21 (score +0.016) | temperature=64.2 C, 3-reading mean=63.8 (score +0.010)"
+2025-04-24,AC-143,8,SN-002065,2065,22751,ROT-B,5,0.023403,"families AF-B/ROT-B (score +0.018) | temperature=66.2 C, 3-reading mean=62.5 (score +0.010)"
+2025-04-24,AC-097,7,SN-000783,783,6429,ROT-C,5,0.023367,"temperature=64.7 C, 3-reading mean=64.5 (score +0.011) | vibration=1.88 mm/s, 3-reading mean=2.08 (score +0.011)"
+2025-04-24,AC-153,8,SN-002232,2232,14205,ROT-C,5,0.023366,"vibration=2.22 mm/s, 3-reading mean=2.02 (score +0.015) | temperature=62.1 C, 3-reading mean=65.3 (score +0.010)"
+2025-04-24,AC-131,4,SN-001664,1664,14111,ROT-A,5,0.023361,"families AF-B/ROT-A (score +0.021) | install age=859 cycles, since service=220 (score +0.001)"
+2025-04-24,AC-045,2,SN-002578,2578,14248,ROT-C,5,0.023326,"vibration=missing mm/s, 3-reading mean=2.20 (score +0.018) | temperature=63.8 C, 3-reading mean=62.5 (score +0.007)"
+2025-04-24,AC-140,1,SN-002045,2045,12946,ROT-A,5,0.023322,families AF-A/ROT-A (score +0.021)
+2025-04-24,AC-078,5,SN-001661,1661,19334,ROT-C,5,0.023288,"temperature=66.2 C, 3-reading mean=65.8 (score +0.014) | vibration=2.12 mm/s, 3-reading mean=1.95 (score +0.012)"
+2025-04-24,AC-081,3,SN-002043,2043,8712,ROT-A,5,0.023286,families AF-B/ROT-A (score +0.021) | 4 cycles today (score +0.002)
+2025-04-24,AC-050,3,SN-001702,1702,18458,ROT-C,5,0.023249,"vibration=2.17 mm/s, 3-reading mean=2.17 (score +0.017) | temperature=63.1 C, 3-reading mean=63.4 (score +0.007)"
+2025-04-24,AC-053,8,SN-001444,1444,15563,ROT-B,5,0.023240,"families AF-B/ROT-B (score +0.018) | vibration=1.89 mm/s, 3-reading mean=1.97 (score +0.008)"
+2025-04-24,AC-129,3,SN-001428,1428,19177,ROT-A,5,0.023195,"families AF-B/ROT-A (score +0.021) | install age=1132 cycles, since service=59 (score +0.004)"
+2025-04-24,AC-003,7,SN-001604,1604,16724,ROT-B,5,0.023137,"families AF-B/ROT-B (score +0.018) | temperature=62.2 C, 3-reading mean=62.4 (score +0.004)"
+2025-04-24,AC-119,2,SN-000954,954,13160,ROT-B,5,0.023109,"families AF-B/ROT-B (score +0.018) | install age=1933 cycles, since service=4 (score +0.010)"
+2025-04-24,AC-107,5,SN-002256,2256,19848,ROT-B,5,0.023094,"families AF-B/ROT-B (score +0.018) | vibration=1.97 mm/s, 3-reading mean=1.83 (score +0.005)"
+2025-04-24,AC-085,3,SN-001617,1617,13690,ROT-B,5,0.022920,"families AF-B/ROT-B (score +0.018) | vibration=missing mm/s, 3-reading mean=1.66 (score +0.005)"
+2025-04-24,AC-039,8,SN-000320,320,21994,ROT-C,5,0.022905,"vibration=2.14 mm/s, 3-reading mean=1.89 (score +0.011) | temperature=66.6 C, 3-reading mean=62.9 (score +0.011)"
+2025-04-24,AC-102,1,SN-001593,1593,15595,ROT-B,5,0.022723,"families AF-A/ROT-B (score +0.017) | vibration=2.11 mm/s, 3-reading mean=1.82 (score +0.008)"
+2025-04-24,AC-100,4,SN-001387,1387,22341,ROT-C,5,0.022690,"vibration=2.17 mm/s, 3-reading mean=1.96 (score +0.013) | temperature=65.2 C, 3-reading mean=62.3 (score +0.008)"
+2025-04-24,AC-114,3,SN-002075,2075,10008,ROT-A,5,0.022664,families AF-A/ROT-A (score +0.021)
+2025-04-24,AC-116,5,SN-002003,2003,10060,ROT-B,5,0.022658,"families AF-A/ROT-B (score +0.017) | temperature=63.3 C, 3-reading mean=62.5 (score +0.006)"
+2025-04-24,AC-041,2,SN-001863,1863,10827,ROT-B,5,0.022651,"families AF-B/ROT-B (score +0.018) | temperature=64.2 C, 3-reading mean=61.8 (score +0.006)"
+2025-04-24,AC-119,1,SN-001949,1949,13160,ROT-A,5,0.022564,families AF-B/ROT-A (score +0.021) | 4 cycles today (score +0.002)
+2025-04-24,AC-069,4,SN-001658,1658,14256,ROT-B,5,0.022545,"families AF-B/ROT-B (score +0.017) | vibration=1.73 mm/s, 3-reading mean=2.01 (score +0.005)"
+2025-04-24,AC-086,8,SN-001810,1810,7323,ROT-B,5,0.022453,"families AF-A/ROT-B (score +0.017) | vibration=missing mm/s, 3-reading mean=1.81 (score +0.010)"
+2025-04-24,AC-005,7,SN-000047,47,17694,ROT-A,5,0.022433,"families AF-B/ROT-A (score +0.021) | install age=1909 cycles, since service=94 (score +0.009)"
+2025-04-24,AC-052,4,SN-001944,1944,15382,ROT-C,5,0.022321,"vibration=2.00 mm/s, 3-reading mean=2.07 (score +0.012) | fault=NONE, 1 flagged reports in last 5 (score +0.008)"
+2025-04-24,AC-107,3,SN-001559,1559,19848,ROT-C,5,0.022319,"vibration=1.87 mm/s, 3-reading mean=2.27 (score +0.015) | temperature=61.8 C, 3-reading mean=64.7 (score +0.008)"
+2025-04-24,AC-138,5,SN-002108,2108,12395,ROT-C,5,0.022315,"vibration=2.09 mm/s, 3-reading mean=2.18 (score +0.016) | temperature=63.9 C, 3-reading mean=62.8 (score +0.007)"
+2025-04-24,AC-109,7,SN-000879,879,11457,ROT-C,5,0.022217,"vibration=1.90 mm/s, 3-reading mean=2.04 (score +0.010) | temperature=64.7 C, 3-reading mean=63.1 (score +0.008)"
+2025-04-24,AC-083,7,SN-000671,671,22224,ROT-A,5,0.022168,"families AF-B/ROT-A (score +0.020) | install age=2209 cycles, since service=350 (score +0.008)"
+2025-04-24,AC-111,4,SN-000892,892,10549,ROT-B,5,0.022139,"families AF-B/ROT-B (score +0.017) | fault=NONE, 1 flagged reports in last 5 (score +0.008)"
+2025-04-24,AC-062,8,SN-000504,504,22467,ROT-B,5,0.022065,"families AF-A/ROT-B (score +0.017) | vibration=1.65 mm/s, 3-reading mean=2.04 (score +0.004)"
+2025-04-24,AC-134,1,SN-001073,1073,21403,ROT-A,5,0.022061,"families AF-A/ROT-A (score +0.020) | install age=2181 cycles, since service=309 (score +0.009)"
+2025-04-24,AC-005,4,SN-002372,2372,17694,ROT-A,5,0.022042,families AF-B/ROT-A (score +0.020) | 4 cycles today (score +0.002)
+2025-04-24,AC-121,7,SN-002546,2546,7482,ROT-C,5,0.022017,"vibration=2.32 mm/s, 3-reading mean=2.04 (score +0.016) | temperature=62.7 C, 3-reading mean=63.5 (score +0.007)"
+2025-04-24,AC-022,6,SN-001927,1927,22490,ROT-B,5,0.021987,"families AF-A/ROT-B (score +0.017) | vibration=1.94 mm/s, 3-reading mean=1.78 (score +0.002)"
+2025-04-24,AC-029,7,SN-001631,1631,22812,ROT-A,5,0.021845,"families AF-B/ROT-A (score +0.020) | install age=884 cycles, since service=134 (score +0.002)"
+2025-04-24,AC-008,7,SN-000071,71,14118,ROT-A,5,0.021834,"families AF-A/ROT-A (score +0.020) | install age=2260 cycles, since service=52 (score +0.010)"
+2025-04-24,AC-124,4,SN-002347,2347,12891,ROT-C,5,0.021834,"vibration=2.20 mm/s, 3-reading mean=2.05 (score +0.015) | temperature=65.1 C, 3-reading mean=64.4 (score +0.011)"
+2025-04-24,AC-024,5,SN-001808,1808,15366,ROT-C,5,0.021778,"vibration=2.24 mm/s, 3-reading mean=2.07 (score +0.015) | temperature=64.5 C, 3-reading mean=63.3 (score +0.008)"
+2025-04-24,AC-100,3,SN-000803,803,22341,ROT-B,5,0.021736,"families AF-A/ROT-B (score +0.017) | install age=1502 cycles, since service=89 (score +0.006)"
+2025-04-24,AC-069,6,SN-002299,2299,14256,ROT-A,5,0.021710,families AF-B/ROT-A (score +0.020)
+2025-04-24,AC-045,1,SN-001859,1859,14248,ROT-B,5,0.021665,"families AF-B/ROT-B (score +0.017) | temperature=63.3 C, 3-reading mean=61.9 (score +0.004)"
+2025-04-24,AC-144,4,SN-001156,1156,12737,ROT-B,5,0.021661,"families AF-A/ROT-B (score +0.016) | install age=1750 cycles, since service=9 (score +0.008)"
+2025-04-24,AC-119,3,SN-000955,955,13160,ROT-C,5,0.021646,"vibration=1.75 mm/s, 3-reading mean=2.13 (score +0.009) | install age=2279 cycles, since service=567 (score +0.007)"
+2025-04-24,AC-018,4,SN-000148,148,8112,ROT-B,5,0.021533,"families AF-A/ROT-B (score +0.016) | install age=2078 cycles, since service=371 (score +0.007)"
+2025-04-24,AC-101,2,SN-002124,2124,16852,ROT-B,5,0.021532,"families AF-B/ROT-B (score +0.017) | fault=NONE, 1 flagged reports in last 5 (score +0.008)"
+2025-04-24,AC-044,3,SN-001827,1827,13133,ROT-C,5,0.021509,"vibration=2.25 mm/s, 3-reading mean=2.05 (score +0.015) | temperature=61.8 C, 3-reading mean=63.8 (score +0.006)"
+2025-04-24,AC-003,4,SN-000028,28,16724,ROT-B,5,0.021449,"families AF-B/ROT-B (score +0.017) | install age=1869 cycles, since service=277 (score +0.007)"
+2025-04-24,AC-002,8,SN-000024,24,19510,ROT-B,5,0.021432,"families AF-A/ROT-B (score +0.016) | install age=1433 cycles, since service=156 (score +0.005)"
+2025-04-24,AC-135,8,SN-002571,2571,18122,ROT-C,5,0.021429,"vibration=2.27 mm/s, 3-reading mean=2.17 (score +0.016) | temperature=60.7 C, 3-reading mean=63.7 (score +0.004)"
+2025-04-24,AC-151,3,SN-001211,1211,12765,ROT-B,5,0.021425,"families AF-B/ROT-B (score +0.017) | install age=1703 cycles, since service=117 (score +0.007)"
+2025-04-24,AC-080,4,SN-000644,644,12252,ROT-A,5,0.021375,"families AF-A/ROT-A (score +0.020) | install age=1437 cycles, since service=534 (score +0.002)"
+2025-04-24,AC-064,7,SN-002190,2190,19793,ROT-C,5,0.021346,"vibration=2.45 mm/s, 3-reading mean=2.11 (score +0.017)"
+2025-04-24,AC-034,5,SN-002581,2581,8442,ROT-A,5,0.021327,families AF-A/ROT-A (score +0.019) | 4 cycles today (score +0.001)
+2025-04-24,AC-125,3,SN-001003,1003,8035,ROT-C,5,0.021249,"vibration=2.01 mm/s, 3-reading mean=2.01 (score +0.011) | temperature=66.0 C, 3-reading mean=62.8 (score +0.009)"
+2025-04-24,AC-048,2,SN-002357,2357,17224,ROT-C,5,0.021212,"vibration=2.17 mm/s, 3-reading mean=2.07 (score +0.014) | temperature=65.3 C, 3-reading mean=64.7 (score +0.011)"
+2025-04-24,AC-085,6,SN-001856,1856,13690,ROT-B,5,0.021203,"families AF-B/ROT-B (score +0.016) | temperature=62.7 C, 3-reading mean=61.2 (score +0.002)"
+2025-04-24,AC-036,8,SN-001794,1794,10364,ROT-C,5,0.021161,"vibration=1.97 mm/s, 3-reading mean=2.08 (score +0.012) | temperature=64.7 C, 3-reading mean=63.8 (score +0.009)"
+2025-04-24,AC-017,6,SN-001813,1813,7409,ROT-C,5,0.021112,"vibration=2.12 mm/s, 3-reading mean=2.06 (score +0.013) | temperature=63.4 C, 3-reading mean=64.2 (score +0.008)"
+2025-04-24,AC-064,3,SN-002576,2576,19793,ROT-B,5,0.021091,"families AF-A/ROT-B (score +0.016) | vibration=missing mm/s, 3-reading mean=1.88 (score +0.011)"
+2025-04-24,AC-139,1,SN-001113,1113,10693,ROT-C,5,0.021075,"vibration=1.73 mm/s, 3-reading mean=2.12 (score +0.008) | install age=2003 cycles, since service=228 (score +0.008)"
+2025-04-24,AC-104,1,SN-002335,2335,9915,ROT-A,5,0.021031,families AF-A/ROT-A (score +0.019)
+2025-04-24,AC-075,8,SN-001723,1723,13542,ROT-C,5,0.020939,"temperature=65.4 C, 3-reading mean=64.4 (score +0.011) | vibration=2.06 mm/s, 3-reading mean=1.95 (score +0.010)"
+2025-04-24,AC-079,8,SN-002351,2351,10394,ROT-A,5,0.020859,families AF-B/ROT-A (score +0.019) | 4 cycles today (score +0.001)
+2025-04-24,AC-020,8,SN-001530,1530,15528,ROT-B,5,0.020848,"families AF-A/ROT-B (score +0.016) | temperature=64.1 C, 3-reading mean=63.7 (score +0.008)"
+2025-04-24,AC-032,2,SN-002367,2367,21050,ROT-B,5,0.020842,"families AF-A/ROT-B (score +0.016) | vibration=2.02 mm/s, 3-reading mean=1.97 (score +0.010)"
+2025-04-24,AC-149,1,SN-001683,1683,11158,ROT-A,5,0.020837,families AF-B/ROT-A (score +0.019)
+2025-04-24,AC-039,7,SN-001730,1730,21994,ROT-B,5,0.020837,"families AF-B/ROT-B (score +0.016) | temperature=63.6 C, 3-reading mean=60.8 (score +0.002)"
+2025-04-24,AC-158,2,SN-001422,1422,9811,ROT-B,5,0.020829,"families AF-A/ROT-B (score +0.016) | install age=1156 cycles, since service=155 (score +0.003)"
+2025-04-24,AC-057,3,SN-001896,1896,10543,ROT-A,5,0.020792,families AF-B/ROT-A (score +0.019) | 4 cycles today (score +0.001)
+2025-04-24,AC-055,1,SN-001409,1409,9134,ROT-C,5,0.020767,"temperature=65.4 C, 3-reading mean=64.1 (score +0.010) | vibration=2.02 mm/s, 3-reading mean=1.97 (score +0.010)"
+2025-04-24,AC-040,8,SN-002001,2001,21952,ROT-A,5,0.020737,families AF-A/ROT-A (score +0.019) | 4 cycles today (score +0.001)
+2025-04-24,AC-058,7,SN-002009,2009,22339,ROT-C,5,0.020725,"vibration=1.92 mm/s, 3-reading mean=2.06 (score +0.010) | fault=VIB, 1 flagged reports in last 5 (score +0.010)"
+2025-04-24,AC-032,6,SN-002054,2054,21050,ROT-C,5,0.020697,"vibration=1.96 mm/s, 3-reading mean=2.28 (score +0.015) | temperature=60.4 C, 3-reading mean=64.6 (score +0.006)"
+2025-04-24,AC-144,8,SN-001558,1558,12737,ROT-C,5,0.020596,"vibration=1.92 mm/s, 3-reading mean=2.10 (score +0.011) | temperature=66.0 C, 3-reading mean=62.3 (score +0.008)"
+2025-04-24,AC-137,6,SN-001102,1102,10887,ROT-C,5,0.020517,"vibration=missing mm/s, 3-reading mean=1.96 (score +0.012) | temperature=64.1 C, 3-reading mean=62.8 (score +0.007)"
+2025-04-24,AC-029,2,SN-001656,1656,22812,ROT-B,5,0.020510,"families AF-B/ROT-B (score +0.016) | fault=VIB, 1 flagged reports in last 5 (score +0.010)"
+2025-04-24,AC-065,2,SN-001871,1871,7918,ROT-B,5,0.020469,"families AF-B/ROT-B (score +0.016) | temperature=66.8 C, 3-reading mean=64.1 (score +0.011)"
+2025-04-24,AC-112,7,SN-000903,903,9923,ROT-C,5,0.020396,"temperature=67.2 C, 3-reading mean=65.8 (score +0.013) | install age=2078 cycles, since service=27 (score +0.009)"
+2025-04-24,AC-107,7,SN-000863,863,19848,ROT-A,5,0.020347,"families AF-B/ROT-A (score +0.019) | install age=1380 cycles, since service=66 (score +0.005)"
+2025-04-24,AC-152,2,SN-002434,2434,15109,ROT-B,5,0.020286,"families AF-A/ROT-B (score +0.015) | temperature=63.7 C, 3-reading mean=62.3 (score +0.005)"
+2025-04-24,AC-133,8,SN-001515,1515,19200,ROT-A,5,0.020074,"families AF-B/ROT-A (score +0.018) | install age=1018 cycles, since service=49 (score +0.003)"
+2025-04-24,AC-105,4,SN-002425,2425,22077,ROT-B,5,0.020012,"families AF-B/ROT-B (score +0.016) | vibration=1.88 mm/s, 3-reading mean=1.87 (score +0.003)"
+2025-04-24,AC-065,8,SN-002081,2081,7918,ROT-B,5,0.019973,"families AF-B/ROT-B (score +0.015) | vibration=2.12 mm/s, 3-reading mean=1.77 (score +0.006)"
+2025-04-24,AC-039,4,SN-002122,2122,21994,ROT-B,5,0.019871,"families AF-B/ROT-B (score +0.015) | vibration=2.08 mm/s, 3-reading mean=1.73 (score +0.004)"
+2025-04-24,AC-058,5,SN-000469,469,22339,ROT-A,5,0.019848,"families AF-A/ROT-A (score +0.018) | install age=1706 cycles, since service=162 (score +0.006)"
+2025-04-24,AC-071,2,SN-001384,1384,13127,ROT-B,5,0.019831,"families AF-B/ROT-B (score +0.015) | temperature=63.9 C, 3-reading mean=61.6 (score +0.004)"
+2025-04-24,AC-101,7,SN-002201,2201,16852,ROT-A,5,0.019802,families AF-B/ROT-A (score +0.018)
+2025-04-24,AC-125,7,SN-001798,1798,8035,ROT-A,5,0.019799,"families AF-B/ROT-A (score +0.018) | temperature=63.8 C, 3-reading mean=60.0 (score +0.001)"
+2025-04-24,AC-100,8,SN-000808,808,22341,ROT-A,5,0.019799,"families AF-A/ROT-A (score +0.018) | install age=1475 cycles, since service=153 (score +0.005)"
+2025-04-24,AC-032,5,SN-002220,2220,21050,ROT-B,5,0.019785,"families AF-A/ROT-B (score +0.015) | vibration=1.81 mm/s, 3-reading mean=2.03 (score +0.007)"
+2025-04-24,AC-154,1,SN-002452,2452,13734,ROT-C,5,0.019711,"vibration=missing mm/s, 3-reading mean=1.95 (score +0.012) | temperature=67.2 C, 3-reading mean=63.0 (score +0.010)"
+2025-04-24,AC-144,6,SN-001158,1158,12737,ROT-A,5,0.019692,"families AF-A/ROT-A (score +0.018) | install age=1568 cycles, since service=748 (score +0.001)"
+2025-04-24,AC-039,2,SN-001487,1487,21994,ROT-C,5,0.019614,"vibration=2.29 mm/s, 3-reading mean=2.18 (score +0.015) | families AF-B/ROT-C (score +0.001)"
+2025-04-24,AC-044,1,SN-001876,1876,13133,ROT-A,5,0.019614,"families AF-A/ROT-A (score +0.018) | vibration=missing mm/s, 3-reading mean=1.59 (score +0.002)"
+2025-04-24,AC-067,3,SN-000539,539,22595,ROT-B,5,0.019577,"families AF-B/ROT-B (score +0.015) | install age=1645 cycles, since service=117 (score +0.006)"
+2025-04-24,AC-011,4,SN-002329,2329,12272,ROT-A,5,0.019570,families AF-B/ROT-A (score +0.018)
+2025-04-24,AC-156,4,SN-001252,1252,17394,ROT-B,5,0.019555,"families AF-A/ROT-B (score +0.015) | install age=1575 cycles, since service=203 (score +0.005)"
+2025-04-24,AC-055,3,SN-001667,1667,9134,ROT-B,5,0.019542,"families AF-B/ROT-B (score +0.015) | vibration=2.04 mm/s, 3-reading mean=1.74 (score +0.003)"
+2025-04-24,AC-027,3,SN-000219,219,10303,ROT-A,5,0.019479,"families AF-B/ROT-A (score +0.018) | install age=1612 cycles, since service=577 (score +0.003)"
+2025-04-24,AC-071,8,SN-000576,576,13127,ROT-B,5,0.019478,"families AF-B/ROT-B (score +0.015) | temperature=66.6 C, 3-reading mean=62.7 (score +0.009)"
+2025-04-24,AC-096,6,SN-002059,2059,10154,ROT-A,5,0.019451,families AF-A/ROT-A (score +0.018)
+2025-04-24,AC-158,6,SN-001270,1270,9811,ROT-C,5,0.019376,"vibration=2.08 mm/s, 3-reading mean=2.03 (score +0.011) | install age=2088 cycles, since service=26 (score +0.009)"
+2025-04-24,AC-151,4,SN-001347,1347,12765,ROT-C,5,0.019364,"vibration=2.10 mm/s, 3-reading mean=2.00 (score +0.011) | temperature=63.5 C, 3-reading mean=63.6 (score +0.007)"
+2025-04-24,AC-008,8,SN-002067,2067,14118,ROT-B,5,0.019304,"families AF-A/ROT-B (score +0.015) | temperature=64.3 C, 3-reading mean=62.7 (score +0.006)"
+2025-04-24,AC-032,4,SN-002142,2142,21050,ROT-A,5,0.019260,"families AF-A/ROT-A (score +0.018) | fault=UNKNOWN, 1 flagged reports in last 5 (score +0.008)"
+2025-04-24,AC-010,6,SN-002542,2542,11342,ROT-B,5,0.019253,"families AF-A/ROT-B (score +0.015) | temperature=63.2 C, 3-reading mean=62.5 (score +0.005)"
+2025-04-24,AC-089,7,SN-001448,1448,7409,ROT-A,5,0.019195,families AF-B/ROT-A (score +0.018)
+2025-04-24,AC-115,2,SN-001720,1720,9791,ROT-A,5,0.019178,families AF-B/ROT-A (score +0.018)
+2025-04-24,AC-150,5,SN-002499,2499,6613,ROT-C,5,0.019144,"vibration=2.30 mm/s, 3-reading mean=2.17 (score +0.015) | temperature=60.2 C, 3-reading mean=62.6 (score +0.001)"
+2025-04-24,AC-075,4,SN-001289,1289,13542,ROT-B,5,0.019117,"families AF-B/ROT-B (score +0.015) | install age=1289 cycles, since service=226 (score +0.003)"
+2025-04-24,AC-002,4,SN-002611,2611,19510,ROT-A,5,0.019050,"families AF-A/ROT-A (score +0.017) | fault=VIB, 1 flagged reports in last 5 (score +0.009)"
+2025-04-24,AC-114,7,SN-000919,919,10008,ROT-B,5,0.019003,"families AF-A/ROT-B (score +0.014) | install age=1699 cycles, since service=24 (score +0.007)"
+2025-04-24,AC-017,5,SN-002253,2253,7409,ROT-B,5,0.019002,"families AF-B/ROT-B (score +0.015) | vibration=1.98 mm/s, 3-reading mean=1.92 (score +0.007)"
+2025-04-24,AC-142,3,SN-001526,1526,16742,ROT-B,5,0.019000,"families AF-A/ROT-B (score +0.014) | vibration=2.04 mm/s, 3-reading mean=1.74 (score +0.003)"
+2025-04-24,AC-019,7,SN-000159,159,18551,ROT-C,5,0.018964,"vibration=2.12 mm/s, 3-reading mean=2.03 (score +0.012) | install age=1795 cycles, since service=482 (score +0.005)"
+2025-04-24,AC-134,6,SN-001078,1078,21403,ROT-C,5,0.018936,"temperature=66.3 C, 3-reading mean=65.0 (score +0.011) | install age=1431 cycles, since service=29 (score +0.005)"
+2025-04-24,AC-106,1,SN-002446,2446,6906,ROT-C,5,0.018877,"vibration=2.11 mm/s, 3-reading mean=2.02 (score +0.011) | temperature=65.4 C, 3-reading mean=64.2 (score +0.009)"
+2025-04-24,AC-084,2,SN-000674,674,17846,ROT-C,5,0.018873,"temperature=64.9 C, 3-reading mean=63.7 (score +0.008) | vibration=missing mm/s, 3-reading mean=1.73 (score +0.006)"
+2025-04-24,AC-035,1,SN-002474,2474,6981,ROT-A,5,0.018807,families AF-B/ROT-A (score +0.017) | 4 cycles today (score +0.001)
+2025-04-24,AC-041,1,SN-001801,1801,10827,ROT-A,5,0.018806,families AF-B/ROT-A (score +0.017)
+2025-04-24,AC-021,7,SN-002303,2303,11601,ROT-B,5,0.018758,families AF-B/ROT-B (score +0.015) | 4 cycles today (score +0.001)
+2025-04-24,AC-105,7,SN-000847,847,22077,ROT-B,5,0.018590,"families AF-B/ROT-B (score +0.014) | install age=1786 cycles, since service=600 (score +0.004)"
+2025-04-24,AC-003,2,SN-002004,2004,16724,ROT-C,5,0.018578,"vibration=1.94 mm/s, 3-reading mean=2.09 (score +0.010) | temperature=64.7 C, 3-reading mean=64.1 (score +0.008)"
+2025-04-24,AC-119,4,SN-002016,2016,13160,ROT-A,5,0.018566,families AF-B/ROT-A (score +0.017) | 4 cycles today (score +0.001)
+2025-04-24,AC-115,7,SN-002297,2297,9791,ROT-C,5,0.018561,"vibration=2.09 mm/s, 3-reading mean=2.03 (score +0.011) | temperature=64.8 C, 3-reading mean=64.8 (score +0.009)"
+2025-04-24,AC-026,4,SN-001369,1369,8569,ROT-A,5,0.018537,"families AF-A/ROT-A (score +0.017) | install age=1215 cycles, since service=91 (score +0.004)"
+2025-04-24,AC-104,4,SN-002259,2259,9915,ROT-A,5,0.018531,"families AF-A/ROT-A (score +0.017) | temperature=61.3 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-097,6,SN-002015,2015,6429,ROT-B,5,0.018476,families AF-B/ROT-B (score +0.014)
+2025-04-24,AC-018,2,SN-002084,2084,8112,ROT-C,5,0.018470,"vibration=2.07 mm/s, 3-reading mean=2.20 (score +0.013) | temperature=missing C, 3-reading mean=62.6 (score +0.002)"
+2025-04-24,AC-139,4,SN-001779,1779,10693,ROT-C,5,0.018412,"vibration=2.13 mm/s, 3-reading mean=2.13 (score +0.013) | temperature=63.3 C, 3-reading mean=62.9 (score +0.005)"
+2025-04-24,AC-010,4,SN-001785,1785,11342,ROT-C,5,0.018399,"vibration=1.97 mm/s, 3-reading mean=2.10 (score +0.010) | temperature=63.2 C, 3-reading mean=64.4 (score +0.007)"
+2025-04-24,AC-075,6,SN-002567,2567,13542,ROT-A,5,0.018396,families AF-B/ROT-A (score +0.017)
+2025-04-24,AC-070,6,SN-002134,2134,19957,ROT-B,5,0.018215,"families AF-A/ROT-B (score +0.014) | vibration=1.94 mm/s, 3-reading mean=1.85 (score +0.004)"
+2025-04-24,AC-107,8,SN-001644,1644,19848,ROT-B,5,0.018187,"families AF-B/ROT-B (score +0.014) | install age=877 cycles, since service=46 (score +0.002)"
+2025-04-24,AC-155,4,SN-001632,1632,16405,ROT-A,5,0.018175,"families AF-B/ROT-A (score +0.017) | install age=899 cycles, since service=181 (score +0.001)"
+2025-04-24,AC-110,7,SN-002168,2168,15944,ROT-A,5,0.018162,families AF-A/ROT-A (score +0.017)
+2025-04-24,AC-090,7,SN-001792,1792,10885,ROT-B,5,0.018039,"families AF-A/ROT-B (score +0.014) | install age=707 cycles, since service=10 (score +0.001)"
+2025-04-24,AC-031,6,SN-001597,1597,14863,ROT-B,5,0.018001,"families AF-B/ROT-B (score +0.014) | install age=916 cycles, since service=281 (score +0.001)"
+2025-04-24,AC-124,6,SN-002106,2106,12891,ROT-B,5,0.017964,"families AF-A/ROT-B (score +0.014) | vibration=2.08 mm/s, 3-reading mean=1.80 (score +0.005)"
+2025-04-24,AC-117,3,SN-000939,939,22840,ROT-A,5,0.017961,"families AF-B/ROT-A (score +0.016) | install age=1387 cycles, since service=124 (score +0.004)"
+2025-04-24,AC-042,7,SN-002344,2344,10630,ROT-B,5,0.017927,"families AF-A/ROT-B (score +0.014) | vibration=missing mm/s, 3-reading mean=1.75 (score +0.006)"
+2025-04-24,AC-155,1,SN-002266,2266,16405,ROT-A,5,0.017898,families AF-B/ROT-A (score +0.016)
+2025-04-24,AC-142,5,SN-001601,1601,16742,ROT-A,5,0.017867,families AF-A/ROT-A (score +0.016) | 4 cycles today (score +0.001)
+2025-04-24,AC-080,2,SN-000642,642,12252,ROT-B,5,0.017856,"families AF-A/ROT-B (score +0.014) | temperature=63.2 C, 3-reading mean=62.0 (score +0.004)"
+2025-04-24,AC-063,4,SN-001481,1481,6342,ROT-B,5,0.017779,families AF-B/ROT-B (score +0.014)
+2025-04-24,AC-036,7,SN-002175,2175,10364,ROT-B,5,0.017733,"families AF-A/ROT-B (score +0.014) | temperature=61.6 C, 3-reading mean=63.1 (score +0.004)"
+2025-04-24,AC-044,6,SN-002468,2468,13133,ROT-C,5,0.017691,"vibration=missing mm/s, 3-reading mean=2.06 (score +0.012) | temperature=62.7 C, 3-reading mean=64.1 (score +0.006)"
+2025-04-24,AC-070,1,SN-002525,2525,19957,ROT-C,5,0.017665,"vibration=2.02 mm/s, 3-reading mean=2.01 (score +0.009) | fault=NONE, 1 flagged reports in last 5 (score +0.007)"
+2025-04-24,AC-115,4,SN-001706,1706,9791,ROT-C,5,0.017633,"vibration=2.00 mm/s, 3-reading mean=2.11 (score +0.010) | temperature=64.2 C, 3-reading mean=63.6 (score +0.007)"
+2025-04-24,AC-106,3,SN-000851,851,6906,ROT-B,5,0.017628,"families AF-A/ROT-B (score +0.013) | install age=1638 cycles, since service=514 (score +0.003)"
+2025-04-24,AC-059,8,SN-002284,2284,8676,ROT-B,5,0.017546,families AF-B/ROT-B (score +0.014) | 4 cycles today (score +0.001)
+2025-04-24,AC-074,3,SN-002123,2123,8560,ROT-C,5,0.017534,"vibration=2.06 mm/s, 3-reading mean=2.34 (score +0.014)"
+2025-04-24,AC-051,4,SN-002305,2305,10272,ROT-B,5,0.017473,"families AF-B/ROT-B (score +0.014) | vibration=1.93 mm/s, 3-reading mean=1.81 (score +0.002)"
+2025-04-24,AC-041,4,SN-000332,332,10827,ROT-A,5,0.017360,"families AF-B/ROT-A (score +0.016) | install age=1817 cycles, since service=31 (score +0.007)"
+2025-04-24,AC-085,1,SN-000681,681,13690,ROT-C,5,0.017354,"temperature=65.7 C, 3-reading mean=65.7 (score +0.010) | install age=1936 cycles, since service=142 (score +0.007)"
+2025-04-24,AC-021,6,SN-001539,1539,11601,ROT-A,5,0.017303,"families AF-B/ROT-A (score +0.016) | install age=980 cycles, since service=181 (score +0.002)"
+2025-04-24,AC-042,5,SN-002290,2290,10630,ROT-C,5,0.017243,"vibration=2.19 mm/s, 3-reading mean=2.03 (score +0.011) | temperature=62.8 C, 3-reading mean=63.6 (score +0.006)"
+2025-04-24,AC-067,1,SN-002596,2596,22595,ROT-C,5,0.017226,"vibration=2.40 mm/s, 3-reading mean=2.01 (score +0.013) | families AF-B/ROT-C (score +0.001)"
+2025-04-24,AC-100,6,SN-002385,2385,22341,ROT-B,5,0.017225,"families AF-A/ROT-B (score +0.013) | temperature=63.4 C, 3-reading mean=61.0 (score +0.002)"
+2025-04-24,AC-107,6,SN-001913,1913,19848,ROT-C,5,0.017212,"vibration=1.92 mm/s, 3-reading mean=2.23 (score +0.011) | temperature=61.4 C, 3-reading mean=64.3 (score +0.005)"
+2025-04-24,AC-009,6,SN-002046,2046,9580,ROT-A,5,0.017200,families AF-B/ROT-A (score +0.016)
+2025-04-24,AC-046,2,SN-002606,2606,18919,ROT-A,5,0.017179,families AF-A/ROT-A (score +0.016)
+2025-04-24,AC-092,7,SN-002598,2598,21297,ROT-A,5,0.017149,families AF-A/ROT-A (score +0.016)
+2025-04-24,AC-058,6,SN-000470,470,22339,ROT-B,5,0.017077,"families AF-A/ROT-B (score +0.013) | install age=1596 cycles, since service=459 (score +0.003)"
+2025-04-24,AC-023,4,SN-002387,2387,23036,ROT-A,5,0.017073,families AF-B/ROT-A (score +0.016)
+2025-04-24,AC-055,4,SN-002593,2593,9134,ROT-C,5,0.017068,"vibration=2.21 mm/s, 3-reading mean=2.07 (score +0.012) | temperature=62.3 C, 3-reading mean=62.6 (score +0.003)"
+2025-04-24,AC-130,8,SN-002518,2518,7262,ROT-A,5,0.016995,families AF-A/ROT-A (score +0.016) | 4 cycles today (score +0.001)
+2025-04-24,AC-075,2,SN-002374,2374,13542,ROT-C,5,0.016994,"vibration=2.08 mm/s, 3-reading mean=2.22 (score +0.012) | temperature=missing C, 3-reading mean=62.5 (score +0.001)"
+2025-04-24,AC-054,2,SN-001519,1519,11318,ROT-C,5,0.016982,"vibration=2.22 mm/s, 3-reading mean=1.85 (score +0.009) | temperature=64.1 C, 3-reading mean=63.7 (score +0.007)"
+2025-04-24,AC-091,1,SN-001579,1579,10452,ROT-C,5,0.016963,"vibration=2.18 mm/s, 3-reading mean=2.01 (score +0.011) | install age=933 cycles, since service=32 (score +0.002)"
+2025-04-24,AC-049,6,SN-002320,2320,18770,ROT-B,5,0.016779,"families AF-B/ROT-B (score +0.013) | temperature=63.2 C, 3-reading mean=61.3 (score +0.002)"
+2025-04-24,AC-059,3,SN-000475,475,8676,ROT-C,5,0.016738,"vibration=1.92 mm/s, 3-reading mean=2.09 (score +0.009) | install age=1504 cycles, since service=105 (score +0.005)"
+2025-04-24,AC-023,5,SN-001304,1304,23036,ROT-B,5,0.016734,"families AF-B/ROT-B (score +0.013) | temperature=60.3 C, 3-reading mean=65.4 (score +0.006)"
+2025-04-24,AC-155,7,SN-002603,2603,16405,ROT-A,5,0.016719,families AF-B/ROT-A (score +0.015)
+2025-04-24,AC-135,4,SN-002294,2294,18122,ROT-B,5,0.016533,families AF-B/ROT-B (score +0.013)
+2025-04-24,AC-135,1,SN-002428,2428,18122,ROT-B,5,0.016436,"families AF-B/ROT-B (score +0.013) | vibration=1.73 mm/s, 3-reading mean=2.01 (score +0.004)"
+2025-04-24,AC-056,1,SN-002358,2358,12667,ROT-A,5,0.016409,families AF-A/ROT-A (score +0.015) | 4 cycles today (score +0.001)
+2025-04-24,AC-036,4,SN-002582,2582,10364,ROT-B,5,0.016407,"families AF-A/ROT-B (score +0.013) | temperature=63.5 C, 3-reading mean=61.2 (score +0.002)"
+2025-04-24,AC-020,5,SN-001471,1471,15528,ROT-B,5,0.016378,"families AF-A/ROT-B (score +0.012) | fault=VIB, 1 flagged reports in last 5 (score +0.008)"
+2025-04-24,AC-039,5,SN-002058,2058,21994,ROT-C,5,0.016358,"vibration=2.22 mm/s, 3-reading mean=1.92 (score +0.009) | temperature=63.8 C, 3-reading mean=63.2 (score +0.006)"
+2025-04-24,AC-131,7,SN-001878,1878,14111,ROT-A,5,0.016314,families AF-B/ROT-A (score +0.015)
+2025-04-24,AC-020,6,SN-001675,1675,15528,ROT-C,5,0.016285,"fault=NONE, 1 flagged reports in last 5 (score +0.006) | vibration=2.04 mm/s, 3-reading mean=1.87 (score +0.006)"
+2025-04-24,AC-130,1,SN-002223,2223,7262,ROT-C,5,0.016280,"vibration=1.86 mm/s, 3-reading mean=2.11 (score +0.008) | temperature=64.3 C, 3-reading mean=64.9 (score +0.008)"
+2025-04-24,AC-150,7,SN-002048,2048,6613,ROT-B,5,0.016248,"families AF-A/ROT-B (score +0.012) | vibration=1.88 mm/s, 3-reading mean=1.89 (score +0.003)"
+2025-04-24,AC-051,6,SN-002376,2376,10272,ROT-A,5,0.016219,families AF-B/ROT-A (score +0.015)
+2025-04-24,AC-158,5,SN-001269,1269,9811,ROT-B,5,0.016210,"families AF-A/ROT-B (score +0.012) | install age=2171 cycles, since service=86 (score +0.007)"
+2025-04-24,AC-023,7,SN-001985,1985,23036,ROT-A,5,0.016164,families AF-B/ROT-A (score +0.015)
+2025-04-24,AC-090,2,SN-002269,2269,10885,ROT-C,5,0.016140,"vibration=1.90 mm/s, 3-reading mean=2.15 (score +0.009) | fault=NONE, 1 flagged reports in last 5 (score +0.006)"
+2025-04-24,AC-084,4,SN-002559,2559,17846,ROT-B,5,0.016094,"families AF-A/ROT-B (score +0.012) | vibration=missing mm/s, 3-reading mean=1.58 (score +0.001)"
+2025-04-24,AC-159,7,SN-001279,1279,20556,ROT-B,5,0.016023,"families AF-B/ROT-B (score +0.012) | install age=1458 cycles, since service=47 (score +0.005)"
+2025-04-24,AC-095,1,SN-000761,761,22654,ROT-A,5,0.016019,"families AF-B/ROT-A (score +0.015) | install age=2018 cycles, since service=689 (score +0.004)"
+2025-04-24,AC-116,4,SN-001976,1976,10060,ROT-A,5,0.016017,families AF-A/ROT-A (score +0.015)
+2025-04-24,AC-094,3,SN-002002,2002,21959,ROT-B,5,0.015975,"families AF-A/ROT-B (score +0.012) | vibration=1.78 mm/s, 3-reading mean=1.88 (score +0.001)"
+2025-04-24,AC-136,6,SN-002349,2349,18266,ROT-B,5,0.015961,"families AF-A/ROT-B (score +0.012) | vibration=missing mm/s, 3-reading mean=1.76 (score +0.006)"
+2025-04-24,AC-139,6,SN-002278,2278,10693,ROT-B,5,0.015953,families AF-B/ROT-B (score +0.012)
+2025-04-24,AC-057,8,SN-002248,2248,10543,ROT-C,5,0.015929,"vibration=2.24 mm/s, 3-reading mean=1.96 (score +0.010) | temperature=60.6 C, 3-reading mean=63.7 (score +0.003)"
+2025-04-24,AC-061,8,SN-000496,496,14069,ROT-A,5,0.015896,"families AF-B/ROT-A (score +0.015) | install age=1552 cycles, since service=91 (score +0.005)"
+2025-04-24,AC-120,6,SN-002011,2011,7762,ROT-A,5,0.015861,families AF-A/ROT-A (score +0.014)
+2025-04-24,AC-081,4,SN-001626,1626,8712,ROT-B,5,0.015853,"families AF-B/ROT-B (score +0.012) | install age=909 cycles, since service=93 (score +0.002)"
+2025-04-24,AC-098,5,SN-002206,2206,10014,ROT-B,5,0.015798,families AF-A/ROT-B (score +0.012)
+2025-04-24,AC-042,1,SN-000337,337,10630,ROT-B,5,0.015796,"families AF-A/ROT-B (score +0.012) | install age=1510 cycles, since service=494 (score +0.002)"
+2025-04-24,AC-073,1,SN-001806,1806,18199,ROT-C,5,0.015794,"vibration=1.96 mm/s, 3-reading mean=2.04 (score +0.008) | temperature=64.8 C, 3-reading mean=63.8 (score +0.007)"
+2025-04-24,AC-139,2,SN-002523,2523,10693,ROT-A,5,0.015759,"families AF-B/ROT-A (score +0.014) | fault=NONE, 2 flagged reports in last 5 (score +0.010)"
+2025-04-24,AC-092,1,SN-002635,2635,21297,ROT-A,1,0.015717,"families AF-A/ROT-A (score +0.014) | vibration=1.94 mm/s, 3-reading mean=1.94 (score +0.006)"
+2025-04-24,AC-082,7,SN-001346,1346,12608,ROT-C,5,0.015707,"vibration=1.92 mm/s, 3-reading mean=2.15 (score +0.009) | temperature=63.8 C, 3-reading mean=64.2 (score +0.007)"
+2025-04-24,AC-140,5,SN-002306,2306,12946,ROT-B,5,0.015685,"families AF-A/ROT-B (score +0.012) | vibration=1.99 mm/s, 3-reading mean=1.76 (score +0.002)"
+2025-04-24,AC-131,6,SN-002241,2241,14111,ROT-C,5,0.015653,"vibration=1.96 mm/s, 3-reading mean=2.19 (score +0.010) | temperature=61.6 C, 3-reading mean=63.5 (score +0.004)"
+2025-04-24,AC-144,7,SN-001159,1159,12737,ROT-B,5,0.015648,"families AF-A/ROT-B (score +0.012) | install age=1998 cycles, since service=221 (score +0.006)"
+2025-04-24,AC-110,8,SN-001495,1495,15944,ROT-B,5,0.015619,"families AF-A/ROT-B (score +0.012) | temperature=66.6 C, 3-reading mean=62.6 (score +0.007)"
+2025-04-24,AC-096,7,SN-001891,1891,10154,ROT-B,5,0.015606,"families AF-A/ROT-B (score +0.012) | vibration=1.71 mm/s, 3-reading mean=1.93 (score +0.001)"
+2025-04-24,AC-051,1,SN-001915,1915,10272,ROT-B,5,0.015602,families AF-B/ROT-B (score +0.012)
+2025-04-24,AC-027,1,SN-001354,1354,10303,ROT-B,5,0.015591,"families AF-B/ROT-B (score +0.012) | install age=1244 cycles, since service=370 (score +0.002)"
+2025-04-24,AC-150,8,SN-002550,2550,6613,ROT-C,5,0.015439,"vibration=2.28 mm/s, 3-reading mean=2.04 (score +0.011) | temperature=61.9 C, 3-reading mean=62.3 (score +0.002)"
+2025-04-24,AC-024,1,SN-000193,193,15366,ROT-B,5,0.015375,"families AF-A/ROT-B (score +0.012) | install age=1784 cycles, since service=289 (score +0.005)"
+2025-04-24,AC-149,6,SN-001198,1198,11158,ROT-C,5,0.015330,"vibration=1.82 mm/s, 3-reading mean=2.08 (score +0.007) | temperature=63.0 C, 3-reading mean=62.8 (score +0.004)"
+2025-04-24,AC-021,8,SN-002575,2575,11601,ROT-C,5,0.015330,"vibration=2.16 mm/s, 3-reading mean=1.89 (score +0.008) | temperature=64.7 C, 3-reading mean=63.4 (score +0.006)"
+2025-04-24,AC-047,1,SN-002469,2469,9158,ROT-A,5,0.015277,families AF-B/ROT-A (score +0.014) | 4 cycles today (score +0.001)
+2025-04-24,AC-073,5,SN-000589,589,18199,ROT-A,5,0.015239,"families AF-B/ROT-A (score +0.014) | install age=1944 cycles, since service=61 (score +0.006)"
+2025-04-24,AC-015,7,SN-002313,2313,22250,ROT-B,5,0.015232,families AF-B/ROT-B (score +0.012)
+2025-04-24,AC-121,8,SN-002104,2104,7482,ROT-A,5,0.015170,families AF-B/ROT-A (score +0.014)
+2025-04-24,AC-068,3,SN-000547,547,10877,ROT-C,5,0.015167,"temperature=65.2 C, 3-reading mean=64.3 (score +0.007) | install age=2276 cycles, since service=167 (score +0.007)"
+2025-04-24,AC-030,5,SN-000245,245,18400,ROT-C,5,0.015154,"fault=THERM, 1 flagged reports in last 5 (score +0.011) | install age=2071 cycles, since service=180 (score +0.006)"
+2025-04-24,AC-156,5,SN-001548,1548,17394,ROT-C,5,0.015152,"temperature=64.5 C, 3-reading mean=64.2 (score +0.007) | vibration=1.89 mm/s, 3-reading mean=1.95 (score +0.005)"
+2025-04-24,AC-031,8,SN-000256,256,14863,ROT-A,5,0.015136,"families AF-B/ROT-A (score +0.014) | install age=1414 cycles, since service=420 (score +0.002)"
+2025-04-24,AC-054,5,SN-001621,1621,11318,ROT-C,5,0.015110,"vibration=2.01 mm/s, 3-reading mean=2.01 (score +0.008) | temperature=63.3 C, 3-reading mean=62.9 (score +0.004)"
+2025-04-24,AC-085,2,SN-001602,1602,13690,ROT-A,5,0.015039,families AF-B/ROT-A (score +0.014) | 4 cycles today (score +0.001)
+2025-04-24,AC-034,7,SN-002427,2427,8442,ROT-C,5,0.014938,"vibration=2.18 mm/s, 3-reading mean=2.12 (score +0.011) | 4 cycles today (score +0.001)"
+2025-04-24,AC-082,4,SN-001872,1872,12608,ROT-C,5,0.014927,"vibration=1.97 mm/s, 3-reading mean=2.09 (score +0.008) | temperature=62.0 C, 3-reading mean=63.7 (score +0.004)"
+2025-04-24,AC-148,3,SN-002166,2166,8017,ROT-B,5,0.014925,"families AF-A/ROT-B (score +0.011) | vibration=missing mm/s, 3-reading mean=1.72 (score +0.005)"
+2025-04-24,AC-022,3,SN-001926,1926,22490,ROT-B,5,0.014918,"families AF-A/ROT-B (score +0.011) | temperature=64.7 C, 3-reading mean=63.0 (score +0.006)"
+2025-04-24,AC-050,6,SN-001735,1735,18458,ROT-C,5,0.014881,"vibration=2.12 mm/s, 3-reading mean=2.03 (score +0.009) | temperature=62.2 C, 3-reading mean=62.8 (score +0.003)"
+2025-04-24,AC-101,5,SN-002589,2589,16852,ROT-B,5,0.014788,families AF-B/ROT-B (score +0.011)
+2025-04-24,AC-095,8,SN-001641,1641,22654,ROT-B,5,0.014545,"families AF-B/ROT-B (score +0.011) | vibration=1.74 mm/s, 3-reading mean=1.96 (score +0.002)"
+2025-04-24,AC-091,2,SN-002454,2454,10452,ROT-A,5,0.014511,families AF-B/ROT-A (score +0.013)
+2025-04-24,AC-058,3,SN-002536,2536,22339,ROT-B,5,0.014509,"families AF-A/ROT-B (score +0.011) | fault=UNKNOWN, 0 flagged reports in last 5 (score +0.001)"
+2025-04-24,AC-134,4,SN-001076,1076,21403,ROT-A,5,0.014498,"families AF-A/ROT-A (score +0.013) | install age=2260 cycles, since service=159 (score +0.006)"
+2025-04-24,AC-009,5,SN-002342,2342,9580,ROT-C,5,0.014496,"temperature=66.1 C, 3-reading mean=64.3 (score +0.008) | vibration=1.91 mm/s, 3-reading mean=1.99 (score +0.006)"
+2025-04-24,AC-114,5,SN-000917,917,10008,ROT-C,5,0.014438,"temperature=66.4 C, 3-reading mean=62.4 (score +0.006) | vibration=2.00 mm/s, 3-reading mean=1.85 (score +0.004)"
+2025-04-24,AC-113,5,SN-001709,1709,12078,ROT-B,5,0.014420,"families AF-B/ROT-B (score +0.011) | vibration=1.83 mm/s, 3-reading mean=1.85 (score +0.001)"
+2025-04-24,AC-051,2,SN-000410,410,10272,ROT-C,5,0.014369,"temperature=66.0 C, 3-reading mean=63.4 (score +0.007) | install age=1490 cycles, since service=49 (score +0.004)"
+2025-04-24,AC-036,3,SN-002553,2553,10364,ROT-A,5,0.014368,families AF-A/ROT-A (score +0.013) | 4 cycles today (score +0.001)
+2025-04-24,AC-148,4,SN-002174,2174,8017,ROT-C,5,0.014345,"vibration=2.17 mm/s, 3-reading mean=2.02 (score +0.009) | temperature=missing C, 3-reading mean=63.9 (score +0.003)"
+2025-04-24,AC-018,1,SN-001968,1968,8112,ROT-B,5,0.014342,families AF-A/ROT-B (score +0.011) | 4 cycles today (score +0.001)
+2025-04-24,AC-119,6,SN-001969,1969,13160,ROT-C,5,0.014328,"vibration=2.20 mm/s, 3-reading mean=1.91 (score +0.008) | temperature=61.4 C, 3-reading mean=62.6 (score +0.002)"
+2025-04-24,AC-133,2,SN-001795,1795,19200,ROT-A,5,0.014302,families AF-B/ROT-A (score +0.013)
+2025-04-24,AC-121,1,SN-001324,1324,7482,ROT-C,5,0.014288,"vibration=1.79 mm/s, 3-reading mean=2.13 (score +0.007) | install age=1230 cycles, since service=127 (score +0.003)"
+2025-04-24,AC-127,1,SN-001017,1017,20555,ROT-C,5,0.014286,"temperature=64.3 C, 3-reading mean=63.2 (score +0.005) | install age=1679 cycles, since service=280 (score +0.004)"
+2025-04-24,AC-043,2,SN-001414,1414,8526,ROT-A,5,0.014270,"families AF-B/ROT-A (score +0.013) | install age=1158 cycles, since service=299 (score +0.002)"
+2025-04-24,AC-092,4,SN-002371,2371,21297,ROT-A,5,0.014263,families AF-A/ROT-A (score +0.013)
+2025-04-24,AC-010,5,SN-002564,2564,11342,ROT-A,5,0.014259,families AF-A/ROT-A (score +0.013)
+2025-04-24,AC-145,4,SN-001848,1848,22768,ROT-C,5,0.014239,"vibration=2.15 mm/s, 3-reading mean=2.01 (score +0.009) | temperature=missing C, 3-reading mean=63.8 (score +0.003)"
+2025-04-24,AC-054,6,SN-001762,1762,11318,ROT-A,5,0.014204,families AF-A/ROT-A (score +0.013)
+2025-04-24,AC-074,4,SN-002506,2506,8560,ROT-A,5,0.014149,families AF-A/ROT-A (score +0.013)
+2025-04-24,AC-116,2,SN-001629,1629,10060,ROT-B,5,0.014127,"families AF-A/ROT-B (score +0.011) | install age=877 cycles, since service=62 (score +0.002)"
+2025-04-24,AC-063,5,SN-000509,509,6342,ROT-C,5,0.014056,"temperature=64.6 C, 3-reading mean=63.2 (score +0.005) | vibration=1.97 mm/s, 3-reading mean=1.91 (score +0.005)"
+2025-04-24,AC-075,7,SN-001583,1583,13542,ROT-B,5,0.013986,"families AF-B/ROT-B (score +0.011) | temperature=62.1 C, 3-reading mean=61.3 (score +0.001)"
+2025-04-24,AC-126,5,SN-001013,1013,14744,ROT-C,5,0.013923,"temperature=64.8 C, 3-reading mean=64.0 (score +0.006) | install age=1445 cycles, since service=25 (score +0.004)"
+2025-04-24,AC-143,5,SN-001965,1965,22751,ROT-B,5,0.013887,"families AF-B/ROT-B (score +0.011) | temperature=61.2 C, 3-reading mean=61.9 (score +0.001)"
+2025-04-24,AC-089,6,SN-001575,1575,7409,ROT-C,5,0.013855,"temperature=65.1 C, 3-reading mean=64.4 (score +0.007) | vibration=1.78 mm/s, 3-reading mean=1.96 (score +0.003)"
+2025-04-24,AC-078,2,SN-002130,2130,19334,ROT-C,5,0.013842,"vibration=1.98 mm/s, 3-reading mean=2.11 (score +0.008) | temperature=65.1 C, 3-reading mean=62.8 (score +0.005)"
+2025-04-24,AC-132,1,SN-002328,2328,12396,ROT-B,5,0.013827,families AF-A/ROT-B (score +0.011)
+2025-04-24,AC-079,5,SN-002188,2188,10394,ROT-A,5,0.013777,families AF-B/ROT-A (score +0.013) | 4 cycles today (score +0.001)
+2025-04-24,AC-138,7,SN-001640,1640,12395,ROT-B,5,0.013758,families AF-A/ROT-B (score +0.010)
+2025-04-24,AC-144,5,SN-002211,2211,12737,ROT-C,5,0.013744,"vibration=2.13 mm/s, 3-reading mean=2.05 (score +0.009) | temperature=missing C, 3-reading mean=63.4 (score +0.002)"
+2025-04-24,AC-019,4,SN-000156,156,18551,ROT-C,5,0.013739,"vibration=2.05 mm/s, 3-reading mean=2.02 (score +0.008) | temperature=62.9 C, 3-reading mean=62.4 (score +0.003)"
+2025-04-24,AC-028,8,SN-002289,2289,11816,ROT-A,5,0.013691,families AF-A/ROT-A (score +0.012) | 4 cycles today (score +0.001)
+2025-04-24,AC-090,4,SN-000724,724,10885,ROT-B,5,0.013687,"families AF-A/ROT-B (score +0.010) | install age=1955 cycles, since service=669 (score +0.003)"
+2025-04-24,AC-077,6,SN-001332,1332,23287,ROT-C,5,0.013683,"vibration=2.06 mm/s, 3-reading mean=2.14 (score +0.009) | families AF-B/ROT-C (score +0.001)"
+2025-04-24,AC-145,8,SN-002482,2482,22768,ROT-A,5,0.013643,families AF-B/ROT-A (score +0.013) | 4 cycles today (score +0.001)
+2025-04-24,AC-071,7,SN-002431,2431,13127,ROT-A,5,0.013623,families AF-B/ROT-A (score +0.013)
+2025-04-24,AC-094,6,SN-001376,1376,21959,ROT-B,5,0.013615,"families AF-A/ROT-B (score +0.010) | vibration=1.73 mm/s, 3-reading mean=1.97 (score +0.002)"
+2025-04-24,AC-110,6,SN-002264,2264,15944,ROT-C,5,0.013531,"vibration=missing mm/s, 3-reading mean=1.93 (score +0.008) | temperature=61.6 C, 3-reading mean=63.6 (score +0.003)"
+2025-04-24,AC-154,6,SN-001238,1238,13734,ROT-B,5,0.013523,"families AF-A/ROT-B (score +0.010) | install age=1519 cycles, since service=526 (score +0.002)"
+2025-04-24,AC-050,2,SN-000402,402,18458,ROT-B,5,0.013514,"families AF-A/ROT-B (score +0.010) | install age=1405 cycles, since service=608 (score +0.001)"
+2025-04-24,AC-111,2,SN-001866,1866,10549,ROT-C,5,0.013473,"vibration=2.05 mm/s, 3-reading mean=2.01 (score +0.007) | temperature=62.6 C, 3-reading mean=63.9 (score +0.005)"
+2025-04-24,AC-003,6,SN-000030,30,16724,ROT-A,5,0.013468,"families AF-B/ROT-A (score +0.012) | install age=1616 cycles, since service=37 (score +0.004)"
+2025-04-24,AC-113,4,SN-002386,2386,12078,ROT-A,5,0.013407,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-093,1,SN-000745,745,15574,ROT-B,5,0.013398,"families AF-B/ROT-B (score +0.010) | install age=1689 cycles, since service=316 (score +0.004)"
+2025-04-24,AC-124,8,SN-002632,2632,12891,ROT-A,2,0.013396,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-065,1,SN-002222,2222,7918,ROT-A,5,0.013306,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-010,2,SN-002133,2133,11342,ROT-A,5,0.013287,"families AF-A/ROT-A (score +0.012) | temperature=63.3 C, 3-reading mean=61.4 (score +0.002)"
+2025-04-24,AC-151,5,SN-001213,1213,12765,ROT-A,5,0.013285,"families AF-B/ROT-A (score +0.012) | install age=2042 cycles, since service=115 (score +0.005)"
+2025-04-24,AC-054,4,SN-000436,436,11318,ROT-B,5,0.013204,"families AF-A/ROT-B (score +0.010) | install age=1319 cycles, since service=38 (score +0.003)"
+2025-04-24,AC-083,5,SN-002573,2573,22224,ROT-B,5,0.013179,families AF-B/ROT-B (score +0.010)
+2025-04-24,AC-077,8,SN-002521,2521,23287,ROT-B,5,0.013177,families AF-B/ROT-B (score +0.010)
+2025-04-24,AC-071,5,SN-002620,2620,13127,ROT-B,5,0.013164,"families AF-B/ROT-B (score +0.010) | temperature=64.6 C, 3-reading mean=61.7 (score +0.003)"
+2025-04-24,AC-002,7,SN-002301,2301,19510,ROT-A,5,0.013138,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-022,1,SN-002280,2280,22490,ROT-C,5,0.013119,"vibration=missing mm/s, 3-reading mean=1.89 (score +0.007) | temperature=62.8 C, 3-reading mean=64.3 (score +0.005)"
+2025-04-24,AC-008,1,SN-002513,2513,14118,ROT-A,5,0.013101,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-032,1,SN-002257,2257,21050,ROT-A,5,0.013091,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-033,1,SN-000265,265,11992,ROT-B,5,0.013070,"families AF-B/ROT-B (score +0.010) | install age=1560 cycles, since service=168 (score +0.004)"
+2025-04-24,AC-011,7,SN-001824,1824,12272,ROT-A,5,0.013044,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-039,6,SN-002496,2496,21994,ROT-A,5,0.013042,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-098,2,SN-001680,1680,10014,ROT-B,5,0.012929,"families AF-A/ROT-B (score +0.010) | vibration=1.95 mm/s, 3-reading mean=1.86 (score +0.003)"
+2025-04-24,AC-065,7,SN-000527,527,7918,ROT-A,5,0.012868,"families AF-B/ROT-A (score +0.012) | install age=1357 cycles, since service=103 (score +0.003)"
+2025-04-24,AC-034,4,SN-002515,2515,8442,ROT-C,5,0.012856,"vibration=1.97 mm/s, 3-reading mean=2.21 (score +0.009) | 4 cycles today (score +0.001)"
+2025-04-24,AC-086,2,SN-001753,1753,7323,ROT-B,5,0.012836,"families AF-A/ROT-B (score +0.010) | install age=744 cycles, since service=49 (score +0.001)"
+2025-04-24,AC-006,3,SN-002128,2128,20423,ROT-A,5,0.012825,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-110,2,SN-001312,1312,15944,ROT-B,5,0.012806,"families AF-A/ROT-B (score +0.010) | install age=1252 cycles, since service=391 (score +0.001)"
+2025-04-24,AC-077,1,SN-002184,2184,23287,ROT-A,5,0.012792,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-049,5,SN-001899,1899,18770,ROT-A,5,0.012789,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-057,6,SN-001606,1606,10543,ROT-A,5,0.012757,"families AF-B/ROT-A (score +0.012) | install age=930 cycles, since service=42 (score +0.002)"
+2025-04-24,AC-107,4,SN-001975,1975,19848,ROT-A,5,0.012736,families AF-B/ROT-A (score +0.012)
+2025-04-24,AC-112,4,SN-000900,900,9923,ROT-C,5,0.012735,"temperature=65.0 C, 3-reading mean=63.0 (score +0.005) | vibration=2.01 mm/s, 3-reading mean=1.82 (score +0.003)"
+2025-04-24,AC-148,8,SN-002609,2609,8017,ROT-A,5,0.012716,families AF-A/ROT-A (score +0.012)
+2025-04-24,AC-145,6,SN-001166,1166,22768,ROT-B,5,0.012693,"families AF-B/ROT-B (score +0.010) | install age=1734 cycles, since service=411 (score +0.003)"
+2025-04-24,AC-158,8,SN-002604,2604,9811,ROT-B,5,0.012560,"families AF-A/ROT-B (score +0.010) | vibration=1.90 mm/s, 3-reading mean=1.84 (score +0.002)"
+2025-04-24,AC-130,4,SN-001319,1319,7262,ROT-C,5,0.012558,"temperature=63.3 C, 3-reading mean=64.0 (score +0.005) | install age=1246 cycles, since service=5 (score +0.003)"
+2025-04-24,AC-157,6,SN-001262,1262,14930,ROT-B,5,0.012549,"families AF-B/ROT-B (score +0.010) | install age=2020 cycles, since service=191 (score +0.005)"
+2025-04-24,AC-037,1,SN-002068,2068,11058,ROT-C,5,0.012518,"vibration=2.16 mm/s, 3-reading mean=1.88 (score +0.006) | temperature=63.7 C, 3-reading mean=62.5 (score +0.003)"
+2025-04-24,AC-113,6,SN-001861,1861,12078,ROT-C,5,0.012470,"temperature=66.6 C, 3-reading mean=63.5 (score +0.006) | vibration=1.75 mm/s, 3-reading mean=2.00 (score +0.003)"
+2025-04-24,AC-146,7,SN-001175,1175,16335,ROT-A,5,0.012441,"families AF-A/ROT-A (score +0.011) | fault=NONE, 1 flagged reports in last 5 (score +0.005)"
+2025-04-24,AC-120,2,SN-000962,962,7762,ROT-C,5,0.012397,"temperature=66.3 C, 3-reading mean=64.0 (score +0.006) | install age=2245 cycles, since service=340 (score +0.005)"
+2025-04-24,AC-031,3,SN-002485,2485,14863,ROT-B,5,0.012377,families AF-B/ROT-B (score +0.010)
+2025-04-24,AC-103,3,SN-001974,1974,21984,ROT-B,5,0.012376,families AF-B/ROT-B (score +0.010)
+2025-04-24,AC-056,4,SN-002623,2623,12667,ROT-A,4,0.012372,families AF-A/ROT-A (score +0.011) | 4 cycles today (score +0.001)
+2025-04-24,AC-058,8,SN-001918,1918,22339,ROT-A,5,0.012352,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-134,8,SN-001980,1980,21403,ROT-B,5,0.012336,families AF-A/ROT-B (score +0.009)
+2025-04-24,AC-137,2,SN-002277,2277,10887,ROT-B,5,0.012267,"families AF-B/ROT-B (score +0.010) | temperature=64.1 C, 3-reading mean=62.1 (score +0.003)"
+2025-04-24,AC-047,4,SN-002254,2254,9158,ROT-A,5,0.012253,families AF-B/ROT-A (score +0.011) | 4 cycles today (score +0.001)
+2025-04-24,AC-087,5,SN-001643,1643,20417,ROT-C,5,0.012250,"vibration=2.04 mm/s, 3-reading mean=1.98 (score +0.006) | temperature=63.1 C, 3-reading mean=62.0 (score +0.002)"
+2025-04-24,AC-127,8,SN-001024,1024,20555,ROT-A,5,0.012231,"families AF-B/ROT-A (score +0.011) | install age=1540 cycles, since service=265 (score +0.003)"
+2025-04-24,AC-022,4,SN-002307,2307,22490,ROT-C,5,0.012206,"vibration=2.25 mm/s, 3-reading mean=1.99 (score +0.008) | temperature=62.1 C, 3-reading mean=62.2 (score +0.002)"
+2025-04-24,AC-076,1,SN-000609,609,10575,ROT-C,5,0.012187,"temperature=62.5 C, 3-reading mean=64.4 (score +0.005) | vibration=1.90 mm/s, 3-reading mean=1.93 (score +0.004)"
+2025-04-24,AC-151,6,SN-002577,2577,12765,ROT-B,5,0.012177,families AF-B/ROT-B (score +0.009)
+2025-04-24,AC-120,7,SN-002116,2116,7762,ROT-B,5,0.012176,"families AF-A/ROT-B (score +0.009) | vibration=1.75 mm/s, 3-reading mean=2.00 (score +0.003)"
+2025-04-24,AC-078,3,SN-002028,2028,19334,ROT-A,5,0.012154,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-115,1,SN-002480,2480,9791,ROT-C,5,0.012108,"temperature=65.1 C, 3-reading mean=65.3 (score +0.007) | vibration=1.95 mm/s, 3-reading mean=1.92 (score +0.004)"
+2025-04-24,AC-027,8,SN-001473,1473,10303,ROT-C,5,0.012078,"fault=VIB, 1 flagged reports in last 5 (score +0.006) | install age=1085 cycles, since service=37 (score +0.002)"
+2025-04-24,AC-023,3,SN-000187,187,23036,ROT-C,5,0.012072,"install age=1386 cycles, since service=10 (score +0.003) | vibration=1.87 mm/s, 3-reading mean=1.92 (score +0.003)"
+2025-04-24,AC-141,6,SN-002493,2493,7685,ROT-A,5,0.012022,families AF-B/ROT-A (score +0.011)
+2025-04-24,AC-147,6,SN-001182,1182,8731,ROT-A,5,0.012020,"families AF-B/ROT-A (score +0.011) | install age=1973 cycles, since service=882 (score +0.002)"
+2025-04-24,AC-050,8,SN-002517,2517,18458,ROT-B,5,0.012009,families AF-A/ROT-B (score +0.009)
+2025-04-24,AC-091,3,SN-002511,2511,10452,ROT-B,5,0.011991,"families AF-B/ROT-B (score +0.009) | temperature=64.6 C, 3-reading mean=62.3 (score +0.004)"
+2025-04-24,AC-005,6,SN-002336,2336,17694,ROT-C,5,0.011961,"vibration=missing mm/s, 3-reading mean=1.80 (score +0.005) | temperature=62.9 C, 3-reading mean=63.6 (score +0.004)"
+2025-04-24,AC-111,6,SN-000894,894,10549,ROT-A,5,0.011945,"families AF-B/ROT-A (score +0.011) | install age=2032 cycles, since service=113 (score +0.005)"
+2025-04-24,AC-136,2,SN-001838,1838,18266,ROT-A,5,0.011935,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-133,1,SN-001371,1371,19200,ROT-C,5,0.011928,"temperature=64.4 C, 3-reading mean=63.1 (score +0.004) | vibration=1.78 mm/s, 3-reading mean=2.00 (score +0.003)"
+2025-04-24,AC-137,5,SN-002383,2383,10887,ROT-B,5,0.011890,"families AF-B/ROT-B (score +0.009) | fault=NONE, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-025,6,SN-001381,1381,6739,ROT-B,5,0.011872,"families AF-B/ROT-B (score +0.009) | install age=1161 cycles, since service=200 (score +0.002)"
+2025-04-24,AC-149,3,SN-001195,1195,11158,ROT-C,5,0.011867,"install age=1955 cycles, since service=24 (score +0.005) | temperature=63.9 C, 3-reading mean=63.8 (score +0.005)"
+2025-04-24,AC-106,5,SN-002526,2526,6906,ROT-A,5,0.011837,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-093,5,SN-000749,749,15574,ROT-C,5,0.011816,"vibration=1.97 mm/s, 3-reading mean=1.97 (score +0.005) | install age=1662 cycles, since service=161 (score +0.004)"
+2025-04-24,AC-024,7,SN-001483,1483,15366,ROT-B,5,0.011686,"families AF-A/ROT-B (score +0.009) | temperature=61.6 C, 3-reading mean=62.7 (score +0.002)"
+2025-04-24,AC-008,4,SN-001858,1858,14118,ROT-A,5,0.011678,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-081,5,SN-002144,2144,8712,ROT-C,5,0.011635,"vibration=1.90 mm/s, 3-reading mean=2.00 (score +0.005) | temperature=62.6 C, 3-reading mean=63.5 (score +0.004)"
+2025-04-24,AC-003,3,SN-001835,1835,16724,ROT-A,5,0.011633,families AF-B/ROT-A (score +0.011)
+2025-04-24,AC-061,5,SN-002282,2282,14069,ROT-A,5,0.011621,families AF-B/ROT-A (score +0.011)
+2025-04-24,AC-010,7,SN-001919,1919,11342,ROT-C,5,0.011566,"temperature=63.2 C, 3-reading mean=64.2 (score +0.005) | vibration=1.96 mm/s, 3-reading mean=1.90 (score +0.004)"
+2025-04-24,AC-083,3,SN-002177,2177,22224,ROT-C,5,0.011555,"temperature=missing C, 3-reading mean=66.7 (score +0.005) | vibration=1.99 mm/s, 3-reading mean=1.89 (score +0.004)"
+2025-04-24,AC-024,3,SN-002091,2091,15366,ROT-A,5,0.011544,families AF-A/ROT-A (score +0.011)
+2025-04-24,AC-130,5,SN-002107,2107,7262,ROT-A,5,0.011532,families AF-A/ROT-A (score +0.011) | 4 cycles today (score +0.001)
+2025-04-24,AC-023,1,SN-000185,185,23036,ROT-A,5,0.011513,"families AF-B/ROT-A (score +0.011) | install age=1969 cycles, since service=136 (score +0.004)"
+2025-04-24,AC-038,2,SN-000306,306,19005,ROT-B,5,0.011507,"families AF-A/ROT-B (score +0.009) | fault=NONE, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-110,3,SN-001509,1509,15944,ROT-C,5,0.011461,"temperature=62.7 C, 3-reading mean=63.3 (score +0.003) | vibration=1.76 mm/s, 3-reading mean=2.02 (score +0.003)"
+2025-04-24,AC-003,8,SN-001367,1367,16724,ROT-C,5,0.011379,"temperature=65.6 C, 3-reading mean=62.0 (score +0.004) | install age=1231 cycles, since service=27 (score +0.003)"
+2025-04-24,AC-029,4,SN-002236,2236,22812,ROT-A,5,0.011364,families AF-B/ROT-A (score +0.010)
+2025-04-24,AC-039,1,SN-001890,1890,21994,ROT-B,5,0.011325,families AF-B/ROT-B (score +0.009)
+2025-04-24,AC-015,3,SN-002477,2477,22250,ROT-A,5,0.011160,"families AF-B/ROT-A (score +0.010) | fault=UNKNOWN, 0 flagged reports in last 5 (score +0.001)"
+2025-04-24,AC-082,3,SN-002210,2210,12608,ROT-B,5,0.011159,"families AF-A/ROT-B (score +0.009) | fault=UNKNOWN, 0 flagged reports in last 5 (score +0.001)"
+2025-04-24,AC-138,4,SN-001421,1421,12395,ROT-B,5,0.011139,"families AF-A/ROT-B (score +0.008) | install age=1123 cycles, since service=208 (score +0.002)"
+2025-04-24,AC-040,5,SN-001914,1914,21952,ROT-A,5,0.011095,"families AF-A/ROT-A (score +0.010) | fault=NONE, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-152,4,SN-002293,2293,15109,ROT-A,5,0.011070,families AF-A/ROT-A (score +0.010) | 4 cycles today (score +0.001)
+2025-04-24,AC-008,6,SN-000070,70,14118,ROT-C,5,0.011055,"temperature=65.9 C, 3-reading mean=65.4 (score +0.006) | install age=1562 cycles, since service=225 (score +0.003)"
+2025-04-24,AC-094,1,SN-001562,1562,21959,ROT-C,5,0.011028,"vibration=1.97 mm/s, 3-reading mean=2.07 (score +0.006) | temperature=60.7 C, 3-reading mean=62.3 (score +0.001)"
+2025-04-24,AC-056,6,SN-001889,1889,12667,ROT-C,5,0.011028,"vibration=2.06 mm/s, 3-reading mean=1.92 (score +0.005) | temperature=62.5 C, 3-reading mean=63.5 (score +0.003)"
+2025-04-24,AC-086,6,SN-000694,694,7323,ROT-C,5,0.011028,"temperature=63.7 C, 3-reading mean=62.9 (score +0.003) | install age=1515 cycles, since service=350 (score +0.002)"
+2025-04-24,AC-048,7,SN-002062,2062,17224,ROT-B,5,0.011019,"families AF-A/ROT-B (score +0.008) | temperature=63.4 C, 3-reading mean=61.8 (score +0.002)"
+2025-04-24,AC-043,1,SN-000345,345,8526,ROT-C,5,0.011009,"temperature=65.1 C, 3-reading mean=64.1 (score +0.005) | install age=1933 cycles, since service=209 (score +0.004)"
+2025-04-24,AC-157,4,SN-001260,1260,14930,ROT-C,5,0.010979,"vibration=1.97 mm/s, 3-reading mean=1.92 (score +0.004) | install age=1532 cycles, since service=163 (score +0.003)"
+2025-04-24,AC-067,7,SN-001657,1657,22595,ROT-C,5,0.010974,"vibration=1.87 mm/s, 3-reading mean=2.00 (score +0.004) | temperature=63.0 C, 3-reading mean=62.3 (score +0.002)"
+2025-04-24,AC-052,6,SN-002118,2118,15382,ROT-B,5,0.010966,families AF-A/ROT-B (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-002,6,SN-001797,1797,19510,ROT-C,5,0.010962,"vibration=missing mm/s, 3-reading mean=1.91 (score +0.006) | temperature=61.5 C, 3-reading mean=62.1 (score +0.001)"
+2025-04-24,AC-069,1,SN-002444,2444,14256,ROT-B,5,0.010953,"families AF-B/ROT-B (score +0.009) | vibration=2.02 mm/s, 3-reading mean=1.77 (score +0.002)"
+2025-04-24,AC-076,4,SN-001535,1535,10575,ROT-C,5,0.010950,"temperature=64.0 C, 3-reading mean=63.4 (score +0.004) | install age=1027 cycles, since service=41 (score +0.002)"
+2025-04-24,AC-054,3,SN-000435,435,11318,ROT-A,5,0.010880,"families AF-A/ROT-A (score +0.010) | install age=1353 cycles, since service=218 (score +0.002)"
+2025-04-24,AC-135,3,SN-001083,1083,18122,ROT-A,5,0.010867,"families AF-B/ROT-A (score +0.010) | install age=1752 cycles, since service=167 (score +0.004)"
+2025-04-24,AC-099,2,SN-001553,1553,17983,ROT-C,5,0.010784,"temperature=65.4 C, 3-reading mean=63.6 (score +0.005) | vibration=1.83 mm/s, 3-reading mean=1.87 (score +0.001)"
+2025-04-24,AC-087,2,SN-002461,2461,20417,ROT-C,5,0.010782,"temperature=62.2 C, 3-reading mean=64.7 (score +0.004) | fault=NONE, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-072,8,SN-002074,2074,8675,ROT-C,5,0.010767,"vibration=2.00 mm/s, 3-reading mean=2.18 (score +0.007)"
+2025-04-24,AC-057,5,SN-002622,2622,10543,ROT-C,5,0.010734,"vibration=1.86 mm/s, 3-reading mean=2.01 (score +0.004) | temperature=63.1 C, 3-reading mean=63.4 (score +0.004)"
+2025-04-24,AC-100,2,SN-002186,2186,22341,ROT-A,5,0.010715,families AF-A/ROT-A (score +0.010) | 4 cycles today (score +0.001)
+2025-04-24,AC-098,7,SN-002463,2463,10014,ROT-A,5,0.010688,families AF-A/ROT-A (score +0.010)
+2025-04-24,AC-120,8,SN-002450,2450,7762,ROT-C,5,0.010677,"vibration=2.08 mm/s, 3-reading mean=1.95 (score +0.005) | temperature=64.0 C, 3-reading mean=62.3 (score +0.003)"
+2025-04-24,AC-094,7,SN-002601,2601,21959,ROT-C,5,0.010660,"temperature=65.0 C, 3-reading mean=64.0 (score +0.005) | vibration=1.87 mm/s, 3-reading mean=1.95 (score +0.003)"
+2025-04-24,AC-048,3,SN-001485,1485,17224,ROT-A,5,0.010643,"families AF-A/ROT-A (score +0.010) | install age=1048 cycles, since service=53 (score +0.002)"
+2025-04-24,AC-110,1,SN-000881,881,15944,ROT-A,5,0.010636,"families AF-A/ROT-A (score +0.010) | install age=1402 cycles, since service=73 (score +0.003)"
+2025-04-24,AC-136,5,SN-001093,1093,18266,ROT-A,5,0.010581,"families AF-A/ROT-A (score +0.010) | install age=1589 cycles, since service=5 (score +0.004)"
+2025-04-24,AC-111,8,SN-000896,896,10549,ROT-C,5,0.010544,"temperature=62.8 C, 3-reading mean=62.8 (score +0.003) | install age=1494 cycles, since service=193 (score +0.003)"
+2025-04-24,AC-120,3,SN-001620,1620,7762,ROT-A,5,0.010532,families AF-A/ROT-A (score +0.010)
+2025-04-24,AC-111,1,SN-001997,1997,10549,ROT-B,5,0.010493,families AF-B/ROT-B (score +0.008)
+2025-04-24,AC-000,2,SN-002533,2533,21202,ROT-C,5,0.010478,"vibration=missing mm/s, 3-reading mean=2.12 (score +0.008)"
+2025-04-24,AC-086,3,SN-001882,1882,7323,ROT-C,5,0.010461,"temperature=64.3 C, 3-reading mean=64.4 (score +0.005) | vibration=1.97 mm/s, 3-reading mean=1.80 (score +0.002)"
+2025-04-24,AC-093,6,SN-000750,750,15574,ROT-A,5,0.010422,"families AF-B/ROT-A (score +0.010) | install age=1833 cycles, since service=78 (score +0.004)"
+2025-04-24,AC-044,4,SN-002440,2440,13133,ROT-A,5,0.010394,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-004,8,SN-001905,1905,13226,ROT-A,5,0.010373,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-126,6,SN-002136,2136,14744,ROT-A,5,0.010349,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-122,5,SN-002584,2584,14161,ROT-B,5,0.010326,families AF-A/ROT-B (score +0.008)
+2025-04-24,AC-004,3,SN-000035,35,13226,ROT-B,5,0.010305,"families AF-A/ROT-B (score +0.008) | install age=2036 cycles, since service=150 (score +0.004)"
+2025-04-24,AC-127,4,SN-002627,2627,20555,ROT-C,3,0.010272,"vibration=2.16 mm/s, 3-reading mean=2.20 (score +0.008) | families AF-B/ROT-C (score +0.001)"
+2025-04-24,AC-137,1,SN-002229,2229,10887,ROT-A,5,0.010213,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-055,6,SN-000446,446,9134,ROT-B,5,0.010203,"families AF-B/ROT-B (score +0.008) | temperature=62.8 C, 3-reading mean=61.1 (score +0.001)"
+2025-04-24,AC-062,2,SN-002283,2283,22467,ROT-B,5,0.010177,families AF-A/ROT-B (score +0.008)
+2025-04-24,AC-128,4,SN-002023,2023,13220,ROT-A,5,0.010123,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-019,8,SN-001531,1531,18551,ROT-A,5,0.010056,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-133,6,SN-002451,2451,19200,ROT-B,5,0.010011,families AF-B/ROT-B (score +0.008)
+2025-04-24,AC-157,1,SN-002610,2610,14930,ROT-C,5,0.009990,"vibration=2.19 mm/s, 3-reading mean=1.85 (score +0.005) | temperature=62.6 C, 3-reading mean=63.5 (score +0.003)"
+2025-04-24,AC-025,4,SN-001501,1501,6739,ROT-C,5,0.009989,"vibration=2.04 mm/s, 3-reading mean=2.00 (score +0.005) | temperature=61.6 C, 3-reading mean=62.3 (score +0.001)"
+2025-04-24,AC-152,1,SN-001831,1831,15109,ROT-A,5,0.009988,families AF-A/ROT-A (score +0.009) | 4 cycles today (score +0.001)
+2025-04-24,AC-047,5,SN-002368,2368,9158,ROT-B,5,0.009978,families AF-B/ROT-B (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-095,4,SN-002363,2363,22654,ROT-A,5,0.009971,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-051,3,SN-002394,2394,10272,ROT-A,5,0.009958,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-057,7,SN-001719,1719,10543,ROT-B,5,0.009926,families AF-B/ROT-B (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-020,1,SN-002147,2147,15528,ROT-A,5,0.009890,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-121,2,SN-001834,1834,7482,ROT-A,5,0.009885,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-137,3,SN-001634,1634,10887,ROT-C,5,0.009791,"vibration=2.21 mm/s, 3-reading mean=1.88 (score +0.005) | temperature=64.1 C, 3-reading mean=61.9 (score +0.002)"
+2025-04-24,AC-070,4,SN-002491,2491,19957,ROT-C,5,0.009771,"vibration=2.30 mm/s, 3-reading mean=1.82 (score +0.005) | temperature=63.0 C, 3-reading mean=62.0 (score +0.002)"
+2025-04-24,AC-153,7,SN-001880,1880,14205,ROT-B,5,0.009720,families AF-B/ROT-B (score +0.008)
+2025-04-24,AC-053,7,SN-002565,2565,15563,ROT-A,5,0.009681,families AF-B/ROT-A (score +0.009)
+2025-04-24,AC-021,3,SN-002138,2138,11601,ROT-A,5,0.009600,families AF-B/ROT-A (score +0.009) | 4 cycles today (score +0.001)
+2025-04-24,AC-057,2,SN-001752,1752,10543,ROT-C,5,0.009567,"vibration=1.86 mm/s, 3-reading mean=2.03 (score +0.004) | temperature=63.1 C, 3-reading mean=61.8 (score +0.002)"
+2025-04-24,AC-103,1,SN-000825,825,21984,ROT-C,5,0.009544,"vibration=1.73 mm/s, 3-reading mean=2.05 (score +0.003) | install age=1411 cycles, since service=31 (score +0.003)"
+2025-04-24,AC-049,8,SN-002586,2586,18770,ROT-A,5,0.009543,"families AF-B/ROT-A (score +0.009) | fault=NONE, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-058,1,SN-002112,2112,22339,ROT-C,5,0.009499,"vibration=1.78 mm/s, 3-reading mean=2.04 (score +0.003) | temperature=64.3 C, 3-reading mean=62.1 (score +0.003)"
+2025-04-24,AC-052,1,SN-001499,1499,15382,ROT-C,5,0.009397,"vibration=1.85 mm/s, 3-reading mean=2.05 (score +0.004) | 4 cycles today (score +0.001)"
+2025-04-24,AC-061,7,SN-002317,2317,14069,ROT-C,5,0.009357,"temperature=65.5 C, 3-reading mean=64.1 (score +0.005) | vibration=1.98 mm/s, 3-reading mean=1.84 (score +0.002)"
+2025-04-24,AC-029,5,SN-001382,1382,22812,ROT-B,5,0.009346,"families AF-B/ROT-B (score +0.007) | install age=1168 cycles, since service=369 (score +0.001)"
+2025-04-24,AC-068,4,SN-001945,1945,10877,ROT-A,5,0.009328,families AF-A/ROT-A (score +0.009)
+2025-04-24,AC-153,4,SN-001228,1228,14205,ROT-B,5,0.009205,"families AF-B/ROT-B (score +0.007) | temperature=60.8 C, 3-reading mean=62.9 (score +0.001)"
+2025-04-24,AC-116,1,SN-000929,929,10060,ROT-A,5,0.009180,"families AF-A/ROT-A (score +0.008) | install age=1400 cycles, since service=314 (score +0.002)"
+2025-04-24,AC-055,2,SN-002441,2441,9134,ROT-A,5,0.009153,families AF-B/ROT-A (score +0.008)
+2025-04-24,AC-041,6,SN-000334,334,10827,ROT-C,5,0.009152,"install age=1488 cycles, since service=18 (score +0.003) | temperature=missing C, 3-reading mean=63.9 (score +0.002)"
+2025-04-24,AC-064,5,SN-002529,2529,19793,ROT-A,5,0.009101,"families AF-A/ROT-A (score +0.008) | fault=NONE, 1 flagged reports in last 5 (score +0.003)"
+2025-04-24,AC-146,5,SN-002291,2291,16335,ROT-B,5,0.009091,"families AF-A/ROT-B (score +0.007) | fault=UNKNOWN, 1 flagged reports in last 5 (score +0.004)"
+2025-04-24,AC-106,7,SN-000855,855,6906,ROT-C,5,0.009050,"install age=1869 cycles, since service=108 (score +0.003) | temperature=60.8 C, 3-reading mean=63.9 (score +0.002)"
+2025-04-24,AC-099,3,SN-000795,795,17983,ROT-A,5,0.009040,"families AF-B/ROT-A (score +0.008) | install age=2189 cycles, since service=154 (score +0.004)"
+2025-04-24,AC-060,7,SN-001786,1786,20032,ROT-B,5,0.009040,"families AF-A/ROT-B (score +0.007) | install age=728 cycles, since service=0 (score +0.001)"
+2025-04-24,AC-018,3,SN-002544,2544,8112,ROT-A,5,0.009026,families AF-A/ROT-A (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-152,7,SN-001742,1742,15109,ROT-A,5,0.008949,families AF-A/ROT-A (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-032,7,SN-002319,2319,21050,ROT-A,5,0.008877,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-052,5,SN-000421,421,15382,ROT-A,5,0.008856,"families AF-A/ROT-A (score +0.008) | install age=1518 cycles, since service=36 (score +0.003)"
+2025-04-24,AC-104,5,SN-002379,2379,9915,ROT-B,5,0.008757,families AF-A/ROT-B (score +0.007)
+2025-04-24,AC-074,7,SN-002382,2382,8560,ROT-A,5,0.008745,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-109,2,SN-001309,1309,11457,ROT-A,5,0.008741,"families AF-B/ROT-A (score +0.008) | install age=1278 cycles, since service=107 (score +0.002)"
+2025-04-24,AC-020,4,SN-002555,2555,15528,ROT-A,5,0.008736,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-049,1,SN-001478,1478,18770,ROT-C,5,0.008698,"temperature=62.9 C, 3-reading mean=63.7 (score +0.003) | vibration=1.82 mm/s, 3-reading mean=1.95 (score +0.002)"
+2025-04-24,AC-153,2,SN-001226,1226,14205,ROT-C,5,0.008697,"install age=2270 cycles, since service=231 (score +0.004) | temperature=62.1 C, 3-reading mean=63.5 (score +0.002)"
+2025-04-24,AC-050,7,SN-002502,2502,18458,ROT-A,5,0.008666,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-126,2,SN-002070,2070,14744,ROT-C,5,0.008644,"temperature=66.3 C, 3-reading mean=64.5 (score +0.005)"
+2025-04-24,AC-081,7,SN-002552,2552,8712,ROT-B,5,0.008629,families AF-B/ROT-B (score +0.007) | 4 cycles today (score +0.001)
+2025-04-24,AC-060,6,SN-002391,2391,20032,ROT-A,5,0.008594,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-068,5,SN-002200,2200,10877,ROT-B,5,0.008547,families AF-A/ROT-B (score +0.007)
+2025-04-24,AC-118,7,SN-002179,2179,13971,ROT-C,5,0.008544,"vibration=missing mm/s, 3-reading mean=1.86 (score +0.004) | temperature=missing C, 3-reading mean=62.5 (score +0.001)"
+2025-04-24,AC-074,1,SN-001885,1885,8560,ROT-A,5,0.008543,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-070,5,SN-002249,2249,19957,ROT-A,5,0.008534,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-138,6,SN-002458,2458,12395,ROT-A,5,0.008476,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-029,8,SN-001527,1527,22812,ROT-B,5,0.008476,"families AF-B/ROT-B (score +0.007) | install age=996 cycles, since service=68 (score +0.001)"
+2025-04-24,AC-097,5,SN-002287,2287,6429,ROT-A,5,0.008435,families AF-B/ROT-A (score +0.008)
+2025-04-24,AC-159,2,SN-002196,2196,20556,ROT-C,5,0.008429,"vibration=2.02 mm/s, 3-reading mean=1.88 (score +0.003) | temperature=62.0 C, 3-reading mean=63.2 (score +0.002)"
+2025-04-24,AC-021,4,SN-001331,1331,11601,ROT-B,5,0.008406,"families AF-B/ROT-B (score +0.007) | temperature=62.9 C, 3-reading mean=63.2 (score +0.002)"
+2025-04-24,AC-105,5,SN-000845,845,22077,ROT-C,5,0.008382,"install age=1684 cycles, since service=472 (score +0.002) | vibration=1.91 mm/s, 3-reading mean=1.85 (score +0.001)"
+2025-04-24,AC-008,3,SN-001748,1748,14118,ROT-C,5,0.008371,"temperature=63.4 C, 3-reading mean=63.3 (score +0.003) | vibration=1.78 mm/s, 3-reading mean=2.00 (score +0.002)"
+2025-04-24,AC-113,7,SN-001491,1491,12078,ROT-A,5,0.008352,"families AF-B/ROT-A (score +0.008) | install age=1039 cycles, since service=177 (score +0.001)"
+2025-04-24,AC-051,8,SN-002158,2158,10272,ROT-C,5,0.008350,"temperature=66.4 C, 3-reading mean=63.6 (score +0.004)"
+2025-04-24,AC-048,8,SN-001492,1492,17224,ROT-C,5,0.008337,"vibration=2.02 mm/s, 3-reading mean=1.87 (score +0.003) | temperature=61.5 C, 3-reading mean=62.6 (score +0.001)"
+2025-04-24,AC-090,8,SN-002286,2286,10885,ROT-C,5,0.008314,"vibration=1.82 mm/s, 3-reading mean=2.04 (score +0.003) | temperature=missing C, 3-reading mean=62.7 (score +0.001)"
+2025-04-24,AC-000,3,SN-002097,2097,21202,ROT-A,5,0.008311,families AF-A/ROT-A (score +0.008)
+2025-04-24,AC-076,8,SN-002327,2327,10575,ROT-A,5,0.008254,families AF-A/ROT-A (score +0.008) | 4 cycles today (score +0.001)
+2025-04-24,AC-095,2,SN-002178,2178,22654,ROT-B,5,0.008174,families AF-B/ROT-B (score +0.006)
+2025-04-24,AC-061,1,SN-001956,1956,14069,ROT-C,5,0.008164,"vibration=1.99 mm/s, 3-reading mean=2.00 (score +0.004) | temperature=63.1 C, 3-reading mean=61.5 (score +0.001)"
+2025-04-24,AC-080,6,SN-001711,1711,12252,ROT-C,5,0.008154,"temperature=62.9 C, 3-reading mean=62.9 (score +0.002) | vibration=2.12 mm/s, 3-reading mean=1.74 (score +0.002)"
+2025-04-24,AC-095,7,SN-002013,2013,22654,ROT-A,5,0.008147,families AF-B/ROT-A (score +0.007)
+2025-04-24,AC-113,1,SN-001514,1514,12078,ROT-A,5,0.008147,"families AF-B/ROT-A (score +0.007) | install age=1006 cycles, since service=106 (score +0.001)"
+2025-04-24,AC-042,3,SN-001480,1480,10630,ROT-A,5,0.008142,"families AF-A/ROT-A (score +0.007) | install age=1092 cycles, since service=133 (score +0.001)"
+2025-04-24,AC-038,6,SN-001352,1352,19005,ROT-C,5,0.008136,"vibration=1.83 mm/s, 3-reading mean=1.99 (score +0.003) | temperature=63.2 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-082,1,SN-001938,1938,12608,ROT-C,5,0.008125,"vibration=1.66 mm/s, 3-reading mean=2.22 (score +0.004)"
+2025-04-24,AC-095,3,SN-002462,2462,22654,ROT-C,5,0.008081,"temperature=63.1 C, 3-reading mean=63.0 (score +0.002) | vibration=1.79 mm/s, 3-reading mean=2.00 (score +0.002)"
+2025-04-24,AC-004,7,SN-001868,1868,13226,ROT-C,5,0.008076,"vibration=1.98 mm/s, 3-reading mean=1.89 (score +0.003) | temperature=63.8 C, 3-reading mean=62.0 (score +0.002)"
+2025-04-24,AC-126,4,SN-002617,2617,14744,ROT-B,5,0.008030,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-032,8,SN-001953,1953,21050,ROT-B,5,0.008018,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-132,8,SN-002246,2246,12396,ROT-C,5,0.008005,"vibration=2.03 mm/s, 3-reading mean=1.97 (score +0.004) | temperature=63.4 C, 3-reading mean=61.5 (score +0.001)"
+2025-04-24,AC-036,1,SN-002467,2467,10364,ROT-B,5,0.007991,"families AF-A/ROT-B (score +0.006) | fault=NONE, 1 flagged reports in last 5 (score +0.003)"
+2025-04-24,AC-144,3,SN-001932,1932,12737,ROT-A,5,0.007977,families AF-A/ROT-A (score +0.007) | 4 cycles today (score +0.001)
+2025-04-24,AC-038,1,SN-000305,305,19005,ROT-A,5,0.007967,"families AF-A/ROT-A (score +0.007) | install age=1357 cycles, since service=388 (score +0.001)"
+2025-04-24,AC-111,3,SN-002354,2354,10549,ROT-A,5,0.007918,families AF-B/ROT-A (score +0.007)
+2025-04-24,AC-094,5,SN-001895,1895,21959,ROT-A,5,0.007900,"families AF-A/ROT-A (score +0.007) | fault=NONE, 1 flagged reports in last 5 (score +0.003)"
+2025-04-24,AC-099,4,SN-001517,1517,17983,ROT-B,5,0.007899,"families AF-B/ROT-B (score +0.006) | install age=1004 cycles, since service=159 (score +0.001)"
+2025-04-24,AC-105,8,SN-000848,848,22077,ROT-C,5,0.007883,"install age=1744 cycles, since service=181 (score +0.003)"
+2025-04-24,AC-120,5,SN-002411,2411,7762,ROT-C,5,0.007839,"temperature=64.6 C, 3-reading mean=64.3 (score +0.004) | vibration=1.82 mm/s, 3-reading mean=1.88 (score +0.001)"
+2025-04-24,AC-030,4,SN-001685,1685,18400,ROT-B,5,0.007825,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-067,5,SN-001746,1746,22595,ROT-A,5,0.007788,families AF-B/ROT-A (score +0.007)
+2025-04-24,AC-052,7,SN-002231,2231,15382,ROT-C,5,0.007726,"temperature=62.6 C, 3-reading mean=63.0 (score +0.002) | vibration=1.97 mm/s, 3-reading mean=1.80 (score +0.001)"
+2025-04-24,AC-031,5,SN-002348,2348,14863,ROT-A,5,0.007725,"families AF-B/ROT-A (score +0.007) | fault=NONE, 1 flagged reports in last 5 (score +0.003)"
+2025-04-24,AC-048,5,SN-002486,2486,17224,ROT-C,5,0.007693,"vibration=2.02 mm/s, 3-reading mean=2.11 (score +0.005)"
+2025-04-24,AC-068,1,SN-001916,1916,10877,ROT-A,5,0.007677,families AF-A/ROT-A (score +0.007)
+2025-04-24,AC-077,5,SN-002370,2370,23287,ROT-B,5,0.007668,families AF-B/ROT-B (score +0.006)
+2025-04-24,AC-103,5,SN-000829,829,21984,ROT-A,5,0.007661,"families AF-B/ROT-A (score +0.007) | install age=1806 cycles, since service=283 (score +0.002)"
+2025-04-24,AC-077,2,SN-001717,1717,23287,ROT-B,5,0.007624,"families AF-B/ROT-B (score +0.006) | fault=NONE, 1 flagged reports in last 5 (score +0.003)"
+2025-04-24,AC-069,5,SN-000557,557,14256,ROT-C,5,0.007607,"install age=1793 cycles, since service=219 (score +0.002) | fault=UNKNOWN, 0 flagged reports in last 5 (score +0.001)"
+2025-04-24,AC-140,4,SN-001124,1124,12946,ROT-A,5,0.007573,"families AF-A/ROT-A (score +0.007) | install age=1402 cycles, since service=4 (score +0.002)"
+2025-04-24,AC-025,2,SN-001436,1436,6739,ROT-A,5,0.007479,families AF-B/ROT-A (score +0.007)
+2025-04-24,AC-080,5,SN-002340,2340,12252,ROT-B,5,0.007441,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-153,1,SN-001613,1613,14205,ROT-B,5,0.007441,families AF-B/ROT-B (score +0.006)
+2025-04-24,AC-142,7,SN-001939,1939,16742,ROT-C,5,0.007428,"temperature=62.4 C, 3-reading mean=63.0 (score +0.002) | 4 cycles today (score +0.001)"
+2025-04-24,AC-027,5,SN-000221,221,10303,ROT-C,5,0.007428,"install age=2262 cycles, since service=388 (score +0.003) | temperature=62.1 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-109,5,SN-002037,2037,11457,ROT-A,5,0.007425,families AF-B/ROT-A (score +0.007) | 4 cycles today (score +0.001)
+2025-04-24,AC-041,3,SN-002356,2356,10827,ROT-C,5,0.007406,"temperature=63.2 C, 3-reading mean=64.2 (score +0.003)"
+2025-04-24,AC-047,7,SN-002509,2509,9158,ROT-A,5,0.007385,families AF-B/ROT-A (score +0.007) | 4 cycles today (score +0.001)
+2025-04-24,AC-021,1,SN-001993,1993,11601,ROT-B,5,0.007384,families AF-B/ROT-B (score +0.006) | 4 cycles today (score +0.001)
+2025-04-24,AC-128,2,SN-002052,2052,13220,ROT-B,5,0.007369,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-004,1,SN-001678,1678,13226,ROT-C,5,0.007365,"temperature=63.9 C, 3-reading mean=64.0 (score +0.003)"
+2025-04-24,AC-085,4,SN-000684,684,13690,ROT-C,5,0.007357,"temperature=62.0 C, 3-reading mean=62.7 (score +0.001) | install age=1624 cycles, since service=540 (score +0.001)"
+2025-04-24,AC-002,2,SN-001697,1697,19510,ROT-B,5,0.007356,"families AF-A/ROT-B (score +0.006) | temperature=63.7 C, 3-reading mean=62.6 (score +0.002)"
+2025-04-24,AC-025,8,SN-001888,1888,6739,ROT-A,5,0.007329,families AF-B/ROT-A (score +0.007)
+2025-04-24,AC-020,7,SN-001836,1836,15528,ROT-A,5,0.007325,families AF-A/ROT-A (score +0.007)
+2025-04-24,AC-066,2,SN-001972,1972,16976,ROT-C,5,0.007287,"temperature=63.3 C, 3-reading mean=63.0 (score +0.002) | vibration=1.94 mm/s, 3-reading mean=1.90 (score +0.002)"
+2025-04-24,AC-068,8,SN-001958,1958,10877,ROT-B,5,0.007283,"families AF-A/ROT-B (score +0.006) | temperature=62.9 C, 3-reading mean=61.5 (score +0.001)"
+2025-04-24,AC-072,3,SN-002026,2026,8675,ROT-A,5,0.007282,families AF-A/ROT-A (score +0.007)
+2025-04-24,AC-134,2,SN-002472,2472,21403,ROT-B,5,0.007273,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-153,5,SN-001407,1407,14205,ROT-C,5,0.007219,"vibration=1.84 mm/s, 3-reading mean=1.89 (score +0.001) | temperature=61.9 C, 3-reading mean=62.4 (score +0.001)"
+2025-04-24,AC-078,6,SN-002587,2587,19334,ROT-A,5,0.007217,families AF-A/ROT-A (score +0.007)
+2025-04-24,AC-044,5,SN-001554,1554,13133,ROT-B,5,0.007214,families AF-A/ROT-B (score +0.006)
+2025-04-24,AC-116,6,SN-002433,2433,10060,ROT-C,5,0.007186,"vibration=2.04 mm/s, 3-reading mean=1.88 (score +0.003) | temperature=61.5 C, 3-reading mean=62.3 (score +0.001)"
+2025-04-24,AC-157,7,SN-001263,1263,14930,ROT-C,5,0.007141,"install age=1897 cycles, since service=239 (score +0.002) | temperature=62.4 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-119,8,SN-002375,2375,13160,ROT-B,5,0.007129,families AF-B/ROT-B (score +0.006)
+2025-04-24,AC-093,2,SN-000746,746,15574,ROT-C,5,0.007096,"temperature=61.5 C, 3-reading mean=64.2 (score +0.002) | vibration=1.70 mm/s, 3-reading mean=2.01 (score +0.001)"
+2025-04-24,AC-072,1,SN-002503,2503,8675,ROT-B,5,0.007069,families AF-A/ROT-B (score +0.005)
+2025-04-24,AC-018,8,SN-001942,1942,8112,ROT-C,5,0.007055,"temperature=61.1 C, 3-reading mean=63.8 (score +0.002) | vibration=1.85 mm/s, 3-reading mean=1.89 (score +0.001)"
+2025-04-24,AC-133,7,SN-002224,2224,19200,ROT-C,5,0.007051,"vibration=1.86 mm/s, 3-reading mean=2.02 (score +0.003)"
+2025-04-24,AC-158,3,SN-001267,1267,9811,ROT-C,5,0.007041,"install age=1687 cycles, since service=62 (score +0.002) | temperature=61.3 C, 3-reading mean=62.5 (score +0.001)"
+2025-04-24,AC-023,2,SN-002017,2017,23036,ROT-B,5,0.007033,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-007,5,SN-002137,2137,10619,ROT-A,5,0.007025,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-038,4,SN-002197,2197,19005,ROT-A,5,0.006976,families AF-A/ROT-A (score +0.006)
+2025-04-24,AC-045,6,SN-002018,2018,14248,ROT-A,5,0.006957,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-128,8,SN-001032,1032,13220,ROT-B,5,0.006942,"families AF-A/ROT-B (score +0.005) | install age=1781 cycles, since service=203 (score +0.002)"
+2025-04-24,AC-153,3,SN-002484,2484,14205,ROT-A,5,0.006941,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-157,8,SN-001264,1264,14930,ROT-A,5,0.006890,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-136,1,SN-001353,1353,18266,ROT-C,5,0.006866,"vibration=2.01 mm/s, 3-reading mean=1.84 (score +0.002) | temperature=60.9 C, 3-reading mean=63.0 (score +0.001)"
+2025-04-24,AC-005,2,SN-002626,2626,17694,ROT-B,3,0.006835,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-094,8,SN-000760,760,21959,ROT-A,5,0.006833,"families AF-A/ROT-A (score +0.006) | install age=1917 cycles, since service=389 (score +0.002)"
+2025-04-24,AC-031,2,SN-002238,2238,14863,ROT-A,5,0.006733,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-084,8,SN-001663,1663,17846,ROT-C,5,0.006723,"temperature=62.6 C, 3-reading mean=61.9 (score +0.001) | install age=852 cycles, since service=44 (score +0.001)"
+2025-04-24,AC-132,7,SN-002310,2310,12396,ROT-B,5,0.006721,families AF-A/ROT-B (score +0.005)
+2025-04-24,AC-072,2,SN-001842,1842,8675,ROT-C,5,0.006611,"vibration=1.88 mm/s, 3-reading mean=1.99 (score +0.002)"
+2025-04-24,AC-080,1,SN-001297,1297,12252,ROT-A,5,0.006592,"families AF-A/ROT-A (score +0.006) | install age=1268 cycles, since service=124 (score +0.001)"
+2025-04-24,AC-053,6,SN-001805,1805,15563,ROT-C,5,0.006589,"vibration=2.01 mm/s, 3-reading mean=2.08 (score +0.004)"
+2025-04-24,AC-030,8,SN-002612,2612,18400,ROT-C,5,0.006557,"temperature=63.4 C, 3-reading mean=62.6 (score +0.002) | fault=UNKNOWN, 0 flagged reports in last 5 (score +0.001)"
+2025-04-24,AC-033,4,SN-001600,1600,11992,ROT-B,5,0.006461,"families AF-B/ROT-B (score +0.005) | install age=925 cycles, since service=98 (score +0.001)"
+2025-04-24,AC-030,6,SN-002407,2407,18400,ROT-A,5,0.006451,families AF-A/ROT-A (score +0.006)
+2025-04-24,AC-033,2,SN-001670,1670,11992,ROT-C,5,0.006438,"temperature=64.1 C, 3-reading mean=63.4 (score +0.002)"
+2025-04-24,AC-048,6,SN-002478,2478,17224,ROT-A,5,0.006433,families AF-A/ROT-A (score +0.006)
+2025-04-24,AC-000,8,SN-000008,8,21202,ROT-C,5,0.006417,"vibration=1.74 mm/s, 3-reading mean=2.02 (score +0.002) | temperature=62.6 C, 3-reading mean=61.9 (score +0.001)"
+2025-04-24,AC-074,6,SN-002036,2036,8560,ROT-C,5,0.006412,"vibration=1.72 mm/s, 3-reading mean=1.97 (score +0.001) | temperature=61.2 C, 3-reading mean=62.6 (score +0.001)"
+2025-04-24,AC-060,5,SN-001731,1731,20032,ROT-C,5,0.006387,"vibration=1.98 mm/s, 3-reading mean=2.07 (score +0.003)"
+2025-04-24,AC-111,7,SN-002512,2512,10549,ROT-B,5,0.006382,"families AF-B/ROT-B (score +0.005) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-137,8,SN-002404,2404,10887,ROT-B,5,0.006377,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-084,1,SN-000673,673,17846,ROT-B,5,0.006335,"families AF-A/ROT-B (score +0.005) | install age=1426 cycles, since service=79 (score +0.002)"
+2025-04-24,AC-029,6,SN-002393,2393,22812,ROT-C,5,0.006268,"vibration=1.80 mm/s, 3-reading mean=1.98 (score +0.002) | temperature=61.3 C, 3-reading mean=62.7 (score +0.001)"
+2025-04-24,AC-127,6,SN-002228,2228,20555,ROT-B,5,0.006226,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-137,4,SN-002600,2600,10887,ROT-A,5,0.006140,families AF-B/ROT-A (score +0.006)
+2025-04-24,AC-037,2,SN-001625,1625,11058,ROT-A,5,0.006131,"families AF-B/ROT-A (score +0.006) | install age=877 cycles, since service=29 (score +0.001)"
+2025-04-24,AC-054,8,SN-002194,2194,11318,ROT-C,5,0.006105,"temperature=62.3 C, 3-reading mean=62.9 (score +0.001) | vibration=missing mm/s, 3-reading mean=1.58 (score +0.001)"
+2025-04-24,AC-136,3,SN-001830,1830,18266,ROT-B,5,0.006094,families AF-A/ROT-B (score +0.005)
+2025-04-24,AC-031,4,SN-002227,2227,14863,ROT-C,5,0.006022,"temperature=63.9 C, 3-reading mean=62.7 (score +0.002)"
+2025-04-24,AC-069,7,SN-002086,2086,14256,ROT-B,5,0.006011,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-061,6,SN-002547,2547,14069,ROT-B,5,0.005937,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-084,7,SN-002099,2099,17846,ROT-B,5,0.005921,families AF-A/ROT-B (score +0.005)
+2025-04-24,AC-039,3,SN-002221,2221,21994,ROT-A,5,0.005921,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-073,6,SN-001743,1743,18199,ROT-B,5,0.005899,families AF-B/ROT-B (score +0.005)
+2025-04-24,AC-037,8,SN-002176,2176,11058,ROT-A,5,0.005860,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-143,1,SN-001733,1733,22751,ROT-A,5,0.005843,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-085,5,SN-002423,2423,13690,ROT-A,5,0.005827,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-135,2,SN-001988,1988,18122,ROT-C,5,0.005802,"vibration=1.85 mm/s, 3-reading mean=2.08 (score +0.003)"
+2025-04-24,AC-055,7,SN-002475,2475,9134,ROT-C,5,0.005753,"temperature=64.3 C, 3-reading mean=62.4 (score +0.002)"
+2025-04-24,AC-060,4,SN-002332,2332,20032,ROT-B,5,0.005745,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-080,7,SN-002250,2250,12252,ROT-A,5,0.005743,families AF-A/ROT-A (score +0.005)
+2025-04-24,AC-090,6,SN-001849,1849,10885,ROT-A,5,0.005731,"families AF-A/ROT-A (score +0.005) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-148,6,SN-001721,1721,8017,ROT-B,5,0.005723,"families AF-A/ROT-B (score +0.004) | install age=778 cycles, since service=34 (score +0.001)"
+2025-04-24,AC-133,5,SN-001994,1994,19200,ROT-A,5,0.005700,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-017,2,SN-000138,138,7409,ROT-B,5,0.005658,"families AF-B/ROT-B (score +0.004) | install age=1782 cycles, since service=323 (score +0.002)"
+2025-04-24,AC-051,5,SN-002634,2634,10272,ROT-C,1,0.005641,"vibration=2.07 mm/s, 3-reading mean=2.07 (score +0.003) | temperature=62.9 C, 3-reading mean=62.9 (score +0.001)"
+2025-04-24,AC-080,8,SN-002597,2597,12252,ROT-B,5,0.005638,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-086,7,SN-001875,1875,7323,ROT-A,5,0.005633,families AF-A/ROT-A (score +0.005)
+2025-04-24,AC-144,2,SN-002088,2088,12737,ROT-C,5,0.005611,"vibration=1.75 mm/s, 3-reading mean=1.96 (score +0.001) | temperature=61.3 C, 3-reading mean=62.5 (score +0.001)"
+2025-04-24,AC-035,3,SN-000283,283,6981,ROT-C,5,0.005583,"install age=1395 cycles, since service=459 (score +0.001) | temperature=62.2 C, 3-reading mean=61.6 (score +0.001)"
+2025-04-24,AC-081,6,SN-002588,2588,8712,ROT-A,5,0.005565,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-101,6,SN-002424,2424,16852,ROT-C,5,0.005493,"temperature=61.1 C, 3-reading mean=62.8 (score +0.001) | vibration=1.65 mm/s, 3-reading mean=2.00 (score +0.001)"
+2025-04-24,AC-133,3,SN-001796,1796,19200,ROT-B,5,0.005463,families AF-B/ROT-B (score +0.004)
+2025-04-24,AC-092,3,SN-002365,2365,21297,ROT-C,5,0.005458,"vibration=1.78 mm/s, 3-reading mean=1.95 (score +0.001)"
+2025-04-24,AC-005,1,SN-001982,1982,17694,ROT-A,5,0.005456,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-002,1,SN-002534,2534,19510,ROT-A,5,0.005443,families AF-A/ROT-A (score +0.005)
+2025-04-24,AC-098,4,SN-001549,1549,10014,ROT-A,5,0.005439,"families AF-A/ROT-A (score +0.005) | install age=963 cycles, since service=9 (score +0.001)"
+2025-04-24,AC-142,8,SN-002163,2163,16742,ROT-A,5,0.005437,families AF-A/ROT-A (score +0.005)
+2025-04-24,AC-017,4,SN-002157,2157,7409,ROT-A,5,0.005429,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-143,7,SN-002024,2024,22751,ROT-A,5,0.005389,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-132,2,SN-002203,2203,12396,ROT-C,5,0.005367,"temperature=64.0 C, 3-reading mean=62.0 (score +0.001) | vibration=2.11 mm/s, 3-reading mean=1.69 (score +0.001)"
+2025-04-24,AC-098,6,SN-002537,2537,10014,ROT-C,5,0.005350,"vibration=1.91 mm/s, 3-reading mean=2.05 (score +0.003)"
+2025-04-24,AC-025,7,SN-001642,1642,6739,ROT-C,5,0.005349,"vibration=1.95 mm/s, 3-reading mean=1.79 (score +0.001)"
+2025-04-24,AC-010,1,SN-002373,2373,11342,ROT-C,5,0.005341,"temperature=64.3 C, 3-reading mean=65.1 (score +0.003) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-043,3,SN-001726,1726,8526,ROT-B,5,0.005324,"families AF-B/ROT-B (score +0.004) | temperature=62.0 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-146,8,SN-001176,1176,16335,ROT-B,5,0.005324,"families AF-A/ROT-B (score +0.004) | install age=1334 cycles, since service=167 (score +0.001)"
+2025-04-24,AC-060,1,SN-000481,481,20032,ROT-B,5,0.005291,"families AF-A/ROT-B (score +0.004) | install age=1685 cycles, since service=485 (score +0.001)"
+2025-04-24,AC-033,5,SN-000269,269,11992,ROT-C,5,0.005239,"install age=1445 cycles, since service=143 (score +0.001) | temperature=62.3 C, 3-reading mean=61.7 (score +0.001)"
+2025-04-24,AC-052,2,SN-002139,2139,15382,ROT-A,5,0.005234,"families AF-A/ROT-A (score +0.005) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-041,8,SN-001954,1954,10827,ROT-B,5,0.005233,families AF-B/ROT-B (score +0.004)
+2025-04-24,AC-134,5,SN-002265,2265,21403,ROT-B,5,0.005215,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-068,2,SN-000546,546,10877,ROT-B,5,0.005195,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-030,2,SN-002021,2021,18400,ROT-C,5,0.005184,"temperature=61.4 C, 3-reading mean=62.3 (score +0.001)"
+2025-04-24,AC-027,2,SN-002556,2556,10303,ROT-C,5,0.005127,"temperature=65.3 C, 3-reading mean=65.3 (score +0.003)"
+2025-04-24,AC-084,3,SN-001321,1321,17846,ROT-A,5,0.005127,"families AF-A/ROT-A (score +0.005) | install age=1270 cycles, since service=121 (score +0.001)"
+2025-04-24,AC-065,3,SN-000523,523,7918,ROT-C,5,0.005107,"install age=1585 cycles, since service=108 (score +0.002)"
+2025-04-24,AC-072,5,SN-000581,581,8675,ROT-C,5,0.005038,"install age=1475 cycles, since service=110 (score +0.001)"
+2025-04-24,AC-150,2,SN-001910,1910,6613,ROT-C,5,0.005019,"vibration=1.83 mm/s, 3-reading mean=1.91 (score +0.001)"
+2025-04-24,AC-033,7,SN-000271,271,11992,ROT-B,5,0.005009,"families AF-B/ROT-B (score +0.004) | install age=1813 cycles, since service=192 (score +0.002)"
+2025-04-24,AC-024,4,SN-002459,2459,15366,ROT-B,5,0.005005,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-068,7,SN-002350,2350,10877,ROT-A,5,0.004968,families AF-A/ROT-A (score +0.005)
+2025-04-24,AC-055,8,SN-002607,2607,9134,ROT-A,5,0.004948,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-137,7,SN-002543,2543,10887,ROT-A,5,0.004936,families AF-B/ROT-A (score +0.005)
+2025-04-24,AC-033,3,SN-001917,1917,11992,ROT-A,5,0.004818,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-140,2,SN-002071,2071,12946,ROT-B,5,0.004811,families AF-A/ROT-B (score +0.004)
+2025-04-24,AC-066,5,SN-002545,2545,16976,ROT-C,5,0.004699,"temperature=missing C, 3-reading mean=63.2 (score +0.001)"
+2025-04-24,AC-066,3,SN-001839,1839,16976,ROT-A,5,0.004659,families AF-A/ROT-A (score +0.004)
+2025-04-24,AC-095,6,SN-002275,2275,22654,ROT-C,5,0.004635,"temperature=61.1 C, 3-reading mean=63.5 (score +0.001)"
+2025-04-24,AC-040,2,SN-001545,1545,21952,ROT-A,5,0.004631,families AF-A/ROT-A (score +0.004)
+2025-04-24,AC-024,2,SN-002304,2304,15366,ROT-C,5,0.004625,"temperature=64.7 C, 3-reading mean=64.7 (score +0.002) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-132,6,SN-001062,1062,12396,ROT-A,5,0.004603,"families AF-A/ROT-A (score +0.004) | install age=1994 cycles, since service=228 (score +0.002)"
+2025-04-24,AC-136,7,SN-002488,2488,18266,ROT-C,5,0.004594,"temperature=62.3 C, 3-reading mean=62.5 (score +0.001)"
+2025-04-24,AC-025,1,SN-002629,2629,6739,ROT-C,2,0.004568,"vibration=2.13 mm/s, 3-reading mean=2.09 (score +0.003)"
+2025-04-24,AC-118,3,SN-002624,2624,13971,ROT-B,4,0.004565,"families AF-A/ROT-B (score +0.003) | temperature=62.8 C, 3-reading mean=61.8 (score +0.001)"
+2025-04-24,AC-023,8,SN-002061,2061,23036,ROT-B,5,0.004548,families AF-B/ROT-B (score +0.004)
+2025-04-24,AC-021,5,SN-001898,1898,11601,ROT-C,5,0.004528,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-024,8,SN-002252,2252,15366,ROT-C,5,0.004456,"temperature=65.6 C, 3-reading mean=65.7 (score +0.003)"
+2025-04-24,AC-080,3,SN-002510,2510,12252,ROT-C,5,0.004418,"temperature=63.8 C, 3-reading mean=64.0 (score +0.002)"
+2025-04-24,AC-066,8,SN-001841,1841,16976,ROT-C,5,0.004414,"temperature=62.2 C, 3-reading mean=63.7 (score +0.001)"
+2025-04-24,AC-103,6,SN-000830,830,21984,ROT-B,5,0.004325,"families AF-B/ROT-B (score +0.003) | install age=1613 cycles, since service=373 (score +0.001)"
+2025-04-24,AC-007,8,SN-002268,2268,10619,ROT-A,5,0.004293,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-146,3,SN-001867,1867,16335,ROT-C,5,0.004282,"fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-038,7,SN-000311,311,19005,ROT-A,5,0.004247,"families AF-A/ROT-A (score +0.004) | install age=2233 cycles, since service=25 (score +0.002)"
+2025-04-24,AC-159,8,SN-002083,2083,20556,ROT-C,5,0.004247,"vibration=1.76 mm/s, 3-reading mean=1.96 (score +0.001)"
+2025-04-24,AC-111,5,SN-002233,2233,10549,ROT-C,5,0.004161,"fault=NONE, 1 flagged reports in last 5 (score +0.002) | temperature=62.7 C, 3-reading mean=61.6 (score +0.001)"
+2025-04-24,AC-061,2,SN-001853,1853,14069,ROT-A,5,0.004158,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-143,6,SN-001724,1724,22751,ROT-C,5,0.004148,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-063,3,SN-002551,2551,6342,ROT-A,5,0.004145,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-030,3,SN-002580,2580,18400,ROT-A,5,0.004114,families AF-A/ROT-A (score +0.004)
+2025-04-24,AC-140,7,SN-001127,1127,12946,ROT-A,5,0.004106,"families AF-A/ROT-A (score +0.004) | fault=NONE, 1 flagged reports in last 5 (score +0.002)"
+2025-04-24,AC-009,1,SN-002522,2522,9580,ROT-B,5,0.004042,"families AF-B/ROT-B (score +0.003) | temperature=63.7 C, 3-reading mean=61.6 (score +0.001)"
+2025-04-24,AC-157,5,SN-001978,1978,14930,ROT-A,5,0.003996,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-132,3,SN-001059,1059,12396,ROT-A,5,0.003992,"families AF-A/ROT-A (score +0.004) | install age=1383 cycles, since service=122 (score +0.001)"
+2025-04-24,AC-094,2,SN-002334,2334,21959,ROT-A,5,0.003953,families AF-A/ROT-A (score +0.004)
+2025-04-24,AC-139,3,SN-001816,1816,10693,ROT-B,5,0.003923,families AF-B/ROT-B (score +0.003)
+2025-04-24,AC-132,4,SN-002621,2621,12396,ROT-B,5,0.003915,families AF-A/ROT-B (score +0.003)
+2025-04-24,AC-038,3,SN-001458,1458,19005,ROT-C,5,0.003880,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-155,8,SN-002592,2592,16405,ROT-B,5,0.003862,families AF-B/ROT-B (score +0.003)
+2025-04-24,AC-114,8,SN-002418,2418,10008,ROT-C,5,0.003824,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-086,5,SN-001365,1365,7323,ROT-B,5,0.003820,"families AF-A/ROT-B (score +0.003) | temperature=62.5 C, 3-reading mean=62.6 (score +0.001)"
+2025-04-24,AC-127,2,SN-001862,1862,20555,ROT-A,5,0.003812,families AF-B/ROT-A (score +0.004)
+2025-04-24,AC-059,4,SN-002566,2566,8676,ROT-A,5,0.003809,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-157,2,SN-001817,1817,14930,ROT-A,5,0.003806,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-037,5,SN-002449,2449,11058,ROT-A,5,0.003781,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-127,5,SN-002014,2014,20555,ROT-A,5,0.003755,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-049,2,SN-002557,2557,18770,ROT-A,5,0.003736,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-031,1,SN-002630,2630,14863,ROT-C,2,0.003669,"temperature=64.5 C, 3-reading mean=62.5 (score +0.001) | vibration=2.06 mm/s, 3-reading mean=1.74 (score +0.001)"
+2025-04-24,AC-078,8,SN-002300,2300,19334,ROT-C,5,0.003624,"temperature=63.7 C, 3-reading mean=63.5 (score +0.001)"
+2025-04-24,AC-045,8,SN-001920,1920,14248,ROT-C,5,0.003495,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-159,1,SN-002150,2150,20556,ROT-B,5,0.003478,families AF-B/ROT-B (score +0.003)
+2025-04-24,AC-004,6,SN-002057,2057,13226,ROT-B,5,0.003459,families AF-A/ROT-B (score +0.003)
+2025-04-24,AC-148,2,SN-001186,1186,8017,ROT-A,5,0.003451,"families AF-A/ROT-A (score +0.003) | install age=1788 cycles, since service=60 (score +0.001)"
+2025-04-24,AC-033,8,SN-001425,1425,11992,ROT-C,5,0.003422,"install age=1159 cycles, since service=126 (score +0.001)"
+2025-04-24,AC-031,7,SN-000255,255,14863,ROT-C,5,0.003411,"install age=2053 cycles, since service=403 (score +0.001)"
+2025-04-24,AC-017,3,SN-002152,2152,7409,ROT-C,5,0.003411,"temperature=62.0 C, 3-reading mean=62.6 (score +0.001)"
+2025-04-24,AC-065,4,SN-002579,2579,7918,ROT-A,5,0.003345,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-060,2,SN-000482,482,20032,ROT-C,5,0.003336,"install age=1909 cycles, since service=358 (score +0.001)"
+2025-04-24,AC-024,6,SN-002406,2406,15366,ROT-A,5,0.003307,families AF-A/ROT-A (score +0.003)
+2025-04-24,AC-044,8,SN-002408,2408,13133,ROT-B,5,0.003286,families AF-A/ROT-B (score +0.003)
+2025-04-24,AC-077,3,SN-002027,2027,23287,ROT-C,5,0.003286,"fault=NONE, 1 flagged reports in last 5 (score +0.001) | temperature=63.3 C, 3-reading mean=62.4 (score +0.001)"
+2025-04-24,AC-036,5,SN-001734,1734,10364,ROT-C,5,0.003106,"temperature=67.1 C, 3-reading mean=63.8 (score +0.002)"
+2025-04-24,AC-069,8,SN-002255,2255,14256,ROT-C,5,0.002979,"temperature=64.2 C, 3-reading mean=64.2 (score +0.001)"
+2025-04-24,AC-011,1,SN-002590,2590,12272,ROT-A,5,0.002948,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-159,5,SN-001330,1330,20556,ROT-C,5,0.002921,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-072,7,SN-002170,2170,8675,ROT-B,5,0.002919,families AF-A/ROT-B (score +0.002)
+2025-04-24,AC-116,3,SN-002636,2636,10060,ROT-C,1,0.002853,"temperature=63.4 C, 3-reading mean=63.4 (score +0.001) | vibration=1.88 mm/s, 3-reading mean=1.88 (score +0.001)"
+2025-04-24,AC-103,7,SN-002141,2141,21984,ROT-C,5,0.002777,"temperature=missing C, 3-reading mean=64.1 (score +0.001)"
+2025-04-24,AC-159,6,SN-002426,2426,20556,ROT-A,5,0.002752,families AF-B/ROT-A (score +0.003)
+2025-04-24,AC-029,1,SN-002591,2591,22812,ROT-A,5,0.002622,families AF-B/ROT-A (score +0.002)
+2025-04-24,AC-148,5,SN-002216,2216,8017,ROT-A,5,0.002534,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-146,1,SN-001169,1169,16335,ROT-A,5,0.002532,"families AF-A/ROT-A (score +0.002) | install age=1350 cycles, since service=209 (score +0.001)"
+2025-04-24,AC-103,2,SN-001520,1520,21984,ROT-A,5,0.002495,families AF-B/ROT-A (score +0.002)
+2025-04-24,AC-093,3,SN-002195,2195,15574,ROT-A,5,0.002487,families AF-B/ROT-A (score +0.002)
+2025-04-24,AC-042,6,SN-001744,1744,10630,ROT-A,5,0.002464,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-066,6,SN-000534,534,16976,ROT-A,5,0.002412,"families AF-A/ROT-A (score +0.002) | install age=2129 cycles, since service=51 (score +0.001)"
+2025-04-24,AC-044,2,SN-001906,1906,13133,ROT-B,5,0.002314,families AF-A/ROT-B (score +0.002)
+2025-04-24,AC-110,5,SN-002549,2549,15944,ROT-B,5,0.002303,families AF-A/ROT-B (score +0.002)
+2025-04-24,AC-136,8,SN-002215,2215,18266,ROT-A,5,0.002211,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-060,3,SN-002442,2442,20032,ROT-A,5,0.002198,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-140,3,SN-002628,2628,12946,ROT-C,3,0.002152,"temperature=63.1 C, 3-reading mean=64.0 (score +0.001)"
+2025-04-24,AC-072,4,SN-001763,1763,8675,ROT-B,5,0.002124,families AF-A/ROT-B (score +0.002)
+2025-04-24,AC-069,3,SN-002129,2129,14256,ROT-A,5,0.002106,families AF-B/ROT-A (score +0.002)
+2025-04-24,AC-094,4,SN-002022,2022,21959,ROT-C,5,0.002101,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-157,3,SN-002053,2053,14930,ROT-B,5,0.002043,families AF-B/ROT-B (score +0.002)
+2025-04-24,AC-134,7,SN-002594,2594,21403,ROT-A,5,0.002034,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-069,2,SN-000554,554,14256,ROT-C,5,0.002034,"temperature=62.5 C, 3-reading mean=64.2 (score +0.001)"
+2025-04-24,AC-132,5,SN-002008,2008,12396,ROT-C,5,0.001885,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-004,5,SN-002415,2415,13226,ROT-A,5,0.001850,families AF-A/ROT-A (score +0.002)
+2025-04-24,AC-159,4,SN-001732,1732,20556,ROT-B,5,0.001788,families AF-B/ROT-B (score +0.001)
+2025-04-24,AC-148,1,SN-002366,2366,8017,ROT-C,5,0.001601,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-146,4,SN-002457,2457,16335,ROT-A,5,0.001576,families AF-A/ROT-A (score +0.001)
+2025-04-24,AC-146,2,SN-001170,1170,16335,ROT-B,5,0.001237,families AF-A/ROT-B (score +0.001)
+2025-04-24,AC-004,4,SN-002625,2625,13226,ROT-C,3,0.001096,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-004,2,SN-002364,2364,13226,ROT-A,5,0.001041,families AF-A/ROT-A (score +0.001)
+2025-04-24,AC-146,6,SN-001950,1950,16335,ROT-C,5,0.000870,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-148,7,SN-002384,2384,8017,ROT-C,5,0.000858,No group raised the score by 0.0005 against its reference
+2025-04-24,AC-044,7,SN-002633,2633,13133,ROT-A,1,0.000781,families AF-A/ROT-A (score +0.001)
